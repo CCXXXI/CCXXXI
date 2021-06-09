@@ -15,6 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Shanghai
+          config_display: columns
 
           plugin_achievements: yes
           plugin_achievements_threshold: B
