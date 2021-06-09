@@ -33,3 +33,6 @@ jobs:
           plugin_notable: yes
 
           plugin_traffic: yes
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
