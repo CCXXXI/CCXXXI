@@ -37,5 +37,5 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-          plugin_topics: yes
-          plugin_topics_mode: mastered
+          plugin_anilist: yes
+          plugin_anilist_limit_characters: 0
