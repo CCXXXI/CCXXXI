@@ -9,13 +9,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+
           config_timezone: Asia/Shanghai
-          config_display: large
+          config_display: columns
 
           plugin_achievements: yes
           plugin_achievements_threshold: B
