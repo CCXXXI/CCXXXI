@@ -26,7 +26,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts: yes
 
-          plugin_isocalendar_duration: yes
+          plugin_isocalendar: yes
 
           plugin_lines: yes
 
