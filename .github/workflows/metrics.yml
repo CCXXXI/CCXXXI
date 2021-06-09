@@ -18,3 +18,4 @@ jobs:
           use_prebuilt_image: yes # Faster execution with prebuilt docker images
 
           plugin_achievements: yes
+          plugin_achievements_threshold: A
