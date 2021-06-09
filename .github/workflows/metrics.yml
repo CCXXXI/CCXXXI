@@ -31,3 +31,5 @@ jobs:
           plugin_lines: yes
 
           plugin_notable: yes
+
+          plugin_traffic: yes
