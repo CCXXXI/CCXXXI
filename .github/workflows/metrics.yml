@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           config_timezone: Asia/Shanghai
-          config_display: columns
+          config_display: large
 
           plugin_achievements: yes
           plugin_achievements_threshold: B
@@ -27,8 +27,6 @@ jobs:
           plugin_habits_charts: yes
 
           plugin_isocalendar: yes
-
-          plugin_lines: yes
 
           plugin_notable: yes
 
