@@ -29,6 +29,7 @@ jobs:
           plugin_isocalendar: yes
 
           plugin_notable: yes
+          plugin_notable_repositories: yes
 
           plugin_traffic: yes
 
