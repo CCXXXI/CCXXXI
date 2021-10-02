@@ -1,10 +1,8 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{ cron: "7 * * * *" }]
-  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: { branches: ["master", "main"] }
+  push:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,7 +12,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           config_timezone: Asia/Shanghai
-#           config_display: columns
 
           plugin_achievements: yes
           plugin_achievements_threshold: B
@@ -39,5 +36,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 0
-          
+
           plugin_lines: yes
+
+          plugin_code: yes
