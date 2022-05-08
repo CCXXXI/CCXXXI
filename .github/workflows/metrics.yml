@@ -24,6 +24,7 @@ jobs:
           plugin_habits_charts: yes
 
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           plugin_notable: yes
           plugin_notable_repositories: yes
