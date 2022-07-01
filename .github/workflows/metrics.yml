@@ -34,9 +34,9 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-          plugin_anilist: yes
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 0
+#           plugin_anilist: yes
+#           plugin_anilist_sections: characters
+#           plugin_anilist_limit_characters: 0
 
           plugin_lines: yes
 
