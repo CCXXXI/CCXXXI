@@ -18,10 +18,11 @@ jobs:
 
           plugin_activity: yes
 
+          plugin_code: yes
+
           plugin_gists: yes
 
           plugin_habits: yes
-          plugin_habits_charts: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -39,5 +40,3 @@ jobs:
           plugin_anilist_limit_characters: 0
 
           plugin_lines: yes
-
-          plugin_code: yes
