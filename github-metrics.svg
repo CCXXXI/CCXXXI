@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.26m added, 390k removed
+                                    1.45m added, 567k removed
                                 </div>
                             </section>
                             <section>
@@ -3098,7 +3098,7 @@ I'm using https://bgm.tv/ now.
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -3106,7 +3106,7 @@ I'm using https://bgm.tv/ now.
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 20 Aug 2024
+                                        Last played on 21 Aug 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -3115,32 +3115,32 @@ I'm using https://bgm.tv/ now.
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            3 / 81 achievements unlocked
+                                            5 / 81 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAKRAAAgICAQMDBAIDAAAAAAAAAQIDBAURAAYSQRMhMRQiUWEzgXGRwf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHBEBAAMAAgMAAAAAAAAAAAAAAQACERIxIUFx/9oADAMBAAIRAxEAPwDusBjGydCzcvZXLo62rCkRXGRVVJGA0B+hwiHDeqC8Vvql42XabthQQfca2d/75t0wSOlL58/U2wP7lYf94wiighr2bt+WVI45nIPquFVFPaoCg68fHknmQCE673Sz9i6rg4CyKcl1Cnf9odrxKlvK7HkfH4Ojo8jMYqTGQwXKuVyzOtqBfTltF0ZWlVSCNe/seUjr5apgp4O7Yts61YJjuSovaWVS3k6U/PwdDZ1w/qCZZOn8fJG7uktmmQznbMDKh2f3+eGGdQ23I86bMuloPW6cuVwdFrdtN/v1W4yqQLacSzHaxSl0gYfxyEkkt+SNnXjyPnfEXTmROLqWalnH5UyrcsPuOozKVaQkEHz7HhV/LRSr6kdPNVrA9lmTHszf4I+GH6PGJhJvWzdz3L5nOVxcrxVT9Q9eT1JRH7/d2sqRA/BdmYe3gAk8nLwPWwWHryBe+O3TRtHYBDjev74DVyFOvaWxPR6itWE32NNRYiMH57FACrv8gb5bM5kZAUIKlDK9/wBdXkYyUnRQgfZJJHji3uUURAJ//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EAC0QAAICAQIDBgUFAAAAAAAAAAECAwQFABEGEiEUMTJBUXETQmGj0SVUcnOz/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABoRAQEBAQEBAQAAAAAAAAAAAAECAAMREmH/2gAMAwEAAhEDEQA/AN5w7iny1Oe1cymXWXtc8fLFcZFAWQgbD2083DyLK0aZfPSvy+AXSAgPmTto/A3XCzb/AL21/q2qhIrXQPELcnd8ysE6n+Oyj23+usyTwd030otB0avw5GriOTJ51JCNx+oMwYDv2O2hZjFSYyKC5VyuWZ0tQL8OW0XRlaVVII269Dq+hebJnmUIlZTsCerlh4voNgR77+mkeLm5cZXG/ivVR95fxoyeOk9KbBcLgoBcPMo+W7aH3m1Wv8qQGwzcjQAuH9Bt1B9QQOusxw5kTi6lmpZx+VMq3LD7x1GZSrSEgg+fQ6fvZuKenNE1DNIsilCRQYnY9+w0E+cuKei/usY6FIq6upLvKqu8jHcudu8/jy1P4q606I6EHIVu/wDsGgLxLBGoQYvNgKAABj36DSOZzIyAoQVKGV5+3V5GMlJ0UIH3JJI8tGjzzSOd/Ypv/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hammer and Hew</div>
-                                                <div class="unlocked">20 Aug 2024</div>
-                                            </div>
-                                            <div class="description">Armed head to toe, dread not the foe.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EAC4QAAEEAQIFAQYHAAAAAAAAAAECAwQFEQAhBhITMUEUIiM0UWFxNVRzk6Gz0f/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAHBEBAAMBAAMBAAAAAAAAAAAAAQACERIhIjFB/9oADAMBAAIRAxEAPwDvOHapdtDflTLS3S76t9vlamKQkBLhAwPtrJ+GGbWRA9dfLdSjnbQbRCOogjdSc77HI/nVngf8Fez+dlf2q0CTXRJFrNmt1qJDrckMoK0FR6uASvII5U7gb/Xt21TnqTZ292H5JkGteRL6r1xcvQjlKkNy1BxtRVsAO68DuQPO2qEiN066La19ndEeraQG5MgkKSXghQKSPO+mSZtelxcxlChLje5ZCEZQt1WQAk/PPjY4wSNL4nQmPTRGW9kiZEQP3k/5o5AY262N/Ybhh5cTh2QtmO7JWidJT02iOZXv1DbPyznWMaTIrpkpxUfLkh7mEdtznUcglXsjsTgb+An66z4csTVxJESTX2pdTMfXluIpSSFOEgg+dtCtZIhQHTQUlgiUsFBcXDc6mCfawo5x50bgRc7dM+yvStybieJ9kwiOxHwuPFHhxQz1FfXHb76bxV8HBGxBsIvf9Qan1/ECWWiZNXcB9QTzBuAspSAMAA+dtZXNyLAQGIkC15/XR3FFyEtCQgLySSR409OZHmzcc8E//9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Warring with Wolves</div>
-                                                <div class="unlocked">20 Aug 2024</div>
+                                                <div>Absorb and Cultivate</div>
+                                                <div class="unlocked">21 Aug 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDBv/EADAQAAIBAwIDBgMJAAAAAAAAAAECBAMFEQAhBhIxExRBUWFxIqPRJTI0NUJSVHOz/8QAFwEBAAMAAAAAAAAAAAAAAAAAAAEDBP/EABoRAQEBAAMBAAAAAAAAAAAAAAECAAMREiH/2gAMAwEAAhEDEQA/AO84dtT3aHXlTLpd1q97r0+WlMZFAWoQMD21dJ4fSMnO93v7qzCmFWb0LHA3x5634G/Ja2f5sr/VtISlaWayluSPHdSQo+J2XD4yeg6ep36arJPJtN8lHInfzFxOHKLq2LrfQ6nkcNPY4OAceXiNY3i1VLZSoTIt1uzOkqgvZ1ZRdGVqqqQRjfY6bjs1DkrDm7OXWy1NxhkZvIjqNuh8PHUvFzctsj7/AHp0UfOX6aIdaJumwXZcFALZ6yj9M2UPnNpCdSC1FIJVJLilUx+7HwMPUEAeo9tc9w5cTa4kmJJt91NVZkh804jMpVqhIIPjsdJV77QZUarbbzhHDqO4v1HTQTyZc17UMjDpA1iOdnSOzAFsZLtuTt5BsD3Oo+KvwcEbEG4Ruv8AYNS0eIY9E1QLZfSXqGofs99s4+mpLzeRcBAoRIF15+/R6jGpCdFCB8kkkeGjR1k8dexTf//Z" alt="" />
                                         <div>
-                                            <div class="description ellipsis">+1 other...</div>
+                                            <div class="name">
+                                                <div>Brew of Bravery</div>
+                                                <div class="unlocked">21 Aug 2024</div>
+                                            </div>
+                                            <div class="description">Fresh brew in an old cask. May it stir a great task!</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3151,7 +3151,7 @@ I'm using https://bgm.tv/ now.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2024, 23:24:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2024, 00:27:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
