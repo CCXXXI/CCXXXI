@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.32m added, 1.52m removed
+                                    9.95m added, 7.76m removed
                                 </div>
                             </section>
                             <section>
@@ -3062,7 +3062,17 @@ I'm using https://bgm.tv/ now.</div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            27 / 81 achievements unlocked
+                                            28 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABAADBQEG/8QAKxAAAgIBAwIFAwUBAAAAAAAAAQIDBAUAESESMQYTFEFRImGBFTNUcXKz/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAdEQACAgIDAQAAAAAAAAAAAAABEQAhAhIDEzHw/9oADAMBAAIRAxEAPwD3nh3FPlqc9q5lMusvq54+mK4yKAshA2H9arzGO/T79SFMtn5vODEwpaYsw4GynbYN78nnbbWz4G5ws2/821/1bSs5RjtTUXa+9F0kIVkdVaQkcKCeN9wG22PbStXi5rPIRyEHy5l4rC071YzVcznmAYxuHuurIw7qykcEfGpmMVJjIoLlXK5ZnS1Avly2i6MrSqpBG3PB0vwdVljS9LIV6ZJfJTpHSH8vdDJt7bn5543350fKztNgo7HUWWxlYSn+PUKF/Gy7/nQhrI2y7E6cFgMt6LF26lOOOe5DPandZJRGiJ5zDcsfn2A+OdtEyXiKvkLFSlkRBVlEjiT1NdiEjaMEP0MOH9gORud9yNXYv0kdKenlcNkZ5Y7k8istN24aUspVx+DwddqSmnmJMgVzjR9RCQHHMw6WA6gT3J+ldjv2X331W0A41Y7Eq7hi1SrHPBjvFEkFby2VVljlYAH2J227k/UNjzp9rOUMjjsVWpqySLcrBofKYLF0yKCu5G3HG3yNTxDmJslAlevFnq0R/eUY1m6x3Hf7jt99VXMk1z0who5YWLF+rYsK9N1jQqQHIJH2B/GjyhBbI5C/van/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Shell and Scales</div>
+                                                <div class="unlocked">25 Aug 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -3076,18 +3086,8 @@ I'm using https://bgm.tv/ now.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAQQAAwIFBv/EACkQAAICAgAFBAICAwAAAAAAAAECAwQFEQASIUFRBhMxYRRxFSIjJLH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwDvPTuKfLU57VzKZdZfy54+WK4yKAshA0P1wzDhIjk5aUmZzgk9v3IwLp0yb0e29g6BB8jg+kZZq+LEi6kifIzxsmv7AmZgGB/6PAJ4ZoTSQOJIYoBC8sqKgX/LKA5Bd3+FVep776dzxkBhOu9rdWxi9LBVWkMTZ3LmZiSsYyJ5uUfXnufHEzOJlxcMFytlcuzragX25bRdGVpVVgRrr0PD0zNft46avaVq7NK8LLFrlcIRtuvUAFvHXW+Nb6qjNaXGpBLI25oFsbO+Ye9HyMR8Bid/vrwQBitrNwWH0rDItaNoJjzi9aTkZQyKombmYdwdEDf6Hngg2KmPgavBXlmrwtBZqyMRJICdyEDuSQWHkHijB2kpVJ6l3G5YzR3LDq8VVyNNISCGHYjXDP8AKiK2C9LMT0WQhop6LSMr7Gih+da3sH61xDMltvT5L6EbpPhwwQWC5k9iEkJXgEZHKB2Gyuyflj9cL3Wk/AijcLKBlq/+0PifcgO/2Oi+OnT6qqZeAJJ+Xic0rM7biiouI+TZ5eg1vpre99d8Z5fMLfXH16ePyoYXq7tz0njVUVwSdkdNcNMjm3XpP//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Voice Vanquished</div>
-                                                <div class="unlocked">25 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+25 others...</div>
+                                            <div class="description ellipsis">+26 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3098,7 +3098,7 @@ I'm using https://bgm.tv/ now.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2024, 09:47:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2024, 10:45:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
