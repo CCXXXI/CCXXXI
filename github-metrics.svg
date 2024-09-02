@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2281" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2287" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.29m added, 382k removed
+                                    5.09m added, 2.95m removed
                                 </div>
                             </section>
                             <section>
@@ -2548,7 +2548,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.37645448323066 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.46132785763176 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2998,7 +2998,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        94 hours played
+                                        95 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -3015,32 +3015,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            62 / 81 achievements unlocked
+                                            66 / 81 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAKRAAAgICAQIFBAMBAAAAAAAAAQIDBAURABIhBhMUMVEiMkGBQlJhkf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAdEQACAwACAwAAAAAAAAAAAAAAAQIRIRIxQVGh/9oADAMBAAIRAxEAPwDu/D2LbK0rFu7lcsji3OhEdxkRVWQgdvwNcpxyULzutfK+J5PuAVJ2cdIOuoMoIIJB0d8jHTTR4esoqepqHI22nBfpDASt0qfx7nej2PTrjMZ3F4qOWSOikTSuCyQFepz8/gdt/PMFWWd0uVut9GOxWxtBT6nK+Jkl1sRvYkDMB7kbGtfvkNGpxtbK43KZk6twJ5NiyW+lpVUh0I2CQfY9+MY/EtDKQr6aGCbpbqC2XCga/lsggaPb55jzTz2JDeWWN6ktinX+hdBpFsAkgnuQNkbP69uV14JHlaUvoYS7YqYjyKcTyMblwytGV3Gglb6u/bX/AH27A81dK0JawhmmZyF9fIEWRpGYbDEEbLDffQ+3X+cTY6FIal+pagz8cslyVn9PXZkZfMJGu2iCp18dzxhVngq465E9bPGe0zNJZSgVl239dewH44TwSWuhzSVZa1OvA6xvLH6qWSNQrkFtkj4LE/ob4gyM105SeGz5IgfI1ZFURsu28xQSpP3AaAP+kcKlqtHB5V6lnrJVI1QjHPGY+kEAqwOwe/zvhduRzmjHVq5yec3a5aW3VcdMaybI6iBoD34btCMWpdH/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUGAv/EAC0QAAICAQMCBQIGAwAAAAAAAAECAwQFABEhBhITFDFBYVGBFSMlNVJxobHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABsRAQADAQADAAAAAAAAAAAAAAEAAhEDEiEi/9oADAMBAAIRAxEAPwDedO4p8tTntXMpl1l83PHtFcZFAWQgbAfGqi9Lrud81nSpGwHnTx/jReji8uInSBws8N+xIAx4dTK3B+DyN/YjWhW2AVFiGWDuIUM2xXf6dwP+9tZ1BDZ09L3LoMkx9LRIP3fOE/N5v+aJmMVJjIoLlXK5Z3S1AhjltF0KtKqsCNueDq/YyUUVhq8UVizYXbuSBNwm/p3Mdgv3Os91BYnjhrQWO0WJ70E0kUbdwiTxowoJ9ydvud9uBpYA9Rzte1jWJ6SqxS4hw/cHiu2groxVh+c2+xHt8a76jXwKU9eD8SktTRMIe3vmV29O1vYDkeu31B40HpzInF1LNSzj8qZVuWH3jqMylWkJBB9+NVW6iiRSTjsyB6beRck6GeORYsdFDTZLarkK9GRHsWZL5sM/gxl0SYMfZk9Cf5E8bbbcadnqdenQppViVQ+SrM7Eklj4g5JO5J/vXR6nhG4OMznz+nvoGZzIyAoQVKGV7/PV5GMlJ0UIH3JJI9tT5CULtjSf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Clamor of Frogs</div>
-                                                <div class="unlocked">1 Sept 2024</div>
+                                                <div>Guardian of Gear</div>
+                                                <div class="unlocked">2 Sept 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUGA//EACoQAAIBAwMEAAUFAAAAAAAAAAECAwQFEQASIQYTMUEUFSNRYTV1gaHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgAREiED/9oADAMBAAIRAxEAPwDedO2p7vRz1VZdLusvxc8e2KsZFAWQgYA/GqMfTkTs4W+3pxjG0V2dv9Z0TpiYvYqqjgjkmqHqaokIwUIDKwBZjwM88eTzrTQxMGikkEce2Pb2o/AY4yAfY4wNVqAQJp9XZWPZIj6WiQfq18J/Nc3+aLeLVJbIYKylut2Z0qoF7ctUXRlaVVIIxzwdUVu0qBH7JlilXch4GD7UnxkexoV+rXqLZT7uyrGtpd0aPvK5mXgkcZ48c6DmuQU+mhcN05Gae1VVQO+Yo6ir7qU7YaQrKxH58Z8ffTnlHcsyzSCqlid5pzH9QRKUYDPngFgAfPGfvoPTlxNrpKmkqbfdTKtZUPmOkZlIaQkEH3wdUxf4IVJW13dBnwtA3J/jSFUI31o8jLevcr62eNCtJKqYDLgSOM7nAPrG0Z940fqkYoqFVA2/MKbj0PqDXE9TwgkG2XzP7e+gXm8i4CggpKC67/jqeRjJROihA+SSSPWmWFVIqj6BIn//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgQFAwb/xAArEAACAgICAAUDAwUAAAAAAAABAgMEBREAIQYSEzFBImFxFJGhMjRRgbH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQME/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/AO88O4p8tTntXMpl1l/Vzx+WK4yKAshA0PxxlsHuzLBWymdnZAA+7/kWMnsDzaJJ13r78PwjcgrYaRJXJle5aKRoCzsPWbsKP++3HMdd9G3ZSWBwlktcicMrbH0qye/uDrXxph3ypJYjXdWqrBWj4fhk9RDlM8k0ZCyI19iRvsH/AAQfg8DMYqTGRQXKuVyzOlqBfTltF0ZWlVSCNd9HjEeRlizM1y3TmrVmhSBFcr530zEuRvQA3rWyffrheJbsFjGwrBKGYXqgZdEMu5lI2D38cYsITvut+EvwcYjcs1JV/qFlQSNBwbMgYA/gjr775fjxTwJEPPHa9GMRRmwpDhAQQvmXr3Ve9bOhvkLA3Eo0rNK9jMnI63J3+mmzqQ0hIYH8H3HH3zKRIWiqZ2PXQVqTyD9j3/I4nEvRyKnbwsLXnMaqkqwxMGMkRQS/UTsgE9a7PuDzm8zVr07NGpXO/Rlq9O2yA1kt/obHQ9hvrmgzYf8AvK3iBz8pDj3iT+Ds/vzDI5GvYShXxuKyUbfrq8jlqLxjyq+ySxHx9+G00Impfp//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Cloud Claimed</div>
-                                                <div class="unlocked">1 Sept 2024</div>
+                                                <div>Medicine Meal</div>
+                                                <div class="unlocked">2 Sept 2024</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">"Here, have it, have it all."</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+60 others...</div>
+                                            <div class="description ellipsis">+64 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3051,7 +3051,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2024, 22:23:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2024, 23:24:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
