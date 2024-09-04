@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.42m added, 2.12m removed
+                                    1.22m added, 356k removed
                                 </div>
                             </section>
                             <section>
@@ -2521,7 +2521,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.54620123203286 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2971,7 +2971,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        102 hours played
+                                        103 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2988,32 +2988,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            70 / 81 achievements unlocked
+                                            73 / 81 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAAb/xAAuEAACAgIBAQYDCQEAAAAAAAABAgMEBREAIQYSExQxQSJhcSMyNEJRc6Gj0fD/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBP/EABwRAQACAwADAAAAAAAAAAAAAAEAAhESIQMxUf/aAAwDAQACEQMRAD8A7zs7iny1Oe1cymXWXzc8fdiuMigLIQNAfLh8ph4cdQntyZnOSIo7qxi8Rtj7b1/3XjnYkMcHP3TpvOWtEjej4raPI9HGtLPm692ohljV5DYXSFGdS6lQCe8NjYJ6j05TjhybNne2XhGsbjKM1GGeTN5eFpG8Mq+SP3wdaHTr7a/UEcNmcVJjIoLlXK5ZnS1Avhy2i6MrSqrAjXXoeL3cdYFjFwY+tXrmQwyebKq7MyICSQTvQA9NdTrryz2tJXF1hsnvXqq/X7Zf848cYmzsYfcF2KAXDzKPy3bQ/ubjbNHVz00srpGk1RO8zsFG0cj3+T8h9nMicXUs1LOPyplW5YfcdRmUhpCQQffpxm7kqdixBZsYzNFoA6ovkWI+MaJ179PT68YmpI2ot34yz40c+SqGGRJEVJTuNgw38A1sfXinar8HRHQg5Ct6/uDkqpkqNOevJDi84jQV/LgLjmCsuwdkDpvp/J5szmRkBQgqY/K9/wA9XkYyUnRQgfbEkj24NjDCvjSxzk//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQQDBQYC/8QALhAAAgEDAwMBBQkAAAAAAAAAAQIDBAURABIhBhRBMRNRcXORFSMyNEJlgaGz/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAbEQEBAQEAAwEAAAAAAAAAAAABAgAREiExQf/aAAwDAQACEQMRAD8A3nTtqe7Uc9VWXS7rL3c8e2KsZFAWQgYHw1aL0uuTm830qRgL3p4/rR6GBNll8nvan/VtTvU1d1Lx2oiCjDGOStbljg4YRL55yN54yOAdVgcNpu780HgamtNnikZoKi73v2u90jkFc22YKxBx7iMcj+Rxpi8WqS2QwVlLdbszpVQL7OWqLoytKqkEY54OrC+ikoLF2MKhZimyigQ/eGT9BXzkHkt8Sdc9Ub47NRrK++TvKRWYDG4+1TJ+o0uAOZdVQ/i4dEgJaJV9dtbVA4+c2l7fK5SmsaTtBLTmVJ3iID7EwV2nxuDqc+vr50r05cTa6SppKm33UyrWVD5jpGZSrSEgg+eDo3KvhFbBc6W13Za2ElSOycCZDwytjzjkHwR7tHfRhlbr192lobbR0TM9NAqyN+KQ5Z2+LHJP10h1V+ToRwQbhTevzBqE9TwgkfZl84/b30hebyLgKCCkoLrv76nkYyUTooQPliSR402jnDQiL8hTf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Meet the Match</div>
-                                                <div class="unlocked">3 Sept 2024</div>
+                                                <div>Master of Magic</div>
+                                                <div class="unlocked">4 Sept 2024</div>
+                                            </div>
+                                            <div class="description">All spells we know are derived from the same source.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAnEAACAgIBBAEEAwEAAAAAAAABAgMEBREhABITMVEUIkFhBnGxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAbEQADAQEAAwAAAAAAAAAAAAABAhEAMRJBcf/aAAwDAQACEQMRAD8A3n8dxT5anPauZTLrL9XPH2xXGRQFkIGh/XXGbxjY9wI8rnJECeSbV3Zjj7gO4A63reySfX99TsTn7FKrPVqghkt2NsYfINtIxBb4X/efjRto+Mt1IIngiPmRZppJpGMhZlBPKDbHkb9LrQ/QwEI3ewdXp5h4DF1b8MgGbzDzxnTavOpK+w3YeV3/AKPfR8xipMZFBcq5XLM6WoF8ctoujK0qqQRrng9MwTY+So/jjjV6qPJDNWkJbgbbTEdwPI2G9g75HUTIZ6zbhqV7IiPkvV0+1SrKyyqTsb9cH45189JgGkebPfWaxONgsYB5mrJPPWvWW7dcyKJm7k/YIJ4PG9dMOMTkLcnjiltwSKJAKwZD2jjleO9NjYI3o7H56VxNr6bEZDGWqWXWSSxZHfDUZh2u7EMD6PB6lYKo+NcvYTOx+Mt4mr1XLHu1saYHS8eud/PHReaoSWN+bV1Up45Enkilp0ayt91o/fKxULrRJOgo0P8AmhodIWcdDVw+MmEUYsTXaxZu7u7VMoYKPwAOBx8dS81N9Y9djVztvxkd0dqgwUrsHgovHIG+N6+NdNy3g2NxGPqUsq7xXK7u8lF40CiTuY8+gN8D4HTRpCMId//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Six Senses Secured</div>
+                                                <div class="unlocked">4 Sept 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQDAgb/xAAuEAACAQMCBQIDCQAAAAAAAAABAgMEBREAIQYSEzFBUWEUQqMjNXFzgYOhsdH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABoRAQEBAQEBAQAAAAAAAAAAAAECABESAxP/2gAMAwEAAhEDEQA/APecO2p7tRz1VZdLusvxc8eIqxkUBZCBgD21ebBTpIyvf7yNscpr8cv64/vWnBIY2KfBwxrKrB/dbSE1X0qeKGFOnUOwRY5UOCfOOwY4yRvvrMDgu6buvaGFp7NTF5eS58QNCh5OuK1ipOBnx23xn2Pprq82qS2RQVlLdbszpVQL05aoujK0qqQRjfY6aiNXO0lPK8cYCgn7PD8h223K+CM/xqbi48tspwPmrqVfrL/mjJxybpsO7LgoBbPMo+Wtqh9ZtUXlpXXCs46U0XJHGQGkY77Hwc9j2GCfwG4cuJtdJU0lTb7qZVrKh8x0jMpDSEgg+dtXVt5p54GEltvK52DLQMWG4O3p20E88ypf0XmbpaSGnZ3iQ9RwOd2YszY7ZJPudG8Vb0dCNiDcKbv+YNZNxPDk5td79fu99H3m8i4CggpKC68/x1PIxkonRQgcEkkjxqWjnDVj536FN//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Full of Forms</div>
-                                                <div class="unlocked">3 Sept 2024</div>
-                                            </div>
-                                            <div class="description">Each guise grants a new horizon.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+68 others...</div>
+                                            <div class="description ellipsis">+71 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3024,7 +3024,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2024, 22:23:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2024, 23:25:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
