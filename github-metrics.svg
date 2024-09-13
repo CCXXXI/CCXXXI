@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.69m added, 713k removed
+                                    2.73m added, 1.32m removed
                                 </div>
                             </section>
                             <section>
@@ -2494,7 +2494,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.67898699520875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.763860369609844 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2944,7 +2944,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        207 hours played
+                                        208 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2961,32 +2961,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            52 / 56 achievements unlocked
+                                            54 / 56 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgL/xAAqEAABAwMDAwQBBQAAAAAAAAABAgMEBREhAAYxBxJhFCJBURMyQ3Ghsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAwUGB//EACURAAEEAAUDBQAAAAAAAAAAAAEAAgMRBBIhMUETYfAUcZGhsf/aAAwDAQACEQMRAD8AGnuq9G6EAKJSeTbQHUPb8jZFBhVCpTI0h2YgFMaO4LoCja/d84NwQLYI86X7jnBmmkA+5agAP70jm1qlztn1yk1kPKrMZlL0GSB3j9SCW1XOO0AhJ+lniw10XGeoaWiC6Gpr6S2G6Zvqd6+EBAmJWEtdwHaShKisEm2M/R/3R61lSzfHHGpzGlOgqdUb3VdRGOc63dHm+tjpUCCpI92OfOtNFI2aISDetfPdJytpxy7LnetRZYcYSt0flZUe9v5Scc+fGsc6+mXUHhEDzypJCUJKAVEm2LDzxbVF6adSlQavQ6fXITM6j0386UMLQkkF/BWSeSAQP4J0zp9AG2qfUqmgtxajDW6/DlN/tAJ9hAOOfsapIp5afLYDeK5IsEHaq50NXypzTKClUik1KnT3qTPpkyLUlFJWy+ypC0ptce0i+eb61m3aO/BY9Q8w+hNu0dyCAM5vjnxp50XVVN07ulyJVTS9OMRxHqKg8FkXsMd6he1+Afk6rT1DmSaXU2lTmH5K0ONrWtaUITYAWSnngC2c850UWMGDaGPIJOpPYknz8QyDNsv/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACoQAAICAgEDAwMEAwAAAAAAAAECAwQFESEABjESE0EHFGEyUXGxIqHB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgYBAwQF/8QAJREAAQMDAwMFAAAAAAAAAAAAAQACEQMEIQUxMhQkUYGhweHw/9oADAMBAAIRAxEAPwDd7v56de1o+zJ+3wc8+Ps2JwxYyOA0Sna+kc7Xgb2P+Dpd7UwK5p7H3d00Y4vSFb0Bi7H4G+PA/PWfvvsDtDC9rXb2QyNq3EqNG0SKgYtIQBInGldR+Na3x1QWOdxMJ01mux/bicZPwJULs3rnZWfyVTF5GrYoyMzViXEvuKGIQnXgkDn+R1WaOQr36kc9eT1o42CAdA/I6UpPplhLmEXL9iZtLcFdN2a2SkWKeJvkroBT/f7b6IBkxuHiqRN7kjvt3A0Xbyx18dSZGCtegMc+mZdI8bwnjF5ul7ES1spSr+yzGZLA24Y8cEHR41/HSZ9YsuLMVSKvZisVyuz7bAgMdkg9Qi9kJ5ZpZPcYSSOXYjjknfRzsiSxfykNeSQyESK4DnjQ5P8AXRCW5C4drci7uhTcOR+0cqY/IYuxQtCszoziURFC4Ojv0sv+9ft1WUw9PJ4tMnhlSzJ+pqL7WWIk/wCSr4B0eNefHnoj2VXms5KyK0taOX7dgGsOqqPUQN8kbP461XsTNdo5Nq1+OO+UkjeQyIsakAfpAO/AGtHnzz0FRr3QQdkwupiwqu6bG0if3t6L/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Disillusioned One</div>
+                                                <div>The Selfless One</div>
                                                 <div class="unlocked">13 Sept 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgH/xAAtEAACAQMCBQIEBwAAAAAAAAABAgMEBREAMQYHEiFBFFETIjJxFRYjQmGBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABADER/9oADAMBAAIRAxEAPwC7COaKKmDQhI2CgN05LHGe330q4jkNJ85QozqAoIwSds6C+O2AOpu23fSG91zPcIYQxIjGTk/uOt8uSwtpva22qnqp2nWzFnjnqoVyElUjClt/J2z/AD51P+FZJ6q8XKpMkppyW3YkZLZG/kDVO4B9FxRyisVRW0qS+gldZFcYX4kLN3Pvk5J8HJ1OrlP6fmTc0gMghqJCzxlcYYoGORt2Oe+3fViAVTMnSpPsM6zXpZpakySyhWJJJwTrkl7qD9Cxr/WdCS19VL9UxA9lAX/NKWfn4/l5WcI/lE2t7i8jPVrXCYIjh5CWUJjIx3B7+c6V2u6wXbiyzXN8rBWQRM6uclf0yuGI3I6d/O+s5zduNPUTJbXhnathiFTHOg6gASQUYbgEDOfcDQ/LNuv8LLfNhnAP26saG1cv/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwUE/8QAKxAAAQMDBAAFAwUAAAAAAAAAAQIDBAUGEQASITEiQVFhcQcTFCOBobHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQDBv/EACgRAAEBBwIFBQAAAAAAAAAAAAECAAMEERITITFRBUFhscEiI3GB8P/aAAwDAQACEQMRAD8AZDX6jiUAgFRxk9axLpRSrZnRbglPJkyVPhgwnEjY4jZlRJPXA48sgasnTmYyAt50o2AuYT2oDy0DVl1d0WxOjrYeXLXIS+25gFAA4CASeDjj3zpPiS1KVaGnluyiXV1Qdk4bUqYY+ot5OS5TUaBGiNJZww5vUsAkp8XR8/LjrTJpCqbRbeTSoidsZAKtylElayeSTpTfTGmvQG3nHW17CkNJCjySDz7jGmCSv7fiLbQ+MnSaYVKXaESlKWm7XxEKgBLkYSmWBv5LAU66nnqqI1NLIaQrCnFJ3FQHePQf3qUG3pV1PuUyE2GX3B+S8kHDYTvA3g9/t3kYGO9CE+w7otOuIi0cxKjGkbxFLjgSrAxkFPBB576+NShRrrfuB6G6+y260EoW3DcyBtGOVg9Ak5HroxBMWup2fUc/TQw7x7EKppIJ5kYHXqO7MtNtotpmYxDu6FUKkzlS4bwDa147SDuPiwOP51owFpmQGpLaV/bWMkkHOfQ+4PGu6zaOiNLfcjqR+Y4xtdekOlW88AqJUe9EASpyJKQXW1OYWlStyQkfA/2dIOaoYW1Kq+ZDtyba9Y9qdUpZP7TZv//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Determined One</div>
-                                                <div class="unlocked">11 Sept 2024</div>
+                                                <div>The Steadfast One</div>
+                                                <div class="unlocked">13 Sept 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+50 others...</div>
+                                            <div class="description ellipsis">+52 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2997,7 +2997,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 22:23:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 23:25:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
