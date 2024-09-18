@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.10m added, 823k removed
+                                    2.46m added, 1.18m removed
                                 </div>
                             </section>
                             <section>
@@ -2941,7 +2941,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        43 hours played
+                                        44 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2958,32 +2958,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            62 / 220 achievements unlocked
+                                            64 / 220 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EAC8QAAEDAwMCAgkFAAAAAAAAAAECAwQFBhEAEiEHMRRREyIzQVKEocLSYoGxsvD/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIEBf/EACIRAQABAwQCAwEAAAAAAAAAAAECAwQRABIxQRNCITLh8P/aAAwDAQACEQMRAD8AnVSp25X7IoVXrlCbdWpJDEYEN7toAUNwA3EhIIB74POs6HLLPbp+8fmB+eu6hxfGdOLLbxn25+itEoNSlViWk1GQwwHlpTl8oHCjwMn/AHYaoW1tHxs5snMp+8gAknTrXvbyqVtsccHR2aTCuyx36fvD5gfnrR0up25QLHr9WodCbaUEASIxIcxuBCRuIO0jOSB2yOdCDTlShXXGhPT5LrYkpbOXFYPrYIIPv8wf30uV+J4Lp1ejRGPYH+ui5totMnBkYlD3kiMg+cuiyvKrW2yxw9HRqt07bDlj2gCM4akn6K1mLfplJRVJkCrNSwxJ2vvy0JS280tKidiFEnbg+jUNp55z2wNYU23a1lW5Dm3GGJLQOx3buKCeVeqM4wCBk+Z48pc+tWjNJLt7tjPwxcfbojUpVrcpu4Yzm/SSOZshyf2dO7tKxWZAcByHBh50fXLFNRv6NMpUFSIaJqW0ttsrzt3BW9alcrUSVAq/SMnkaUuo6Amyrx2jALcc/wAamQavaENQU3fDaiPii5+3VZKLbuiybjhwLkS/JcCQ47t2lZGSk7TgHgYJGPdx5zqV6VO28cdysoekgAmKqn7nGlZ2dbzkpY4exzkx1r//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDBv/EAC8QAAEDAwMCAgkFAAAAAAAAAAECAwQFBhEAEiEHMSJBExQzUWKEscLSMkJxkrL/xAAZAQABBQAAAAAAAAAAAAAAAAAAAQIDBAX/xAAkEQABBAEDBAMBAAAAAAAAAAABAgMEEQASIUEUIjEyQlFhE//aAAwDAQACEQMRAD8AOqlTtyv2RQqvXKE26tSSGIwIb3bQAobgBuJCQQD3wedc6lyylfp6fvH5gfnq6hRDN6c2W0Bn2x/1rGfHiOQVpLhUHvBEZYcHpZSwQVK7+FtKUqznBJ1VhQ2y0t1xSvZdd6h4URtR/M15sx4PBCAPA4HIycrstPfp+8PmB+eujpdTtygWPX6tQ6E20oIAkRiQ5jcCEjcQdpGckDtkc6DoogPUuMth/ewEhuQh5Y9LGdzxkE5UhWRgjOOx1TcEMwunV6MkY9icf10s2G2GUOtqV7IvvUdioDez+4Qpj39y2sC6PAHgYv04QF2VZuewbkH66gq9s0WBXUyHo7QpchxPrGMpUyM8kKGTt5PkcduQdJlNt2tZVuQ5txhiS0Dsd27ignlXhGcYBAyfeePcZOrdpTVEuXw2k/DFI+3UsOax0pacSq9S/go2CokEEA/db42ZDf6jWjagOaNgVlUGi25Uq43LgU4M0+KSmOXSVOSMHhaieccZ8if41t1ISE2VeOP3Nxz9NGQaxaMNW5u+EKPxRSft0slFt3RZNxw4FyJfkuBIcd27SsjJSdpwDwMEjHlx7yZOYMYNISq9SPgoUAoEkkgfVYQob/Ua172DzZsjP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Christine</div>
+                                                <div>NO FUTURE</div>
                                                 <div class="unlocked">18 Sept 2024</div>
                                             </div>
-                                            <div class="description">Get Pentagram to Level 7</div>
+                                            <div class="description">Evolve the Runetracer.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQADBgT/xAAsEAACAQMDAwEHBQAAAAAAAAABAgMEBhEABRITITEHM1GEsbLC0hQiQVJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQABf/EACQRAQABAwMEAgMAAAAAAAAAAAECAwQRACFBEhQxUWFxYoHR/9oADAMBAAIRAxEAPwA7dNztzf7I2Ld982KOV2UiCmBEfLiAGHIAciQoIB84PfWcWSym8WBKfiB+eu/YqQ1vpzZcQGfbH6tIVjbdHSQy1NCgighcssTuoaNX4CaQKQ7M0hKKqsgypLHB1NY2MZ05TlKSs5gE5HiScJ6+8/o11r28r9wU6YeDg9Z50CZLLHn0/lHxA/PWj2vc7c2Cx9/3bY9ijiYIBUUxIkxyBCjkQeJGckDxkd9WQNQKtfHDshihnWOFf1MxlMDZAZ0IJKESFFaN2ZgZBkgAgkb/AEhovTq9IiMewP06F3aBAnFmYnA3mojKP5O2+lZ3dYr9E8eHg9aX9OED2VZufAjqD89Wb5RUgaWCqkaKmdXTkqMy9Jn6nScrl1KyjmrKrjL4YYGNQrbdrWVblHW3GIKmIHhLx5FCe7ftGcYBAyfee3uLr97tKtJMt8Rrn+tKR9uqLO+pRodKSEnNMQk5GUkcg+/hE+nWu7WtGuyiHgN3GMY/ml9rgp5NwAp66orKPkkjPND0eZGGKqBgueoFdpHVGPSA751T6kKFsq8ePgx05+WjKHeLRo2DR3wjH/VKT9ullS27osm46OguRZ6mQKJJePEuRkqeJwD2GCRj+O3vN3e0m36IklZwd4IASivAY2+XLoWVncdx1zR2eTkxxr//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAA0EAABAgUCAwUECwAAAAAAAAABAgMEBQYREgAhBzFBExQiM1EjYbLSJENSYmOElKKxwcL/xAAXAQEBAQEAAAAAAAAAAAAAAAABBQME/8QAIxEBAAECBgIDAQAAAAAAAAAAAQIDBAARITFBURNhEiKx8P/aAAwDAQACEQMRAD8AXTSZ05P6IkU3nkibdWpJDEMCG8sQAoZADIkJBAPOx31OByijyoB0/mB8+j5FCGM4c0W0Bfzj8Wq2kqMTO4lWZU3LmTZ11PNxQ+rR/aunIb6n0qVCjbTuLicsvlMD5yNpIACdYtXVzXlX8dPLY4OsQhcooc6Ad/UD59UcrmdOSCh5/NpHIm2lBAERDEhy2QISMiDiRe5A5XG+mnEWVyCWTpiBkafpnaIRGQ6D7NgKsE29F7g2HS997amJ/Cdy4dVo0RbyD8OidKFa2hcQZx+0BGcneQdumvpw29zVjceOSJk8BsYa8PWu2oakE/gxNvdsrXBur4yjpO5BQr7kNMCEQ/cnGy4gkbF1gnbIk38I6+IX5GlNN0tRVOQcbUYYiWgcHccigndXhF7WBAufU7eiuPnVIxyru1u2D92Ftb9ukba5tyFUmMZzdISRGa9J+ImGvRr068mIIgauWoZf3eD6JlkLDxbkwikkxrpKkoUsr7G/M36rO91e+w6k64kICaKrHEWBbhz/ABpZAzikYNQU1XCCR9qFv/nTZKKbqiiajg4CpEvxLgSHHccSsi5ScTYHYWJFum3r2Xd7blpGhSjI+0N4y2JRVVPXtXGNnZ1248k8nMeTky4x/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Gorgeous Moon</div>
+                                                <div>Torrona's Box</div>
                                                 <div class="unlocked">18 Sept 2024</div>
                                             </div>
-                                            <div class="description">Evolve the Pentagram.</div>
+                                            <div class="description">Hold 6 different weapon evolutions at once.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+60 others...</div>
+                                            <div class="description ellipsis">+62 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2994,7 +2994,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2024, 20:46:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2024, 21:29:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
