@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    513k added, 31.4k removed
+                                    669k added, 96k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    444 views in last two weeks
+                                    439 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2491,7 +2491,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.103353867214224 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.18822724161535 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2958,32 +2958,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            67 / 220 achievements unlocked
+                                            70 / 220 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAAID/8QAKRAAAQMDAwIFBQAAAAAAAAAAAQIDBAUGEQASISJRBxMxUqFxlLLC0v/EABcBAAMBAAAAAAAAAAAAAAAAAAACBgP/xAAiEQACAgEEAgMBAAAAAAAAAAABAgMRAAQSMWEhMiIjQlL/2gAMAwEAAhEDEQA/AA5s23rlsug1Wt0Nt1SkkMxwQjO0AK6gBuJ2g4PY86VpptmK9LKT9wf60dYsA1Hw/s9kDPDx/LW8J6SKu2yGWHGnQ4WYiWlea8G1uIcCV7sbgG92CADnGQcZm1NGQmRgAzD2b+j3lFqJpTIFRQfAPAxcqmWYn1spP3B/rTSFNt62bKr9UotDbaUEAPxyQvG4EJ6iDtIznA7jnXZ6uUaRUmoUaFUFpdkIjJfLSUJ3qIAylSgsckeqfjQt+U806wLvZIxlLKvx0Ne6OpGNsoPyJ/Q7w000okIda8E8VlD4HNJdtK1dw4Sw+fk6prhjKgyS5RpUGICVL2yYnn+UsnKlNdSdm48kcgnnAJOYqDLt+ybQtyNJuQMyGwQFlOcE8q6U5wBkc/XjsNVb0tapKJdvJhGfZGI/XWaqxkk+tipZj6kggk9Y2qgferKQCBXNZlDokup34+VvyXY8epNzlzZSAC6EpbISnaAFElJHAwAOecAufHJCUWjdJSMBTDB+RpHTLvtWnqCmrzZWR74xP66LnSbfvWzrjjRbkS9IWAFL27ScZUnpOMg4IJ+nHcZWEkZEbBQyk2pA5HWPBHI7W5BO3aK85//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EADAQAAECBQICBwkBAAAAAAAAAAECAwQFBhESACEHMRMUIiNRhKEzQVJhcXKxwtKy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAEDBAX/xAAhEQEAAgICAgIDAAAAAAAAAAABAhEDBABBEjEiQmFx4f/aAAwDAQACEQMRAD8AnTSZ05P6IkU3nkibdWpJDEMCG8sQAoZADIkJBAPOx31nQ5RR5cP3j5gf3rukcL1zhxRbdr26dXorR3MI95t2ISIhdwoiwWezvqnp6kZQlKUpNynXzkUEkop5sbu5lMvjGvR0dl82xXRY58P3h5gf3rRyuZ05IKHn82kcibaUEAREMSHLZAhIyIOJF7kDlcb6KZfHOuxsMhUQs5OJGOXMX0hz+E6lw6rRoi3sD/nRuacYwjKMpFShfzkiMgpt4tLcySy+LXp6Oi+VuHbYcoekMhcBqJPorRK6071l8ph3hdard2bHf6aXymm6XoqnIONqMMRLYODpTkUE7q7IvawIFz4nbwlx87pKNJLtbtpv8MLb9dS6m5jjh8UkJKf0kiM1EQ/P7vi3dLM51A9HYeiu+G0E0+I6E7l498gk9GRiMh8tLXEdITRNY48i1Dn8amQM4pGDUC3XCFfdC3/XVZKKbqiiajg4CpEvxLgSHHccSsi5ScTYHYWJFvdt4m1u43D4hK2UPpIAJiqp/b4aWnmMwtensfZXXP/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Banish 1</div>
+                                                <div>Gallo Tower</div>
                                                 <div class="unlocked">18 Sept 2024</div>
                                             </div>
-                                            <div class="description">Fill 60 entries in the Collection.</div>
+                                            <div class="description">Reach Level 60 in Dairy Plant.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQGB//EADIQAAEDAwMCAwMNAAAAAAAAAAECBAYDBREAEiEiQQcxUXGy0hQjMlJTYWJ0lKGiscL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMG/8QAIREBAQABAwUAAwAAAAAAAAAAAQIDABEhBBITMWFRUuH/2gAMAwEAAhEDEQA/AI3r2PSWF2G63ux06qlJIotwQjO0AK6gBuJ2g4PoedFotsMV9GFJ/UH4tXQZgbj4fw+iBnCax97Wys0Yp3ZyuhSUUMaJ213CPNavs0H+1dvIc+WZchj8jWSgKoAp/Z4OdaLqM2RyEyHofWufqtkMSMmFJx+YPxaUZPY9GYVf7pZbHTpKCAK7ckLxuBCeog7SM5wPUc6dmLOx2uRNLZY07nK6tOk8bJV823C8BOPReTkpHbOecaz08YG3QCX0SMZTRV7ujvb4lqzep4aXho+6PT578icel9bae8FKAcQyMoOM/JnGM9j1DQdWSXKDW2pbaNSq2uStjZLKpSVVpqI4NZuo8FRJz0jv1DPkgxdx+ExCONnMkFFxTBAWU5wTyrpTnAGRz7ePSa6zOK3JWa0yoJP4Wx4/jqZFVktYplqniVE7n5/dU6jFZRttvsCPzWi8LY8ytzld0fo33SuSUoUveG4I557rPOVffgcZJm8ckJREZTtGApvQP7jQdsl8Vt6gqlM6KyPrtif86rfOY/NYdI2zWSJrOFgBS9u0nGVJ6TjIOCCfZx6tff5MdMUBUqs16E/JpOlwX300ionH3X//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EADAQAAECBQIEAwcFAAAAAAAAAAECAwQFBhESACEHEzFRFCJBM1JigaHC0nGElLGy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEFAgP/xAAhEQEAAQMEAwEBAAAAAAAAAAABAgMEEQASMUETIULhIv/aAAwDAQACEQMRAD8AnTSZ05P6IkU3nkibdWpJDEMCG8sQAoZADIkJBAPWx30dDlFHpQDp/cD89d0khfGcN6Lbt055+itCphGxIjVQ+XJzPm3t+gHy321Pt7eJTZzZOZT+5GAknrDqzd3dXzbY44Ojs0nK6LHXh+9/IH56RyuZ05IKHn82kcibaUEAREMSHLZAhIyIOJF7kDpcb6Duyt5UNCxyIiI5gdbStBX5SnIA7euks/hPBcOq0atb2B/zor0IyplSDIxKGf7k5GQe8ui0uqpW2Sxw9HRqtw8bDlD0gFC4DUSforWYIhX3p3zI2yWW3A6QUKUHiD06bEiw7a1Qppul6KpyDjajDES2Dg6U5FBO6vKL2sCBc9zt2lx87pKNJLtbtpv7sLb7ddaFxSlQ2u4SU/iSIyURD9zrN3aVvOoHB2HBjREQ0WhyAAddWxzebdRuUAq2Qflp/wAR0hNE1jiLAtQ5/rUyBm9IQagput21H4oW/wBuqyUU3VFE1HBwFSJfiXAkOO44lZFyk4mwOwsSLem3dVrinGhsNysofEgCMxVU/c6dpaVWuSQ4ex5Ma//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Omni</div>
+                                                <div>The Bone Zone</div>
                                                 <div class="unlocked">18 Sept 2024</div>
                                             </div>
-                                            <div class="description">Get Torrona's Box to Level 9.</div>
+                                            <div class="description">Unlock Hyper mode for 3 normal stages.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+65 others...</div>
+                                            <div class="description ellipsis">+68 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2994,7 +2994,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2024, 22:24:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2024, 23:25:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
