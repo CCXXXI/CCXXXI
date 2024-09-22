@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    4.15 GB used
+                                    4.16 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    8.53m added, 7m removed
+                                    1.45m added, 799k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    461 views in last two weeks
+                                    459 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -3004,7 +3004,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        73 hours played
+                                        74 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -3021,32 +3021,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            120 / 220 achievements unlocked
+                                            125 / 220 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYHBP/EACwQAAECBQQBAgUFAAAAAAAAAAECAwQFBhESAAchMVEUM0GEocLSIlJisbL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQUCBP/EACQRAQACAQQBAwUAAAAAAAAAAAECAxEABDFBEiFCYQUiMlFx/9oADAMBAAIRAxEAPwA6aTOnJ/REim88kTbq1JIYhgQ3liAFDIAZEhIIB7sedTocos9bfvH5gfnrukcL6zbii27X98/RWo+kZFP5xHTqIblc4joOHKlocRmW7ZkYoSHG8lk8AJUTwRiexOooI1SsfOX3T9CcjATT0B1X3u8sjd4mODo7M6oiuix3t+8PmB+eqOVzOnJBQ8/m0jkTbSggCIhiQ5bIEJGRBxIvcgdXHOsgmUc43V0BAsomUE428luJh4gONG+Q4La1rINu7q5uOBbnTJ/Cei26rRoi3sH/ADouojOqNkfOOJQyM5PoyDCLo2W8sbvFxw9HRnSu3jYcoakARezMSforWlU3U0tk8slK3ImH9RCtNtrYDiUkEBYJIJ7GZ48geTbOymm6WoqnIONqMMRLQODuORQTyr9IvawIFz5PHguPnVIxpJdrdoX/AGwtvt13bD6hVXQxlGX5T9kkRkoiHzj950t7srW5QODsODHeid6oWHm+58nncmQ9EmNcQXykJWRgpIBVh0e+/gBqn3HQE0VWOIsC3Dn+tGQM3pCCUFNVu2T/AChb/bpZKKbqiiajg4CpEvxLgSHHccSsi5ScTYHgWJFvhx5xvd7VOp8YyzKVfskARkKqnx/cvGlsdldG4XHD2PJjX//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGA//EAC4QAAEDAwMDAQYHAAAAAAAAAAECAxEEBQYAEiEHIjFBExQyUWFxI0OBkaGx8P/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAb/xAAgEQACAgIDAAMBAAAAAAAAAAABAgMRAAQSITEFQVFx/9oADAMBAAIRAxEAPwAd9+wZVhdku15sTbvZ+GyOwDaAlXckDcVbRA9YPOkzdvwZ52mbp8QZWp9WxJVVbAFbogyvjn+jonGHHWukuOrYeLKglfcOZ7lcRpNima2m33d+iudqpbu3vQl1LyRDEupBUCT6AyYE/UAE6gh0Q+s8okcNzcAcjXTEV7mg2NspMAwFUPofmM7jbMGoKx2mexFlS20qUVIqpSQDHHeCZ9IGmNvuGOY7g99u9isjaAUD2zBIX8QIT3EHaRJJA+nOp7NcqsN8u67barbRW95hx3YpnbtcQlagEyngyEhYmDyfMjWlWI6Q5SOPy/H3TpUuk0cEcjSMSXUEcmrtgK9ww7nKcqgAFH8+h/MFq616h6FWNynXsWW3U7p4HKv5+X10D01sdiyC2utOoTT1tIUVdLXblboSQHEFsnvB4mB+oB1Y3K3YjaMBxy13y+t7kSUqWjftUeVEJEgQCACfEnjUlRWnp7QXJNbb83cp3ACkpDJUkg+ZlP8AoGm6W8IlZWRiOTEUrEUWJsdZN8hpyu9rV0B2a8GB9S8fsGO2hh+1svLutVUKqve0qhtAJO1tDY8A8/aANNmqr3zovkz/AICw0YmY+GR++sn6HAqquFVW509UOBW5KSztSkxEgBHy1T2u2Ylden+Q2qx35sqVG9SU7SsiSk7TAMxBIieOPmN7dWUKFRgOSk2rAABgb8w/H6UqPbVdEdG/Rn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Bianca Ramba</div>
+                                                <div>XVIII - Boogaloo of Illusions</div>
                                                 <div class="unlocked">22 Sept 2024</div>
                                             </div>
-                                            <div class="description">Defeat a total of 3000 Milk Elementals.</div>
+                                            <div class="description">Reach Level 50 with Concetta after unlocking the Randomazzo.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgMHAgQFCP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQYSIQAHQRMiMVFxCBUWUoH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIxEAAQMEAQUBAQAAAAAAAAAAAQIDEQAEBSExEjJBUWETcf/aAAwDAQACEQMRAD8Axj/YdZaSsFyvNkiKsAqqRtSMDCMWZQM5wOPPPSyg7Jadq0d/43TRRhyqNIZBvH9h7+B+eeof07VTR6IsdLHKYJKqnYCYKDtCyFjwfscdXHdprdQ7zXXalppMZHrzqm1fvk9ZllbB3rKlqA6lDSlahR9Gq8vkblt6GADAE6HkT5Bqp5+yWjqeKSWpoLTFHGMuzSSYUeSfd0XuNLYtCaQvV0stmjamni3r7fbMhyqsN2SuNxP+g+emd8vFqvtNNtrY62j2stJQwNvkrJMYV5FXOI8/APz8t4HQ7u1WUNR2vu9NQV0FW1FTR083pNnY4KcH6PGcdOvseGUIcQ4sjrQDKlQZUPtSYbOXVxdBl1KeFHQEiBPI1XG0hcqq09nrPXUVQ1PLTwtLvA4AEhGT+N2eeOB070XXW27VUYejpmsVMPUMs6L6tXKDzJKW9xUNyAfk8nwOicD6X0norT9vu18icbSrLKm5WyQzAqM8DK4J854+tBNQ6DiSpWDUkCLNjjZIdgBJAHt+Mnz07G3zCG1tvIV3KIIQozKieQPtNzOJunbj9GTBgDkDgAcGPWq9E3+5UDWGeKgkjpJqoCL1IsKyhvIx5xnHVLd3tO2nTXaGqpLEM0r0iyNJ6m8yuZF3MT5Oej1z1Jo+4Waa3za0ZfUZXE6K6yIykFSCF8Y+Op6OPTt/7ZXWw23UyzrTIURtgQnJL52nGckHJ+8cfYyF60tlDTKV96SZSQIBHJijiMVeIuy8+QdQAD5g71/a/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUE/8QALBAAAQMDAwIEBgMAAAAAAAAAAQIDBAUGEQASIQcxExRRUiJBlKHC0jOxsv/EABcBAQEBAQAAAAAAAAAAAAAAAAIEAwX/xAAiEQEAAQIHAQEBAQAAAAAAAAABAgMRAAQFEiExQVFCcWH/2gAMAwEAAhEDEQA/AJ1UqduV+yKFV65Qm3VqSQxGBDe7aAFDcANxISCAe+Dzo4HLKPawHfqB++t9Di+c6cWW3jOPHV9lapTWZcW2mm2qSpqHLfV4tQk01bpQ3t4ASRkAnIzqXJZKEqcpzlLmcwN8iwSTjk+Y62ez1SNbaW6PD5g+XLKHewHfqB++kdLqduUCx6/VqHQm2lBAEiMSHMbgQkbiDtIzkgdsjnVqt0pVQLbi4kKOUICNkRjw0HA74yedEq/E8l06vRrGP4D/AJ1rqOmlGjCoSkO6FzfJOZBblfuFks7KVbaI8PgddYq9PEBdjWhuHAZkn7K0cm1SGq0J7CZzKpKn0KLYdG9Sdi8fPJGSONyse1GlJTbdr2VbkObcYYktg7HSncUE8q+EZxgEDJ9Tx6Sp9ZtCaSXb2aTn2xMfjo5TOUihskSuSn+JIjJREP8Af7fAz2RrSrKW6PQ6Le4cQaq3JITwdGepCQmyrx2jALcc/wBamQaxaMNQU1fCCR7oufx1WSi27osm44cC5EvyXAkOO7dpWRkpO04B4GCRj5cetOpapSr5cgRlfdD8SACQqqHz+3cHT9Pqwr3bdPo9lvMf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>XVII - Lost &amp; Found Painting</div>
+                                                <div>Valkyrie Turner</div>
                                                 <div class="unlocked">22 Sept 2024</div>
                                             </div>
-                                            <div class="description">Reach Level 50 with Poppea after unlocking the Randomazzo.</div>
+                                            <div class="description">Evolve the Shadow Pinion.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+118 others...</div>
+                                            <div class="description ellipsis">+123 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3057,7 +3057,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2024, 17:23:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2024, 18:25:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
