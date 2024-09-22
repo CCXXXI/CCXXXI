@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    9.39m added, 7.26m removed
+                                    8.53m added, 7m removed
                                 </div>
                             </section>
                             <section>
@@ -3004,7 +3004,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        72 hours played
+                                        73 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -3021,32 +3021,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            117 / 220 achievements unlocked
+                                            120 / 220 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUE/8QAKxAAAQIFAgMIAwAAAAAAAAAAAQIDBAUGERIAIQcxQRQiIzNRhLLSQoKx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAjEQEAAQMEAgMBAQAAAAAAAAABAgMEEQAFMUESITJCUWEi/9oADAMBAAIRAxEAPwCdNJnTk/oiRTeeSJt1akkMQwIbyxAChkAMiQkEA87HfRwOUUeVAOn3A++t8jhDGcOKLaAv5x+WkUHTYwF06q23bSvTlOUpfKf3kYCSesP81qbhf1KdXxMcHR+aHlyixzoB0e4H30jlczpyQUPP5tI5E20oIAiIYkOWyBCRkQcSL3IHK431viqbGBsnR2fwnYuHNaNEW8g/HU7ltpQpxnGUvlD7ycjIO3+6Nvv6lSr4uOHo6M6q8PUKVQ1IFCAtSWohQSTYE79emk7FUNyiNcRNYJKkPw6xCtteIUupSVeIdhZQskAdSOdxo8U03S1FU5BxtRhiJaBwdxyKCd1d0XtYEC59Tt6RpxMqMmwAja0aUBcgCFIAv+ultb2mWsqX+x8p8RkiM1EQf3HvvrTXtlVa/kBwcocGO9N25zLpu7APwaZi0X4dL6mlGyGclHuLO2SwU4kDlve3InuJCQmiqxxFgW4c/wA1ElUVREseS7C1k0FpBAJhibAm5/Hqd9XkopuqKJqODgKkS/EuBIcdxxKyLlJxNgdhYkW6bepdX0JWxTfNkyg+4ywBKL2HrBjty6LKyqlclg4T0nZjX//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYHBP/EACwQAAECBQQBAgUFAAAAAAAAAAECAwQFBhESAAchMVEUM0GEocLSIlJisbL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQUCBP/EACQRAQACAQQBAwUAAAAAAAAAAAECAxEABDFBEiFCYQUiMlFx/9oADAMBAAIRAxEAPwA6aTOnJ/REim88kTbq1JIYhgQ3liAFDIAZEhIIB7sedTocos9bfvH5gfnrukcL6zbii27X98/RWo+kZFP5xHTqIblc4joOHKlocRmW7ZkYoSHG8lk8AJUTwRiexOooI1SsfOX3T9CcjATT0B1X3u8sjd4mODo7M6oiuix3t+8PmB+eqOVzOnJBQ8/m0jkTbSggCIhiQ5bIEJGRBxIvcgdXHOsgmUc43V0BAsomUE428luJh4gONG+Q4La1rINu7q5uOBbnTJ/Cei26rRoi3sH/ADouojOqNkfOOJQyM5PoyDCLo2W8sbvFxw9HRnSu3jYcoakARezMSforWlU3U0tk8slK3ImH9RCtNtrYDiUkEBYJIJ7GZ48geTbOymm6WoqnIONqMMRLQODuORQTyr9IvawIFz5PHguPnVIxpJdrdoX/AGwtvt13bD6hVXQxlGX5T9kkRkoiHzj950t7srW5QODsODHeid6oWHm+58nncmQ9EmNcQXykJWRgpIBVh0e+/gBqn3HQE0VWOIsC3Dn+tGQM3pCCUFNVu2T/AChb/bpZKKbqiiajg4CpEvxLgSHHccSsi5ScTYHgWJFvhx5xvd7VOp8YyzKVfskARkKqnx/cvGlsdldG4XHD2PJjX//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Gatti Amari</div>
+                                                <div>Bianca Ramba</div>
                                                 <div class="unlocked">22 Sept 2024</div>
                                             </div>
-                                            <div class="description">Survive 15 minutes with Giovanna.</div>
+                                            <div class="description">Defeat a total of 3000 Milk Elementals.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwcC/8QAKxAAAgEEAAUDBAIDAAAAAAAAAQIDBAUGEQAHEiExE0FxIiMyURRhFULh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAhEQEAAQQBBAMAAAAAAAAAAAABAgADBBExEhNBYSEyUf/aAAwDAQACEQMRAD8A4U2HMsQsVzu9jic9B9OHYQAKArfUNdRPSO3zwJqbTgVNTTTSYrGEhRpG+43gDZ/2/riYy6x8qMZd2RVHXsuQB+TfvtwlXe/x41DVUqVD1lLMHSFBMHeBipBQn3TvsH28d+JGLjdzrWcvtINSka1J91Zzs25C5o1weD8rSMaw7D8ieFbfiUTeqiurGR9aI2O/V+jwXyKzWvljjd8q6KxwBZIgxCEOkqsOlWVm2V0WP/eM9xjKo8kxr+BLXNb7bSRRrLSiVY2rJQO0bN7Q6BLe7eO3DRzAvct95Y5HPNPBOI0jjRoCOjp2ugAPA/rhlY3b6EnL7RHcpOxke6YObcnc064fB4KowexDIuWeK0DUcdWrdbFJEDAaLd+/jgZmOG47k+OVNVjlPTWyitImH+QFP0tcpwNskajQ9Jek6fvsnsNA8OOP3iwcvcTsFLV36Ilo2jkSRNhwRtgQNkAdQ7/I1wFvOUYVdlmSpyxPSaBqeOMI4WFCCNIOnQ0Dr44YuT2+sYSRlJEiojJ9UzsK5O7s1wHy64KzvF7TZ8ft6y3mlhroqmOKVpngDPSuy7UFTv7Z3+Q8Edx406ZFHRwcpsmht9CKOFQh6UjCK5JXZGvPzxVT1fL2n9Ew5UA8cUcIYox2iAgA/R7778HpXxzLMFv1ut+RRyOFVNqnT47r9J1vfT3Px2/bKye50BCQEoqsUAJD+UwcK5C7t1wnw75K/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgMHAgQFCP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQYSIQAHQRMiMVFxCBUWUoH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIxEAAQMEAQUBAQAAAAAAAAAAAQIDEQAEBSExEjJBUWETcf/aAAwDAQACEQMRAD8Axj/YdZaSsFyvNkiKsAqqRtSMDCMWZQM5wOPPPSyg7Jadq0d/43TRRhyqNIZBvH9h7+B+eeof07VTR6IsdLHKYJKqnYCYKDtCyFjwfscdXHdprdQ7zXXalppMZHrzqm1fvk9ZllbB3rKlqA6lDSlahR9Gq8vkblt6GADAE6HkT5Bqp5+yWjqeKSWpoLTFHGMuzSSYUeSfd0XuNLYtCaQvV0stmjamni3r7fbMhyqsN2SuNxP+g+emd8vFqvtNNtrY62j2stJQwNvkrJMYV5FXOI8/APz8t4HQ7u1WUNR2vu9NQV0FW1FTR083pNnY4KcH6PGcdOvseGUIcQ4sjrQDKlQZUPtSYbOXVxdBl1KeFHQEiBPI1XG0hcqq09nrPXUVQ1PLTwtLvA4AEhGT+N2eeOB070XXW27VUYejpmsVMPUMs6L6tXKDzJKW9xUNyAfk8nwOicD6X0norT9vu18icbSrLKm5WyQzAqM8DK4J854+tBNQ6DiSpWDUkCLNjjZIdgBJAHt+Mnz07G3zCG1tvIV3KIIQozKieQPtNzOJunbj9GTBgDkDgAcGPWq9E3+5UDWGeKgkjpJqoCL1IsKyhvIx5xnHVLd3tO2nTXaGqpLEM0r0iyNJ6m8yuZF3MT5Oej1z1Jo+4Waa3za0ZfUZXE6K6yIykFSCF8Y+Op6OPTt/7ZXWw23UyzrTIURtgQnJL52nGckHJ+8cfYyF60tlDTKV96SZSQIBHJijiMVeIuy8+QdQAD5g71/a/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>V - Chaos in the Dark Night</div>
+                                                <div>XVII - Lost &amp; Found Painting</div>
                                                 <div class="unlocked">22 Sept 2024</div>
                                             </div>
-                                            <div class="description">Reach Level 50 with Giovanna after unlocking the Randomazzo.</div>
+                                            <div class="description">Reach Level 50 with Poppea after unlocking the Randomazzo.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+115 others...</div>
+                                            <div class="description ellipsis">+118 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3057,7 +3057,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2024, 16:27:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2024, 17:23:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
