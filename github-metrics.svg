@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.95m added, 1.63m removed
+                                    9.39m added, 7.26m removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    459 views in last two weeks
+                                    461 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -3004,7 +3004,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        71 hours played
+                                        72 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -3021,32 +3021,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            114 / 220 achievements unlocked
+                                            117 / 220 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYEAgf/xAAuEAABAgUCAgkFAQAAAAAAAAABAgMEBQYREgAhBzEiM0FRYYSywtITFBUjcrH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgX/xAAiEQEAAQMEAgMBAAAAAAAAAAABAgMEEQASITFBURNhcUL/2gAMAwEAAhEDEQA/ADppM6cn9ESKbzyRNurUkhiGBDeWIAUMgBkSEggHnY76nA5RR5UA6fMD563yOEMZw4otoC/XH1aV/EIbWlhAs50VOrxyDKCbBRHMk8koG6jy7dBYWEJ0p1akpY3T/uQASTBh+tat/fVYVtscdHg9anC5RQ50A6PMD56o5XM6ckFDz+bSORNtKCAIiGJDlsgQkZEHEi9yByuN9Qk6mrUrnEvbch2lw7iFPEZhbtlqxSVLuQVAJNgOiAo2tlYVE/hPsuHNaNWt1B9Oiu7Wn8ZOnKXE4Cb5PDIOcv3q7K7rNQ3hhHHB4NLcO0pND0epYulDUQsgeAVriDjX1SxuIgn4d5xa1xIW4D9MpcJ/WSDdTmBCFObhAGKRfIjQU03S9FU5BxtRhiJbBwdKcigndXRF7WBAue87dxcdOqRjSS5W7afBELb26ezvaBQ2VIy4lN4hJHMlEQff7nR31jWlWUx0eQ6MedQc+p+aRc5g3WIR99TxCVgEKSlQO5SQLJQb7X32N9em8R0BFE1jiLAtQ5/zRkDOKRg1AtVwg/1Ck+3SyUU3VFE1HBwFSJfiXAkOO44lZFyk4mwOwsSLdm3fN1d0Ph2wjLMpQeYSACQrlD1+5TjS2dtXasSWMAnY9mPGv//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUE/8QAKxAAAQIFAgMIAwAAAAAAAAAAAQIDBAUGERIAIQcxQRQiIzNRhLLSQoKx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAjEQEAAQMEAgMBAQAAAAAAAAABAgMEEQAFMUESITJCUWEi/9oADAMBAAIRAxEAPwCdNJnTk/oiRTeeSJt1akkMQwIbyxAChkAMiQkEA87HfRwOUUeVAOn3A++t8jhDGcOKLaAv5x+WkUHTYwF06q23bSvTlOUpfKf3kYCSesP81qbhf1KdXxMcHR+aHlyixzoB0e4H30jlczpyQUPP5tI5E20oIAiIYkOWyBCRkQcSL3IHK431viqbGBsnR2fwnYuHNaNEW8g/HU7ltpQpxnGUvlD7ycjIO3+6Nvv6lSr4uOHo6M6q8PUKVQ1IFCAtSWohQSTYE79emk7FUNyiNcRNYJKkPw6xCtteIUupSVeIdhZQskAdSOdxo8U03S1FU5BxtRhiJaBwdxyKCd1d0XtYEC59Tt6RpxMqMmwAja0aUBcgCFIAv+ultb2mWsqX+x8p8RkiM1EQf3HvvrTXtlVa/kBwcocGO9N25zLpu7APwaZi0X4dL6mlGyGclHuLO2SwU4kDlve3InuJCQmiqxxFgW4c/wA1ElUVREseS7C1k0FpBAJhibAm5/Hqd9XkopuqKJqODgKkS/EuBIcdxxKyLlJxNgdhYkW6bepdX0JWxTfNkyg+4ywBKL2HrBjty6LKyqlclg4T0nZjX//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Phiera Der Tuphello</div>
+                                                <div>Gatti Amari</div>
                                                 <div class="unlocked">22 Sept 2024</div>
                                             </div>
-                                            <div class="description">Survive 10 minutes with Pugnala.</div>
+                                            <div class="description">Survive 15 minutes with Giovanna.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQQGAgMH/8QALxAAAQIGAQEFBwUAAAAAAAAAAQIDBAUGERIhADEHExQiUTNBQmGEwtJSgZGxsv/EABgBAAMBAQAAAAAAAAAAAAAAAAACBAMF/8QAJBEAAgEDBAICAwAAAAAAAAAAAQIDAAQRBRIxQSFREzJCYXH/2gAMAwEAAhEDEQA/ADppM6cn9ESKbzyRNurUkhiGBDeWIAUMgBkSEggHrY75XEuUUrpQDp+oH58nSSF8X2b0Y3a9u/V/AVwGURSI2ZxiO7ZSwkNxFkLCXUpCsFYqvjfzAkK0cQd2AOFjp++B52LEB2H3YADcQOCPVdW/v5EmCDHA6HrNIlyix1oB0fUD8+WOVzOnJBQ8/m0jkTbSggCIhiQ5bIEJGRBxIvcgdLjfMkyhDqlMLA74AqQrGweQDbNIOxvSknaTo/MqfwnguzmtGiLewP8Anhf2CRxJLG7Y3J+bEEFgMHJ/dFhfSvNtbHB6HQzSvZ413tDUgLXszEm37K5RZTKJnDRry1wLkOWtISpQSlSyfjuLKQMdlO9gjVudAKabpaiqcg42owxEtA4O45FBO1eUXtYEC59Tr0Lj53SUaSXa4bF/0wpH28q07VkhtHgIbyz8IxyC5IwQD0cHvmk1DTpXuN4x4A7xwMVMi5i63BeKjX2G3WnkRSlNpOC0pIu2m58rmAwCujidKGVidvaOkJomscRYFuHP9cMgpvSEGoFut21fJULf7eLJRTdUUTUcHAVIl+JcCQ47jiVkXKTibA6FiRb3a9Z7y9hMHxoreWQ+UYAYYEkkgev7mmsbGZZgxxweweRjqv/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwcC/8QAKxAAAgEEAAUDBAIDAAAAAAAAAQIDBAUGEQAHEiExE0FxIiMyURRhFULh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAhEQEAAQQBBAMAAAAAAAAAAAABAgADBBExEhNBYSEyUf/aAAwDAQACEQMRAD8A4U2HMsQsVzu9jic9B9OHYQAKArfUNdRPSO3zwJqbTgVNTTTSYrGEhRpG+43gDZ/2/riYy6x8qMZd2RVHXsuQB+TfvtwlXe/x41DVUqVD1lLMHSFBMHeBipBQn3TvsH28d+JGLjdzrWcvtINSka1J91Zzs25C5o1weD8rSMaw7D8ieFbfiUTeqiurGR9aI2O/V+jwXyKzWvljjd8q6KxwBZIgxCEOkqsOlWVm2V0WP/eM9xjKo8kxr+BLXNb7bSRRrLSiVY2rJQO0bN7Q6BLe7eO3DRzAvct95Y5HPNPBOI0jjRoCOjp2ugAPA/rhlY3b6EnL7RHcpOxke6YObcnc064fB4KowexDIuWeK0DUcdWrdbFJEDAaLd+/jgZmOG47k+OVNVjlPTWyitImH+QFP0tcpwNskajQ9Jek6fvsnsNA8OOP3iwcvcTsFLV36Ilo2jkSRNhwRtgQNkAdQ7/I1wFvOUYVdlmSpyxPSaBqeOMI4WFCCNIOnQ0Dr44YuT2+sYSRlJEiojJ9UzsK5O7s1wHy64KzvF7TZ8ft6y3mlhroqmOKVpngDPSuy7UFTv7Z3+Q8Edx406ZFHRwcpsmht9CKOFQh6UjCK5JXZGvPzxVT1fL2n9Ew5UA8cUcIYox2iAgA/R7778HpXxzLMFv1ut+RRyOFVNqnT47r9J1vfT3Px2/bKye50BCQEoqsUAJD+UwcK5C7t1wnw75K/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Eight The Sparrow</div>
+                                                <div>V - Chaos in the Dark Night</div>
                                                 <div class="unlocked">22 Sept 2024</div>
                                             </div>
-                                            <div class="description">Survive 15 minutes with Pugnala.</div>
+                                            <div class="description">Reach Level 50 with Giovanna after unlocking the Randomazzo.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+112 others...</div>
+                                            <div class="description ellipsis">+115 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3057,7 +3057,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2024, 15:21:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2024, 16:27:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
