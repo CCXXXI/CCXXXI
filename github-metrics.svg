@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.17m added, 2.14m removed
+                                    1.47m added, 554k removed
                                 </div>
                             </section>
                             <section>
@@ -2953,11 +2953,11 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            47 / 75 achievements unlocked
+                                            47 / 0 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQID/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDBAURBiEABxITFDFBUSIjQmEVJDIzcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCm1M8VLTy1FQwSCFGkkY+iqMk/4OF/R9o07eNNjUGqbXSXy4SqZa3xZMhpA2WEEUZHSnQhTPkSzDJyeNeZhxy+1CB9VG6ZzgDqwuSfbfJ+2eFS9680/ZZaf8XugvgqKl0ipdM1Xy8RxxrFJKhIzKXAKtv+2NjxUOV8pYNFXSRrL46fTSR9yropQzy2wek0Yc9xoD9QAITzG2QDsUiTRJJE6yRuoZXU5DAjIIPqOFeh1FV1Oohp6/U8Vuv6Qm5UUSuryQR5wO90gIspB6mVAFaMsrDODx20W0VO97s8ACQ2yvaOCLOe1DIizJH/AAvcZR9lHAAtc366Ud1u4t800dJZrOtym6Y0eJ5Gl6Vim6gSVdQQApBGSxyBwjRUVk0NYpdXXmmpLfzBn71bbrPVElIFkk+XN2wpwyjq6VbG+58tqfUVY09qe+VF3p+9p6+UcFPO7QNNEjRh1KSqu4VlbIbYZyCRxmO66DeaSpe+WaaeRg5kqboJXBAAG8kxYYAA/riKkvJyJ7PX3HmfzCqZ0oRFKtM1QSZ7lUOMERg7sAMjPlv7A4aeXFbUyahtt/lNSU1lFWVVQXI7KTQykJFEMdQKoDkn9QIx5Hg1frfyuvlV4y+XS1XCoA6RJUX2SQgew/MbD7AcFIa2nvlx0zRaao0i05YTJKs8cLRwlmiaNY4ur4nPxlmbJG3qTwH/2Q==" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Hail Sithis!</div>
@@ -2967,7 +2967,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwP/xAAsEAACAgIBAwMDAwUBAAAAAAABAgMEBRESAAYhBxMxFCJBFUJhMjNRUmKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFfefcM+K+kx+IhhsZy/y+nSZ+EUKKNyTyt+2NBsk/x1lecNB5LE/cLHLR1xGZ8rnZ5o63OQckjr0oCH2VHIBiDx0zBQR0pt2a8nqLmnyil6rZHFYSQKpYrVdXsyqQPPF2jQNr5HLo/3XhslFW/UKkVTuSSzkp89W96uzQ3Y5dLLGq7+6SIwr9nzxYlQQD0HDEw41LiNg4nxkhsGq17ASzxvWsaJWOxRsM3PlxbQRvu4kDbfb1pvZncdm9YnxGbFcZitEk6y1juC7Xf+ixF/yfgj8Hx4+Bn61b3eFzufJx1q/bv6mVvwyx12Q1qsLmYW7AB8FmRVT4LEsQNDZR5a7Um79xF3Es3sw5xqKvw4CSK3UWeQAf6CYO4/ALnXjoIHqTQpUc7afMW5cfhe4Y4I3vwIWenerEtDJoHf3JyTx8E7/HTWhP3GmLuYzMZGtYp15pmqv9OiyvCoUxytpCBLGVmkIA2xQeOLAk16/VIbPp/zsnUMF6vI7f4UsVJ/8bqae/8AsdKs5izuJ+qaaKXY91OWpED7YJ5b2o1APjwFU/uYhb46TJiKpexeVierla7JZPsRu1sOqhchICuhJwC6hIJPka8MehXZlCpf7tgr4m/ayWOwdmzfu37S8ZLN+ccFQj8+3GgBI8E7I8EdIpvUTsqSvG0nceLmvRzmYTyLJtmT+2+uGkcs0reNhORAB8aqPQarWjwOdtUdGpZy85gZQdGNdBdb/g9B/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Master</div>
@@ -3064,7 +3064,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 17:28:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 18:29:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
