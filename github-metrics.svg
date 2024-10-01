@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2263" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2276" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    325k added, 67k removed
+                                    5.43m added, 4.56m removed
                                 </div>
                             </section>
                             <section>
@@ -2977,32 +2977,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            168 / 220 achievements unlocked
+                                            172 / 220 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQQGBwL/xAAsEAACAQMEAQMCBgMAAAAAAAABAgMEBREABhIhByIxQRMUFjJRUmGBcYLC/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBQb/xAAmEQACAQMDAgcBAAAAAAAAAAABAgMAESEEEjEy8EFhcaGxweHx/9oADAMBAAIRAxEAPwCNPWbX3Ns+wXXctspYkdSIkkYRqOK4b1DHIniOtAUcWwq6vpaWi2Y8z1DKqH6jL2f8t3o+ukQeEdsxSsyxyM+eIzyILEA9+3z/AENW+40Nt2LtKy1FRTTyVstIZ5G+qc0jtHmFV/bybLHHyCBjWVoYUld1lkZRvYYZhYBjjm3tXdxJG4DSgG4+viq5WP46pqloPwrHJIrFSI5yRkfGeWn7fX7d27se+3ax2OOL0ATU5If8wIUciDxIzkge2R3ozbdmpd5+Pbm9NS/a3W2B6qldOvu+IzIpHyQOOD+px86BtkzTeGN3FienjAz/AK6lrIRHIgSRiCyjqYixYYyaaVdOqsYhZhXVygM3hXaYVjzEjgKB22eetIgml3DSU61IqlukVEscsUaL9xGSgypgkwJomwHXHasSNGgba2tsnbtDX7iWKoRT9OUoGMbnssFGcEZGD79n+hUrPH5rY6up3THU1CMrCSSNyxIORk8e9Npmjs+5Wy7HpYggk+IF6ETxxgLIQGAtnvv05tNzuNPsuw1dVPJUJVtA0CLUBFndsMFURJ6Yol5FiPdmAHwdZzbGibwvu0wn084/+dTrlH4/uNdUVNVvHkZ3LsiwlVB/gBdP2+3bRu/j/cFqsN9iBKqGZU4lioJUlTjOcEE/PXWp6qUO0e2NgAym5VhgEZ4/b0ZZUkBSMgki3n/O+OP/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEA//EAC4QAAEDAwMBBQgDAAAAAAAAAAECAwQFBhEAEiExBxRBUaEiM1JhlLHC0nFygf/EABkBAAEFAAAAAAAAAAAAAAAAAAIAAQMFBv/EACMRAQACAgEEAQUAAAAAAAAAAAECAwQRACExQWEiEhMyQvD/2gAMAwEAAhEDEQA/ADqrU7cr9kUKr1yhNurUkhiMCG920AKG4AbiQkEA9cHnU4HLKPSwHfqB++t9DimZ2cWW2Bn359FaprXi0ZNvOuTIZmTJLrK0b2kqS0jar2E55zk8nxwOBjVbVXVVTK22UncpgfXI7STXR5piGRmXsK9AEduh78iy5ZQ62A79QP31R0up25QLHr9VodCbZUEASIyiHMbgQkbiDtIzkgdMjnXG/F0qmpi93hhl07shltISojGUqx/PXw9NYa9EMPs5vRojHuD6J09tNdtEbq2Z84CM5IjIPLxShfh5BXNERR0HY4x2cthyybOCugakH76Hq9cqVqqTT24zKkhISiQSTvAGMp+E+Y56/wC6cUi27Wsq24c24wxJaB2OlO4oJ5V7IzjAIAJ8zx5Fz61aM4ku3u2M/DFx+Op6LsWzG+3bGWyU0+MkRku+h789RODGeVh5EpVhpARQ7Hv+eC97qF7zIcNTEeMzGzlxAOEhWMk5PJ44Hjqq7R0BFk3ht6FqOfto2DV7QhKBavhs/wBoufx0slu27osm44cC5EvyXAkOO7dpWRkpO04B4GCR8uPMsjKx4YpVXGX5Q/SQATFVT17dvB3k5eSWWBoENI9zXjn/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>EXTRA: XXI - Wandering the Jet Black</div>
+                                                <div>EXTRA: Chaos Rosalia</div>
                                                 <div class="unlocked">1 Oct 2024</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Find the Chaos Rosalia in Astral Stair.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUEAAL/xAArEAACAQIFAgUEAwAAAAAAAAABAgMEEQAFBhIhBxMyQVFhcRQiMZFygbH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAABAgX/xAAiEQEAAQQCAQUBAAAAAAAAAAABAgADBBEFUTESEzJBYSH/2gAMAwEAAhEDEQA/AOp0yTXGltP12Z5Ck0ji0UC2WwUBWNxYuSFvb88HHit0doeh3PV6cpkpwyqJVkZt1zbw79wI8wQDbnnEjTcxg6S6eMa3meOSONvNSWYE/rDDJRU2Y5lDkZyeLMFpaaKSsrHJ7oZkBBBHAsDwDfHNwsP3ScpTl8pGiUjQSf2muU5PIs30jrQH0O1N9NGtNozRdZM60Gl4aqGIlZZ43fYvpa7Xa/sMasyo8o6f6Wz+ty/IUjDJdoyNyyK3CsGYErbd/nOFKOipoppMro8kkoRJA7xV1rSb1BIa5/N7e3xgk6l0k9J011GKt988iK7H3LLi8zD9qMJE5fKBplJ2Mg7oPD8tlXsr0XNIj9a0hvo/Ky9PE7uhdFxiNpSzv9qrcnlsMmhp5KCes+tAWRpewxbxbVJ2Bv4g2B9DY+WCqgqtPaK0fp6krNR9qUIybgSD93LCykkAXHPzxi3H1a0eI9kuc5e5t4ljkQn3O1bH9YmFmFqNyMoSRlJEiojJeqJyvFZN3LLltA0eUPBqk3OcxXMKkwQEPEAYzsNifUD5tyfTgeeCvrjDFD04zhYoWiPYXcrA3v3F55xRo+smjaSTfDmeW3IsQVlIP9beMSNT55kXUjTGoYaXP4g20KiIDZB4gAGsWBKnm/pxjOZmFyMIkJASiqxQAkPVNcdxly3f9bpdJ52/01X/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EADAQAAECBgEBBgMJAAAAAAAAAAECAwQFBhESIQAxBxMUQVGhFWHSFiJScXSUscLi/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAIREAAgICAgIDAQAAAAAAAAAAAQIEEQNBADESIRQiYVH/2gAMAwEAAhEDEQA/AJ01mdOT+iJFN55Im3VqSQxDAhvLEAKGQAyJCQQD1sd8OByiiNUA7+4H1875HC+M7OKLbte3fq9lcMPKh32W4uIabeYKRELU8CWmGSSEAo81nVz5b35cyQ4iHG2R2b2z192AADEaPOtOm5Vy+K10NDY5ZLlFAX+wDtv1A+viOVzOnJBQ8/msjkTbKggCIhlEOWyBCRkQcSL3IHS43zP3CiXIcjYdjBhCkPKLWmYiHXrJLfkvWvy6niyfQng+zmtG7Wv3CvZPCZEQY1yIzemS/uxsFgNnhBm5Wy+LV0dDQvljs5bS5RNHBQuA3EE+/CFWStMkfU065hBpGLK1MlyHUzfTbqQdKTcAEnfrckcZqRTdLUVTcHG1GGIloHB0pyKCdq+6L2sCACfU69JcfOqRjiS7W7Yv+GFt/Xl0SbgEY42VrDOQQjEEFibBAP8Afw2ORnQczZ/IV0NgdCt8HyiB+PviXS91x+HiFITFxSEd0y2ymxLaBsAi+hs3306aB2joCKJrAJ6FqHP8cmwM3pCCUC1W7Z+SoX/PKyW6bqiiajg4CpEvxLgSHHccSsi5ScTYHQsSPlr1UqZh+OEVWssh9owAAYGySPz9Nnjgwcy5wTXR2D2K1z//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>EXTRA: XII - Crystal Cries</div>
+                                                <div>EXTRA: Trisection</div>
                                                 <div class="unlocked">1 Oct 2024</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Find the Trisection.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+166 others...</div>
+                                            <div class="description ellipsis">+170 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3013,7 +3013,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2024, 20:49:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2024, 21:31:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
