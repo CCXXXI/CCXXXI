@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.77m added, 1.97m removed
+                                    1.24m added, 362k removed
                                 </div>
                             </section>
                             <section>
@@ -2985,7 +2985,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        24 hours played
+                                        25 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -3002,7 +3002,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 44 achievements unlocked
+                                            16 / 44 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcABAYI/8QAKxAAAQQBAwMCBQUAAAAAAAAAAQIDBAURABIhBjFBExQiUWFxgRUjUoKh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIDAAQRITFhQfDx0f/aAAwDAQACEQMRAD8A0Mfpm+uZt1Ibu7aOPfPbFCc4EoQHFfCEA9sfbtxq9a1/VHSPrXbLlhZ1rjXoutvy1hcdzHwupG4jYVY3DuPzppdPsYibsNOy3v3F8YAzqdQJE9qOzM9v7OM+HpadxyUpBKdv9sZz41i2RuJQXlOt4pkxjD4UUmoyV29ZQJcsrKTay62VMkP1tgQ0p5GVBtTecbsDbxt1lZPT9szNr3ZcuZIbmLYcZU6+Vbm1qGUk+FJPH14+enT15A6Vo5EOxZqwLWUtRZMJ5UYLJAypSkYHkDPc50K6ZpfdUohSm20Khy2JDeElKjlYUcj5A5A58ajeXbQSqgbedjrX2kQwK8ZkI99xV2Rau11ZCshJ2RmYyUFxSCsqV5SAPKsYz9NLprqy9n2rU6UkN1LjoUtlxz4Bs7hQBx/uM99GrZK24Sa5uNIt2HRhaGw4lDa1JJyMeUnjPIJOgR6QsLqlRCSxZ1rSCEpXhStwJ/gQD3J57cZ0NZpYicjWd8nFLMEbIG61x9rTp6+/WGEwYNF71wSyphHqJWG46yBwfuDzwBxphLua2ritx2yyFeuhpRKgB6quUpJHk84+2ud5tFf9GSYD1K3aWSFgoXDfiqIThWTgoAx24/GiMZMzrHqipnzK+zgS66e3lpyA4ymWyFjC9+0gLHyV3HY504wtdMJEbA86/fe6I5SMBCOO/Nf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Money is Power</div>
+                                                <div class="unlocked">14 Oct 2024</div>
+                                            </div>
+                                            <div class="description">Spend a total of 100,000 reeve using skills that consume money.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -3016,18 +3026,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQGCAX/xAAsEAACAQMEAQEHBQEAAAAAAAABAgMEBREABhIhEzEHFBUiMkFxI0JRYZGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAGREAAwEBAQAAAAAAAAAAAAAAAQIRACEx/9oADAMBAAIRAxEAPwA4kTc9Rui4R0N5qolkrJlhpVrn5sA5AxGuSB+cauMFDuWkBiutTd6aUpkGWZ8P+Gzg6NKiWpg3FU3AWV6hxcGlMyxMFZlkLdcRyx/IB7xpt2Zd9vXGzXDb7XKCskjmYwTxq45AgMshVvmRslhgjviRnsZjVAx7q2cr5ircD3OKN4/iN0Wbl+mUnYj75BX1JJxgg/7rl0MVxu12hNGbnVhp1k4vV+SaFVZRJ5VAxxPzEAAH84OmbcGzqzwoadafzRcpVnTjA8YUA/XkZ7GR985xqg2iAVG5pZmulNSyVNTDLIlRKYV948odPEAzM/IBlLMMAtgkZzqdqDFzCFaToF9udfsi+J7qVuE88S1EzSZj6YE8VOe8AjJH96Qdt7lr7xtiKatntlNdRyenlYqZQgGCAx7wckcc940NG2XW87ql+IUtbIFqeEbSwyGPj5MZJA+kLk/8xrUW3fZ3sl0aSelq5q90UG5O/AqcAr41BwgH26/OdP5wGHEemkUa7PSRV+z6fzRRmoFOolBXj83EZB1nTeVmhtO56dUWGXyTQEO0YJjIkBBjbojOcHOc/wCab6vbu3KSto5np2nlhcysI5pPG7n9zpnix9COuj6aP/aJRx1u4LT4KCr4LURESKhZePMHsj0x366NzTdtOb//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>What's Yours is Mine</div>
-                                                <div class="unlocked">13 Oct 2024</div>
-                                            </div>
-                                            <div class="description">Steal an item from an enemy.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+14 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3038,7 +3038,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2024, 21:32:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2024, 22:26:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
