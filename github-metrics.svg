@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    641k added, 67.5k removed
+                                    1.48m added, 786k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    78 views in last two weeks
+                                    97 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -3003,32 +3003,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            25 / 44 achievements unlocked
+                                            27 / 44 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QALRAAAQMCBQMDAgcAAAAAAAAAAQIDBAURAAYSITETIkEHFGFxkRUjMkJRgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAGAwIF/8QAHhEAAgIDAAMBAAAAAAAAAAAAAQMAAgQRIQUxcZH/2gAMAwEAAhEDEQA/AFRmasVyLX6oiLWKkw2JToShuStIA1mwsDjPgVvMbrl3K5VS3ve8tzu2vbnBjEobFXzNIRPS84kuKWsM21E6t7eB9TxhhUjIUqHGC2ouX6rGSCrouRSp1A5/Xp8b+bfxhHhZibqAtUSmQmy7S56aUujKoDVSzPW5U+T0usKYw44tTaDwVpT3KJ2+NxjF9RsrPVKp0eXleNKZhvr9w+3IdKOklKrKB1m+9xZO9ze2CnLtehZcniJEkQ23Y7vTN7BK0rA5UkEmxsPB+mLHqDXFyZ0JEUlDolNlzQrZ06gFAk72G/2xm6yGEgcIPz81JC552DuVWo8SVMQyjqqcZaKnlm6gsi6kX+TY4b+TVtIjmO1KdQ8CQttBT+ZsBc3F9t/vhVUOoolxU0+PDcjvIQpWooNlq2urV5P+4Ycuit1HLumNIbZmFtIQokbK57vgnY/XApOVeh0PUUZaVmgFzrc55zqxIombqkqOhLkSaUSkWNtGqxPHG5xCmViVVM1Ne4cADxACArtCkqC03v5NlD+8N6NTPe/hFRciJBbZcpk+LJRcKGq6FEcKAPB43GAyt5Rap+aoRpUZ5UJcxCFPNtqCVWKSrt/aN+eMKUeUDlase6nGbiBV+T//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEB//EACkQAAIBAwQBBAICAwAAAAAAAAECAwQFEQAGEiExEyJBUQcyI3FCYWL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUBBP/EACERAAEEAQQDAQAAAAAAAAAAAAEAAgMRMRITQfAhI1Fh/9oADAMBAAIRAxEAPwC3BNPRz1L1FUUpxIZQElZGReXE8yfbjOMY/rVR4a+52uaoqqua3UnpCb0VZhPJGxwik9cGJDZx9fXetO26qzXWZaS51MEqUroXSX2xu7Dsd+WHyp8ZBGjn5GvFLePyBLtqiNyglEMcdM0NW0EMjADkGKjPsRmfOf8AEAgg6ktO4SBgfMqo/wBYB5/cLMbwKXcNJtqpWZ+TxKvLGSrHn2wGcYyD8kab1dpsNXHWPHQUi1iq7YcHkjEHpRkgf1rlt4tNVftxXPcFtr6RYra5ERZWf0o4VBWSYZxh/GTjGM/eqm4axaKW33q3pJNW36Wl4OzPMgVnDSqFY+0AqpUgdAkHyNO3mGw1c4ieKJKNUcLUG6bfc77Vyta2TqDkMEj9s5PtBxknHfwNYm3nQV/5RvV2hq6iOw1MvGFIo8yqOIT2ZGAxAyB/0M6KXNtzXK51VuQXCK0vyScmDI4cskKQpPfEAefP0dG5aPcUNyiqrPZrvSrTvypuNNJ/HjwfH7HyT96OKMAl15WzyagG1hIor3RJcLo8saVc9TGy1Ek7upkOcYYeMkDzjrvTTa+6RW3ahpWmEcNLBAkXEDHMAj0x3kAA/wCx138a4vNYNyTyvLLZ7s8jsWZjSyEknyT1q9se0bgp902kVFpuiU7VUYkZqWQAKXXJJI68aN8TdPeEuOVwfffK/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Debate Me</div>
+                                                <div>His Majesty</div>
                                                 <div class="unlocked">13 Nov 2024</div>
-                                            </div>
-                                            <div class="description">Win debates against all candidates.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQH/xAAuEAACAgEDAgQEBgMAAAAAAAABAgMEEQAFIQYSEzFRcRQiQUIHIzNSYYGCobH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQACBP/EAB8RAAIBBAIDAAAAAAAAAAAAAAECAAMREiFRkQQicf/aAAwDAQACEQMRAD8AuG6W6uxbZtwWvCpslPEcgDwwcDuJ/vU43vfLdywYjJ8IarS/mwv2+LgYHnweQ3GPbR3UVtN56b2a1Y70sRp8M5QfqFScH2yp/nnSF0/eitXrksPaAvYnZOwJVu9iftJJPzZ0sZVa54h2yBtA7tF4q6pd3DcUZgjymGc4h7s8ZHr5n0A40nbrGYupttr09zu2qjSYleVWAfOMDuYZPP00+puklCzSqJOsjOE7UNdnWYt5FuOQcj089YO8UWsb1UsNBHEEt1ZgixsuD4rIOSx4znPsNBA9tmEpsV3D6nUvxXT77fJOzMLhKn9oGFPtk5/3rR6T2+pWWy0Lh5JLEPy8/KoV85/vnTd0f+HnSMdeKzaSaezOxlmDWSAMnuAC92BzwcY090Okuk6YlNSCSNJGV2CSnkjODwc/cdLKnknIqh7m5xTA2DeSLcZ6u22djlYLKxjqJ2KeQ2FGT7emiN5eIyRiIx4aSJCQh80syMCD9PMA6ps3SXTdjeq1+zLLItbt8KFiQkZTHYRjzIx9dd3TYunJ41eLxpJBMXDZOUyxYkf5f91KdXKxvv6JQKvB6n//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Mission Accomplished</div>
-                                                <div class="unlocked">12 Nov 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHA//EACkQAAEEAQMDBAEFAAAAAAAAAAECAwQRBQASIQYxQRMiUWEHIyQycZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAACBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECABEDEgQhQQWRof/aAAwDAQACEQMRAD8ABibmYnUGVyjuWyDeOjzXm2oyHlkOrBIAq6CQSOTx40menSpct2DiJuRTmIqBJYYakLWZjYFuIUNx91n2kXwCOdZdlOpZ+KzU9u2pEYynFrYeQFIKio2R5F/R1pP4z6hx0TpFyRDx0fHSnpCmw42C4TVEAlXySOw8axuQjhd/IQtTRrn+oEsY8w1QG2lqUhMdCha2UFm3dyx3IJ7m+b7caMdQY/ETenoWUTkZwyTMmOwhkqAS56hTwsC7VSVHxqPlM2tckMzx65baW2NyiFNFQogGu3mvvSvpCWgo9GDEjKjPPtqdMjlVjlISDfbvXjk6QR2Qr5HEBYdGBJWBixS+hthiRkVpLrjq2VOu7lEUPcNqBRJ3AE8fY126aVJx656JERBhMMLkOLiN7FtdxattBVmgaqr8aq43qDKKkPw8lCnuRgShuRFZPqoANAdqUmuPnTj8fQYD0qUubBnvLk2h56Y2pH6d/wAUoHtA7C71ORmyY9txYjDfHWN1MC5VnFGC1ILyw5JKS3HkEertWOFpF2EjvZHzXe9R4LnUsbLwqSwYKX2w6I5S4E+4C1+R/f2L+Nat1tgpqOoZWUxrK5UZ1RtaCNrSANuxQ27gBQoJuwe9XolisPlYmSx0qY8phLzyP2yGFhYa3cpXSTx7ifcf8rVsJ7qr/fqDGEgXc//Z" alt="" />
                                         <div>
-                                            <div class="description ellipsis">+23 others...</div>
+                                            <div class="name">
+                                                <div>Globetrotter</div>
+                                                <div class="unlocked">13 Nov 2024</div>
+                                            </div>
+                                            <div class="description">Visit all towns.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+25 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3039,7 +3039,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2024, 23:26:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2024, 00:29:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
