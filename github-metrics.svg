@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2452" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.28m added, 377k removed
+                                    1.04m added, 288k removed
                                 </div>
                             </section>
                             <section>
@@ -3024,7 +3024,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        117 hours played
+                                        119 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -3041,7 +3041,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            30 / 44 achievements unlocked
+                                            31 / 44 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwL/xAAsEAABAwMDAwIFBQAAAAAAAAABAgMEBREhABIxBhNBIlEHFDJhcTNCgaHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIDBv/EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMSBBEhUTH/2gAMAwEAAhEDEQA/AD53VDtEgLkxY7rpMlaO1vUL2JycXsPtawznVlAlyalRKbUFl6LO7TSn4yfpWm5wDm5IPN8edQXzq1R1u1GIt4brurSlK2ykXAuL4vjix599LemOuajUwxR6jII7gCGnGUpQGdtyCoJ59si2ONczOwvDiw/FVyHFaFTKvCeQuFPachtpcKfW16kEm3qWocD+zx50NH6ZjJgT/mJPzCkqPaddbSpSlbR9JPg2sPHNvF4updVNNxyidVVomIU43HCgshzwVKNuCf8ADXXw56gQ+w1SZEdpxDJDndd9CkLKsAAc/k6ygvzxIY/1EUxuTRaZNapbCZSJQDy3FoU523NoudxAAIvfbn+dL5tCrUOJEkPRpUlmaouqMdkXZXf95RyLeL++rnpyouyXYSS0522UbVtg2Te1r2Iz4zqviMU9lTIlRN62P0yApViRkqsdqhkfjRpp6SO5tW/HO96WORujkstOSiwXFBK7MNLG1xRySq/AHt9tJ+nqKkVoLcStosuJCGgdpACrg3txe41vNVusKb2MepZ9QCvbIxjj31Gv01Kauwt2OVFO07w0rAJtgj7G2fFvbQ8fNmdLXR6lRYgrdxX/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Worldly Wisdom</div>
+                                                <div class="unlocked">18 Nov 2024</div>
+                                            </div>
+                                            <div class="description">Unlock the entire map.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -3055,18 +3065,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EACsQAAEDAgQGAQQDAAAAAAAAAAECAwQFEQAGEiETFCIxQVEHFSOh0TJx8P/EABkBAAEFAAAAAAAAAAAAAAAAAAQAAQIDBf/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhEDIQRh/9oADAMBAAIRAxEAPwB1muHXqdUJSk1OYhmVIKWxzSjYqUdISNrfoYGVes1+LmF2it1KeqYh3g2Ehdr+yb7DyfWNDzhm76EYUNSlSJzkbUhSfuL4yjskg9t1C1vBwVykzBiVjnc0RDT6q6khRddvrBF1kjtYgd773OAjj+s3L/UHMKhAblfr7s9UBVTmodClJKXZRSkK38k2wky5TZteZhzX5ok63ywEqdWVa07lPYhW2972x1yKFFqOYZtUo5TIcjFay2ApanrpskJNtN0gmwI3A73xN+PFrRmaJDj8FnlX0LLZOkBZUAognbVbYjc4k89w2CUu4qSkqj0yZSVoqFQKpL848R+P1OhQbOlBCraT+DfDPK+XKRBqkhdScaqipLbSGVrRsgJTpUFA76v95xl2X6TU6VIkVaZHlSXJMt1aoqYziilrqSF7eTe/v+PrDPI0fMUmczEzCZJabKnOYDJSAAlICBpHclI3/s98Ltya2ajsI5hfE88iTNMer0Jp9vLMdoU9wOvPIbWA4lYR2RuDbSk7e8ZZ8XwZU2tw6s/JahoRKS5yyweNI67EWt0i9tz+sJYL9Y4c6U7T55dVK6EKYXcI1JB7jyCfz7xMy8KjG+QYqnabU3InEZjtucsrSk6gVKUbDa9+97e8WcwDWP1rQM3Wf//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Entrusted</div>
-                                                <div class="unlocked">16 Nov 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+28 others...</div>
+                                            <div class="description ellipsis">+29 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3077,7 +3077,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2024, 19:22:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2024, 20:51:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
