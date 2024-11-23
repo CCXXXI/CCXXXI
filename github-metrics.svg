@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    8.21m added, 6.70m removed
+                                    1.29m added, 514k removed
                                 </div>
                             </section>
                             <section>
@@ -3028,32 +3028,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            35 / 44 achievements unlocked
+                                            37 / 44 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFBAj/xAAoEAABBAIBAwMEAwAAAAAAAAABAgMEBREhAAYSMRMiQRVRYXEWMjP/xAAXAQEBAQEAAAAAAAAAAAAAAAACBQME/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAwQREjEUIXHB/9oADAMBAAIRAxEAPwDrpIt1ddSdQJN9PYQiwfSgmc4ChIcV7UoBxjH3+2uKbmDZxHKlqVcWbNUpawFmStK33cAJSSDkDZOM7xjmp0vZ1NdYmFJSXbewKpJYaayAjvIypR0MkE4864uXd19uh+HMrkuRo+FAlwEZzrkcX1i0831O/wAexl2q+pOp9e/dwpEKVaWDBitFaHI01xBRjye/wtWxnOtgb88hzosUX9Y1KnW0yQLIRnpCi4WVj1e1Ozr3DfPQfWK5k0LbpI6EQUZBSHAnBB9x/JAGB8ZIPxw36tfU29XXPtNiS3IZD4DiVNkKUkpCT8eQO0/IzvzzdHrJUVnfz9gZHXfIdwXR1s6f1FczE2bjKWEpQJMpeBlOcoTgeNjX5854orK+ybeU1D6ggyHZKO50qJSEADXb5/XJjjq03Vi1Hr7NxpT7v9I61NrBUdkAaOMbHnXNKr/l7alBdHLcaWUlSVRlg6SQSO5JwSfJ/YHJuRiOzkjUpVZCogB3Ek5236dkw2pjshLBX3ICE4S6M5UnvOlfnHxykD6RZQKuw6gZjRFGSya8KKe5x7u9igfIPgfbfI31Qx1nY+kh6DZuwWVIWhowVuEFO8bGAM6xnYG+H6Gu6mldc0KpVHatRUWTLqyuK4R/oD3KOMADeAMAcWLinYaG+8MpA6n/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHAv/EACoQAAIBAwQABQMFAAAAAAAAAAECAwQFEQAGEiEHIjFBcVFhgRMVMsHx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQED/8QAIREAAgAFBQEBAAAAAAAAAAAAAQIAAxESMRMhQVFhBIH/2gAMAwEAAhEDEQA/AJatdeKrdV5p4ty1VBHFVz+V6t1UAOwAA5fgazty6bgrLxFRJf62Ys4zI1cQgT3ZiWxj/NCb5xlvVcZ+BZp5ORIHqWPejke3rO22RXrVUcksb5bjIgbHQxwbvIz7e3ej5k2w4z5iFJUkTFyAR2c+RabXFbafbrxtX009YsbHL1QbJIODkt657/rWdspbau21zVslHUTiJ1j5ujNzboY+MHQLbHhzt6nlSS41lHUx45AF4Vx38/bQu6U9nod3wwW5KAFKmILwMbY8y+49/TRrPptbQ7nMIIusLrhUDESayPb5NxV8d2EJUTSgvMoIIyez751QNl7cslfaqSZ6+0RuWOBOY1YqGOP5ehx33pHvlquUtyqWjt1XIP1WPlgZge/jT14W2af9yC1NoEaMMs1TR5XH3DDv8d6SntahcV/IO+eXe4lsQBvmKGtg2dbxSiolsz5bmS0kLs+B6dHoadrHS7cjWrkp4rIsoibisbRZVuJI4ge460v21LVPWT08tjpi8akxMKMMj49fMV6+DoR4i263xx2mktljVq6prqd5ZIKTuNBKpdiwXA9MY+mfprAEgKq1avfEV13LNRadcx//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>King of Cuisine</div>
+                                                <div>Teamwork Makes the Dream Work</div>
                                                 <div class="unlocked">23 Nov 2024</div>
                                             </div>
-                                            <div class="description">Make all recipes.</div>
+                                            <div class="description">Use 50 different Synthesis skills.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgB/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAURIQAGEhMxUQciMhQVQWEzgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBgIF/8QAJhEAAgEDAgQHAAAAAAAAAAAAAQIDAAQRQWEFEiExIiMyUaHR8f/aAAwDAQACEQMRAD8ACalXZzVcqAFSnsNokuoS23IUkYUfB1JCNw7iVGj0yqVRl1xRCD9U4A5jIBvnXds0yTI3g5KlQBJh9d3rFVgFXUr3AHwfGmluuW3QJ23FRICkvsNKUywE8Qls2F8eM4/ei3MrmHlgUZI6Hf8AaS8TQt5nvQ6z6X7hcoMUS6vUGZlyFpVIWR8sm9/Gq+b6T1qIY0mZVZAbaUHHFvOKWXAD8UpvfPbOtOUR2FJpLM1YQFLR1FEn2oxm1+2hvctRp9SaKYkpl4YKOC75BvY/rUncSXnC2D3EgfLYAG/zgU+2nWU8gXTvSL2/umLEWmfNcSqWwhMQBbQsEoUT7SMgqJzfvq331vtisVWnSG4Cx0G/5ir5JKrn+sY0l2TWBU5bX26epAkrWlTbCsgKJGbdtXbVLrdSo73KmT3ZLr/IJUhaA2lKbXFxbuR/mqVrhl8D+mlS28ErCSLrnTfWtLQd3wZG11OMvR23eKk9F0EIIKSRyx5wbaSs+pzGaxCU7DLTjr6SVtckgXIFrH8aEpkbdKYaml0upFs8khIaKsEHubZ1NqLVXd5Uh0UioMx1OR+pxjuBCTzFz2sPzfXEFgDMGXt9VpbNIsyk4r//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwYCBAUI/8QAKhAAAQQBBAEEAgEFAAAAAAAAAQIDBAURAAYSITETQVFxImEHFIGRkqH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwEEBf/EACIRAAIBAwIHAAAAAAAAAAAAAAECAAMEESExEiIyQnGR0f/aAAwDAQACEQMRAD8ANb2y3pY/yDdRKvcNsGxYyEpaTPdShtAcUBywcIHXX1pNqaewrGEPXu4bt6ZjCmEWj5bQfvIKv7/91obcnOQ7ValIjludauFYCO3FeofyJ9xyHQ8auIcTb+4YzrUbcbDNvGRzkQ5OOZ+VBPSiOx2ARrdRrS3pjuYyLo4KpSPn5IXcldY2fFyn3JdR3gcCMZzim1n6J6J+8aMmndwI3xVsT7GbJakTG0oUX1qDgKwCMEnHnwdO1zWbfpY7LT+4mH7eUjmxEjY5Jx4UU9qx0eyANTNfWCZvELMZHNizDzC1I6CkuJUsA/7ap3FwtXVRiDSI6X9zJMqGumjyTWy33WnFJafZdS2EONOEfklRyQVDJxk96vKikXPkQZkFCHo7o5oKsckhQ8Z9vg/WiPZu4r+s3jLg3tJb2G2nHnGg21CWv+nHqKIcRgd+e/ke/Q16FgWEDaior7TMyVSywXGizEcUuOr3BQE8sHzjGQc/OgpcJXTePyAdBOHO2mqAuws7BCWYzKS4vjjksJHjP78D71MV8a/jVrFlauqdC5bHptJYDaWi46Afk+CRk/rSTY7vqbevfmPontVkVefQVAe9eSseMNceRHx+8ZxofuP5F3Punc1BErdsX1XVqntIlNSIaylSA8kpXy4/icefb/GdEr0wOfeIVGapknAE/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Coliseum Champion</div>
-                                                <div class="unlocked">18 Nov 2024</div>
+                                                <div>Summon Mask Time</div>
+                                                <div class="unlocked">23 Nov 2024</div>
                                             </div>
-                                            <div class="description">Win 30 consecutive Gold Class battles at the coliseum.</div>
+                                            <div class="description">Create all summoning vessels and masks.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+33 others...</div>
+                                            <div class="description ellipsis">+35 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3064,7 +3064,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2024, 11:33:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2024, 12:29:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
