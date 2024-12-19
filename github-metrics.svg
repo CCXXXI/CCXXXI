@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2274" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2283" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    9.83m added, 7.81m removed
+                                    754k added, 288k removed
                                 </div>
                             </section>
                             <section>
@@ -2939,15 +2939,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABQcDBAYBAggA/8QALhAAAQMDAwMDAgYDAAAAAAAAAQACAwQFEQYSIRMxQRQiUTJhBxYzQnGRUoGh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAHxEAAgMAAgMBAQAAAAAAAAAAAQIAAxEEEgUhMUEi/9oADAMBAAIRAxEAPwCpozSlNYaPow73OLieStcKM7uPhT0EG85BCOQUWcY5JW8gVQAJf5M96LHGCuRQuH0rZxWGZ7NzWZ/0p7Vaon1XTqfag2rhO/IbML6J3wV1NGfKcT9LUj48NwMjugVz0q6naXxDcFyTlVsch2i4dRkAfys7qrT0F4t01NUBw3DuDhMiooC1pDm4IQW4U5AzwuzYww/sN2XLNDvIaB3KYtnsTTE17+FiLA0hwcB2KaVol6lK0HwEhyLGUfzIYy3HEyNga1owBjshNwtIdKZYu/2RnGAuk7+nGT5SSOwOiVlK1zF0ZjfnLUQcA7gjKE2/JqnOHYotjgosGN6hMrqO2BuZWBYC6x4Y7IThr4hLSvaRnhK7UEOwvyOAU7xrSRhlgZgoKmeEjpyu/tMbQ+rOi3o1rvb8lLIAHceQEd0sYTXRNqv0yVsWUpZUQwkkRu/m6g64jOcH92eFU1DqUdER2pzZJT5xkKVmk7dNGySPJ3DOc8Inb7FRUZD2Rhzx5PIWHvHQ9gCc/JX1I9MNr/Sb7jt3u5GBhGvv2XHjgYXP/SlHfsxaRKF8m6FpqpM4LWZCQF2rpqmrkJkfjPymf+JF8ZFTejhf7z9WClHI4ucSVt+PpK1F2H2XUTq0jccNKlhldGWvacEFAtPX6jvVKZqOUOwcIxkEYKfpuUjZP2MbSetjTNbBWHLeyYFHqC3VLAWzsYT4JXnoOx9ipWVUrOA95/gpS/g1Wt2ByR1noaS82+KMudVR8fdZHUmuoIonR0Lsv/ySpfXTvHve7+1C57nclwwqU+PqQ6x2AWW7jWzVtQ+WZ+SeVSccAL7I3YIKHXq601qopKiqkDWtHlPWWqFwegJPyf/Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYDBAcIAv/EAC0QAAEDAwIFBAICAwEAAAAAAAECAwQABREGEhMhIjFBBxRRYUKBQ3EVIzKx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABcRAQEBAQAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AOcWgSoJ+OdXUIyN1QMYClq+qN6bgG5XaNFT/IqoUM2/Rdxk2J6e5hqMgbuEodR+81DYdLXe/wDTbILrqGyeQrQdZ3GI1ARZkTEpQhAC2UZCz+61HRYiQLBGMFlTSUoBUfJ5eaKjlm5QpFvlvsT2y08np2mq62xtBHSvHc06+rNvft+q3VSSHeL1px4BpXiw5M58iG0XnMckJHOjkCljPNXeqTyQDnBo3IiORpqWpCCkk8wR2NQXtpDSQGxzNGk51f0DY2b/AHV1mQ4GihIO0/n9CtEstutGnZct2HufmsI3LOcgDwB91jltnvwJSJMNZL7ZyNp/9p303qgWNbcxxr3SpCjxkHmQP3Rk0n05toudtk3F+GEXMOqU26+kKTjPLIp+vFxYtMILuBQOkZDfSCf6pc0NrFq+Rn5DEP2MZAxxFgbVH4FKl5ladvMp1+5LmEJUUhaXiEKI8AUVADU91h3ydJctkV+YtA61hWQkVP6XtSYEx27uLZYbHSkuoyEkfNFNITdLWbTt6U3IbanOJIbDhzkZ5U9aCt1rgaZSu3NG4S7gohRzuQ35zg0cjIfU6Yi7X4XGPIjdYCEtNt7d6h3xSFd3i46kLQps9ik90/ZroD1ifs8hqNZQ/Atr7QC3VlsAnI7AjsawjVUyJJnrVAaUlltsN5Uc7yO5/dGk6LjLgTsJ5HPii86Uha0lpP4gYFAG19eT2FHINrnSoqJbDZKMkUxkZLRq+ZAsj1qb2htQyCB2Jqou+yVwPar4exJKs7fJobEts6Qw4qNHUvhElZ+K9ptspQdUhlRLSd6hTB5aSt5/hNpK1/8AW3Gd31XS/pSp+Fp5luTHVCb78F0jf/efg1g+kLpcYjb7UOAiWpI3YCAVJ/dSXO9apuDiG3nlf7jsTwunGPx/sUwaH6wWWNfbsZ4usNlLaQCCnmcVhE0oZfebbeS8kctye1EJUe6qiuSFe4UyhRSsqXnmO9L77nMHclbf5BIwaYKzI3KA3bUk4Kj2FO0WFeYJt8dLgTEfV0ScdHbyKRhjHPJ+hTKrWl1U08ha2Sl1lLATs5IA8j4P3VJFkrnLloje8bQmU4WQtAIGR5qzHjXKXFVOTKbEcLLDywOSUp8ml23aqmxIjcdtLKi2orDi0ZxmoouqLhHDSUKb2suqeSnb0qUe+4eRQHrDFdCfcRbiiPxXFN5Vnrx8VPabPdZrMNcaUHyqUtI2/wARH5H6paj6mnxYvBSGNvEU6kFvmlSu/wCqii6inRPb+3d2KZdLwKeQKj3z8igPxoUuRGfa/wAk2jiurZKVAnJB50myUcF5xoqC9hI3J5AmisHUk+FuLAZ5rLnWjPUe9CJDy3n1urKd6juOBgZNB//Z" alt="" />
                             <div class="about">
-                                <div class="name">Tsuki ni Yorisou Otome no Sahou</div>
+                                <div class="name">Black Myth: Wukong</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Adventure, Casual
+                                        Action, Adventure, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2955,7 +2955,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        129 hours played
+                                        115 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2972,32 +2972,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            38 / 38 achievements unlocked
+                                            81 / 81 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBwP/xAAvEAABAwIEBAQFBQAAAAAAAAABAgMEBREABhIhBxMxcSJBUWEIIzJCgRQlQ3KR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxESBCEiMf/aAAwDAQACEQMRAD8ABcSeF/6dK6lllk8gAqfiA2DaQnqjzN7G464U+HOTVZmlPPPulinxyErUn6lqP2j026nFUCMvyQT2GFdECTEjSy2wZElyQ4stpSlgrA6JSN/tHc4XcFX0JPjM1h1MQalwqgvtOOU2YqM6U/LQVamwR5m/i374R82ZIquXELkvN8+mjQBLRbTqVtpIvcG4I/zFF1Wnim05mTKjy1BwcvQw2FrQSL7i/wCNsZPxwkT4jjFOjyHBDVCS7MbQnYanLoKvQ3At3tg6tt8i3rwMmUA0HGj4FEX8sLmep7NKpKJyZTSZ9OeEgpKgLq0myT36H84Ccds2x6DRVUaM7+5TUXUofwtg/V/Y229OuJsffclvF5xxSibdVE++KOcwdS69yl6PxniVdyNDTRZLEh3wuuqdSWWRa6l36kAAntjpSKTS8zs1msTYglieEI5bpuktJV4Rp9tKT3xNS6vOaYLIkq5axp03AJ3va9r2uL42T4fc0zZdUcy/L+Ywplbzbyr60FJBsfUdffGEAUyrMSpE/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwL/xAAwEAACAQMDAgMFCQEAAAAAAAABAgQDBREAEiEGMRNBYRQjUXGRFRYiJTNDocHR8f/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAGxEBAQEAAgMAAAAAAAAAAAAAAQIAERIDE2H/2gAMAwEAAhEDEQA/ALzp21PdodeVMul3Wr7XXp7aUxkUBahAwPlo/wC7ibmC3m+PyUI9tOEOM8nGu+iyVsEhs9pko57/ALraOrbKVVEkgGklFWRGbh6hbByT3xx37ZzqsDg2m7rug5fS6cp0yoqXO/KWO3d7exBOP+/TWN4tVS2UaEyLdbszrKoL4dWUXRlaqqkEY54OncEo8l1jqKaNS94qkFVfdgY8uwPzwNCdVP8AlMXBJ3TYq5Pc++X/ADQhxlN02Dh+lMp0/JVRkrNkj0/Wb+NFT5kKbRqMai1Y9A7soCcuGwQD6enx9NKenbj9mQ5MSTb7qagmSGykR2VlaoSCD5jB0qqTLza0elZaMxoJJ2UpUCrvUnOcEZ8znsNLtwGn62rX7q+HKhQKi0NworWHiLlSFLE9gfjgjWPUhJgwuBg3KP8ATxdS8K43GVMpVeoIt0NKjytCNBqkOePxMTjGCM8DP9trxeVuCwKES33XcJ0eoxqQnRQgfLEkjy0dhMPiZs3/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>樱花盛开之日</div>
-                                                <div class="unlocked">27 Jun 2023</div>
+                                                <div>Final Fulfillment</div>
+                                                <div class="unlocked">7 Sept 2024</div>
                                             </div>
-                                            <div class="description">通关 露娜 After Story </div>
+                                            <div class="description">Each ordeal paves your path to what you are meant to be.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgf/xAAsEAACAgEDAgQEBwAAAAAAAAABAgMEEQAFMRIhBhNBYVFxofAHFCIjMpHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQBAv/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAgMhESIxcaH/2gAMAwEAAhEDEQA/AKPbkaaVI05JxrpuwUNvqxD84QJyM4J/TqV8K7elembs4BYd1B9Pf56d7dVsbxFLIqygdZwShCleAQeCR37anx4g7Wl2XIvUlHLGWTza8gZAMhF+Go78UHdPBjX1jlKRknCnODkAMfb/AHGjpKlnbrZjWSRGIHB5+863uRluwPRmkM0DRsjxEcgjGD9dOVqpaDs0MX0Ip7eyxQR9QlkZi7dP8VGBkD+8fPVh4Wu04qK0Fkjikr5Ty3YBiOQcHnk50VW21VCM5J6VCZ4JOlm41FDSS1qZayQAZmGMAenxOjBdcTbIwC4IKtkpVeUxFv2kdzIseeWXOSB7cdu2gqVqtPdsvTm86vCwHXzlsAn650p3qpvNu8lWuZa1CRM2LbYAYc4xnPHp2B+WmdPaDT2yLadmTEpUlfNbj1yx+/Qa7q86PEW2OlaC27Pz3P/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAQIG/8QALhAAAgIBAgUCAwkBAAAAAAAAAQIDBAUAEQYSIUFREzGRoaIUFSQyQlJTYXHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAME/8QAHBEBAAMBAQADAAAAAAAAAAAAAQACESExEiJB/9oADAMBAAIRAxEAPwDucHjvvDHWr+Ry+Vi5LNhWMdxkRVSRgOnYADTBx+NRiG4kzJ3HRRcY7fBd9E4ej9bg7KRn9ct4fW+qOF570LtNbt7gRMFSdlADRI3b+ydSDhNd7I274yQaGPgheQ5Tid40UszrLMQFA3J/LouUxrUKtXIUstlpPxFfZJbRdGR5FBBBHXcNonFJkqFo4rFlopcfdLxvKXU8sY5T19tt/npjOHk4axa7+89FfrT/AJph2Cz9XfZrwtCZeG7tdGAZ7NyMN2BMjjf56XwluevMyvVK2oa8UNymp3kTkBVZo/5EI8dennpofDmROLqWalnH5UyrcsPvHUZlKtISCD36HTd7KVLBjmkxuZSeEn0pkotzoT77eR5B6HQ8IsPysZxk/iOWTJXBDUKvYt1JK1SIdeWOTb1LEv7VAAAHuT8NWOIo/RxmMhGzKl2om58BwN/lqfjcljsYZjXxGdM8xDTTPRd5JT5Zu/8AnbxrGZzIyAoQVKGV5/t1eRjJSdFCB9ySSO2mmL+xltqBwn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>已经达成所有的成就</div>
-                                                <div class="unlocked">27 Jun 2023</div>
+                                                <div>Mantled with Might</div>
+                                                <div class="unlocked">7 Sept 2024</div>
                                             </div>
-                                            <div class="description">已经达成所有的成就</div>
+                                            <div class="description">Shoes on feet, hat on head, embroidered shirt, Daoist robe—free as can be, doing as you please!</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+36 others...</div>
+                                            <div class="description ellipsis">+79 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3008,7 +3008,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2024, 19:21:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2024, 20:51:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
