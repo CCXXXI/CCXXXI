@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2267" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2283" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    42.5k added, 7.39k removed
+                                    1.02m added, 288k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    88 views in last two weeks
+                                    89 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2506,7 +2506,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.76386036960987 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.84873374401094 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2567,7 +2567,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 525k out of 156m users</span>
+                                    <span class="gh">ranked 526k out of 156m users</span>
                                 </div>
                                 <div class="text">Published 62 public repositories</div>
                             </div>
@@ -2838,7 +2838,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            128 games
+                            129 games
                         </div>
                     </section>
                     <section>
@@ -2956,7 +2956,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        12 hours played
+                                        13 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2964,7 +2964,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Feb 2025
+                                        Last played on 14 Feb 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2973,32 +2973,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            14 / 50 achievements unlocked
+                                            16 / 50 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcCCP/EACoQAAIBAgUDAwQDAAAAAAAAAAECAwQRAAUSITEGQYEUIiMTFTNCUXKx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQQAAv/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEERIhQf/aAAwDAQACEQMRAD8AiVTUa3EasUUbFl284W5h0XTUsjLHmFXIqyMgb27gcHzgQylnKjkmwxfMqyKOvyyWmR2GYUzGMtI6pFZUVQtz3Yhrb7aeO4ux1QhuxuTXFhrkye0vRFPUVxg9fWIv09eqy34vgdR1JGlX9wYWBbkHF8rcnpct9MJWZ66RPkKuHhK6DdQRtdSADvvfgbX55i4j8YclEUgoPPZqGYg9Ta/nX+4/3FwoM2WhzbMDVrNNB6suFhYKVZVcAgHbhjfEXqKdklWSOxW4Ygdt8Ma/q2iOcVRhp6iWjkd5BKq6XLFj+pNtNvPHFsc0Mi7DxtVjrmO6jNPusqR0kUsBVJJFaRhqLugudthbSOL4hEXEfjDzIusoUricwp5IIg3xPH77JptZhtvfe4/njAugpnsrS2AUXse5w5FiuF5+QpVl31P/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAQP/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEAAUREiExBhNBB1FSIoGRQmFioeH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAgMAAwADAAAAAAAAAAAAAQIAAxEEEjETMkH/2gAMAwEAAhEDEQA/AIjLkFStCPpA2JHmhtSvkfzWkFTmlIJUVYAAySaa7b0FenoS51whyIEFKSrW8jQtY/ilWDjjemFlX05M4T5F612+fdpiIlsjSJcpQJDTKSpWBycDx+9ay64y8th8EKBKCFcpUDgirn0/aUWW2NQLezItPeaC57zqkd54fELHA/AHHO9Sb1Et8a2dZTGIIaTHVodQhrOlGoZwM8/7U1PKFthQRjV9VDTv6azUw+o3EhxTMqQ0pqO6lYRpXnOM+M4xtg1VOoZloh9KImXWS/NXKaxiTNW+QrcbZ5OQcADjFQeXHWlXcZIOd9uUmuNzm3S5Ph6bJXIcCdIU5k4HsPahfxflcNsKW9BmRhuPV9zeWezNfUcAd13BUMDYJ9h/dL7z7smSXpDq3XVEFS1qKifuaEQiT+rT9hR8OMsnW7gAbgHzVKoq/UZFaf2f/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Lord of the Lyre</div>
-                                                <div class="unlocked">13 Feb 2025</div>
+                                                <div>Hostile Negotiations</div>
+                                                <div class="unlocked">14 Feb 2025</div>
                                             </div>
-                                            <div class="description">Conquer Ipsilon</div>
+                                            <div class="description">Kill all the knights in The Duke's Plea, except the Duke's diplomat, and collect the strange fragment</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAcIAv/EACkQAAIBAgQGAQUBAAAAAAAAAAECAwQRAAUSIQYTMTJBUQciUmGBkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCI1dQWbQn0gbEjzg2pvuP9x0FaSYIilnZtKqNySTsBir/G3x7kdSjVvGtbKuk7ZXS6ucovbVMQLp70je3X1jqwk2pvuP8AcJpKgq2h/qB2BPjGjc7+E+Gq6F6zhSWXn8h2hoKic8ud9N1Kv3Lb0bjpewxm2ZQlU6KjoFe2mTuWx6H8jphoZkmYnKs2hq+RDUKjgtFMt1be/wCrHfb1igZXxfW8Q5qZqmjyWhoqWEXEKhe09wUsLbm5PS+JvWUzg64rEHcgeMBaOfUCANvwRseoxLNMaopuOafhujglrqmCKmhTUqXs0wG4Kjqzdo22Nyb+sx1dQauvnqWGlppmlI9FmJt/uDyyV08muqmkmewUNIxYhR4F/GFUdM5OuWwA3APnFiSY/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYDBwABBf/EAC0QAAEDAQUGBQUAAAAAAAAAAAECAwQABQYREiEHEzJBYXEiMVFSoRUWgZGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAdEQADAQACAwEAAAAAAAAAAAABAgMAETESE1Fx/9oADAMBAAIRAxEAPwCkZcgqVkR4QNCRzqOO04/vA2VFSEFeA5gefxrUS+NXenbZzdS27UmRrWgQg/ZzL5afc3qBhp4hlJx8lDlWma+bhfuorQSQsTknMr3H90TEkFKsi/EDoCeVd7aFdly7dtZUoIhSQXGD6eqfx/CKWEcae9FJmbFG7GadFoodejsXxq71YuxO+f2xeQQ5yx9ItFSW3gsYhC/JK/nA9D0pCmRlg52sCDqQOVALRJPDlw6g0qsVPIy2ktkKN0c97VLUtV29Np2TaMnfRocxZYTu0pypPCdB7SKS0cae9E2tPnWq+xIl4KkpYQy45hq5kGCVHrlyg9q1DjLJzu4ADUA86l2LMSTziKetAvHH5v/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Where's Woolly?</div>
-                                                <div class="unlocked">13 Feb 2025</div>
+                                                <div>Thunderstruck</div>
+                                                <div class="unlocked">14 Feb 2025</div>
                                             </div>
-                                            <div class="description">Destroy the imposter in Solomon's Flock</div>
+                                            <div class="description">Get hit by lightning</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+12 others...</div>
+                                            <div class="description ellipsis">+14 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -3009,7 +3009,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2025, 22:24:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 23:25:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
