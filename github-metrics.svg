@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    466k added, 702 removed
+                                    2.47m added, 1.35m removed
                                 </div>
                             </section>
                             <section>
@@ -3077,9 +3077,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABwECBQYIBAD/xAAwEAABAwMDAgUDAgcAAAAAAAABAgMEAAURBhIhBzEIIjJBURMUYRVxI0JicoGRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDM14ub1zk/UfwMD2FcG8/IrzhBVSfGe1A7cQeOP3qQ07a5F8vcO2RBl+U5sQPzUcOeMjHzRz8K+mI8zVErUF1/gwbUgPJfX6d2cUAs1vpmdo+/uWi4p2yUIS4QR7HtUBu4xjy+9aa8WNihXeJb9YWFaZbTqiy883yAEisxjkf9oF3H2rqts12DLQ+zgqB+K5PfjkV5ONwoFX6qb805fqpvzQKBkYA5rUF5cb6ZeHZFqJH398CsODuAobqCvR+wG+60hhxv6kSMsOyB/TU94gNT/reqhb4ru62wUJS0j4VjBoCJ0LuDWtOkl90LIUPum0LeaWvk+Y+3+qzhcYioNxkw3DhTLqmyT+DirZ0g1K5pjW8GQlz6cZ1YQ/8AlNWHxA2NuJqZN5gISm3XBI2YHdWMk0Ao7UqfUKSlT6hQOXjd5QQPzUkvT12RCRLVBd+3c4SvHBqNXjPHI+a1J0StT1w6ZxHZrSHUfcLCd+DxQVDp5b16H0Lc9Qymy3cFNHDav5k+1A+dIVLmPyHM5dcU4Qe/JzRx8RktUOHb7Y2FNqCypeDgKTjgYoDj80CgHPkznvkUelIPULpQ044ndcIeW47ae+U8ZoCg8YzjFFjw93FTWopMA71IkNhKE54SrPegH6NL3tX3G23PkMDLnHpHzUQAUr2q4IOCK2Fr6yvsaC1A9FbSl4Mc7cA9+9Y95+p5vVnkmgRffmp3Td6vcCU0bTNkJWyd6Gd52E/29qjbjAfgyfpSkFJxmudlbjDgcbUUKScg0BW19fbd1EgRp5kpgXqMkNvR3jku4GPL8UKHEKSpSSPMk4NXRjUtjuLLY1PaXnpCBtS5DUGuPk/NWTSGn9AXO9NSJ91EO3ggmK64S4o+4zQCVKSohIGSew+aJXTSVatHSDqG5zEOy2RlmAg4WVfn2qwa90t05i3NuTZL2gxBjfF+oSs/saqR1Dpa1Eu2GzSlTU8JdlOBxB/waCP1pqq/3u4vTLjKkMJkk7WErKU7O4BAqpA+bBNdFwlPTpLkiQcuLJOBwB+wpIkV2VJQ0ykqUo4FB//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABgcDBQgEAv/EAC4QAAEDAwMDBAEDBQEAAAAAAAECAwQABREGEiEHMVETIkFhFCNxgQgVFjKRUv/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHxEAAgICAgMBAAAAAAAAAAAAAAECEQMhBBIiMUFR/9oADAMBAAIRAxEAPwAn0hp1lpnA3d/NGrWnUKbJ93/a5NIuJKPcB3o8jlso+O1N1sW2CKNNoyEkkg/FcL0KK2soC/cfaU55NMRAbCFqAGUjPNZk1v1MXozUS2SyX1uOn109ylHwR4rVQyX4WlzdMZ95txBQQo8HxmmBpe2tXayNzEJUSfYcHxWcdZ9VGr5IZhQGfSYcwVPHvz8ZrQHQOer/ABo2+RuSpvLo3HlQNG7A7itBArTyNvZX/aFNVadadiOJO7t5pslaD8ChTVJQWHAMUrVG2vYPaZXsQcgpTnuaNIbylJGDk/BpeafdQWQl54NbjgFXZX1Rs5fY+lmGk3FoulwZQ8n/AFP1Tt0I7kki11BdYOn7BJn3aQlphtBUsk4wKwTqzUydQ62l3N1BXEUoox5QDwacHX3Wg1atUC1LWI6R7gDwo+KVXTi1l+bPSUoX6beVpUnPH1UXKztnxZ4UpME7ippbpMVpSUg5z9VpzoPq6PdURVKfbakxgEPMnuUDgGkDcmBFtkhssbVF1WVkfGewqTQDsq2XdEyOpSAMZ8KHiip0LDBLM6ib6KGn21OsSUFBGU48+KEdUh1qMouDAPb7pf6Pv65Cj+RN9pGQAT7TVxe7o7IUpkKUWW07gonO76FUUuxzSjKL8vhJZ2rk9BYFnS0ZJWRvcRuSj7IoH1Nru5aIub8G8tpulqe4cSE+9Cj3KSewpi9L7m08mQ36iUJQMqJ+BSz/AKijEuj7cO3KRJmk+1DQ5UfFaaNFXLXo7rLoOxN25yVcG30/kD8hGXOW0q5GaC7na4Oj9TRZ1mmok26Yr03iATs/erTTOk9e6rZZYuMgW9iOhIW04nCi2O3NMDUN30xam2YkxhmQI7YS4EADcQOf5qPU73yW11+AU507YnwI1x1DLbhQn3lFCFcFwfGKrtQaJhMxWf7DITGbKsLkuncgJ/aqbqT1WcuTgjW5gsxWwEoSvkADx4qDU2q0S7AmHbG3JD0xlLRU2fahWOeKScHYcXJeNUg5t+otNWC2sW+wtqmzkcuzSrc2VfIwaudCyxe4F4nqBUgI2p8bgecUmrXpm/RLMp1qzymyRlS1EEY805uldlFg01Kirlokuvo9Q7ewJ5x+9WitHJkTb7FT0vujC2dQRlSUpW9GCU88jn4q9tUrTmh7HKcnKRNuMnPLh3KR8jBPakS4iTDiv+i+WpS04yOKp3je7ksbmnXikYUvPAFNJE8etDE1f1XkzEERH1MNI4AQcKV9ZpXy7zOfRmYtfo7isBR9ys/dQvPNx0EbQuUDjkZA/iuBtmRMWVbFKA5PgVMs0kenpa3EqSy3+if/AEMkfzTB6aalscGM1br5H3BxZ/WHGz7oERBfCwqG0pRHcHmpUvRlKWmYyW3wOCOBmtdhikzW0+1NyNNLn6UuzK4KG8yG3DuJT9eKW/Tm+eo6/hzJDqkhJPg0lo+p7lBgSYUGU+iO+Njg3nkfVE3S+f8AiuBLmTuUTn5opkpLZ//Z" alt="" />
                             <div class="about">
-                                <div class="name">Assassin's Creed II</div>
+                                <div class="name">Assassin's Creed Brotherhood</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3093,7 +3093,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        57 hours played
+                                        51 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -3121,7 +3121,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2025, 14:27:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2025, 15:18:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
