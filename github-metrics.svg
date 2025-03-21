@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2234" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2225" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    726k added, 288k removed
+                                    465k added, 514 removed
                                 </div>
                             </section>
                             <section>
@@ -2944,7 +2944,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 21 Mar 2025
+                                        Last played on 22 Mar 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2953,32 +2953,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 54 achievements unlocked
+                                            8 / 54 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAABwACBAEDBQYI/8QAKxAAAgIBAgQFAwUAAAAAAAAAAQIDBBEABRIhMVEGBxMiQSNSYUJxgZGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIDESExEv/aAAwDAQACEQMRAD8A5gQFjzYgfJ09nUH2BiO7HUnbKUl+/So18etamSFc/czBR/uiDJ5d7UPDVzdId+d4oJGAnkgjjjYKWUqAZcliwGAMnHPh56X7NqleMGnECeYI/Y6qAQVOSQeh0XvC3lZtt/Y6NndLe4RXLsIkSKFU+nkBkOCMtxKR2xnPPQplSNbE0cMnqQo59N/uGcA/yMajyGiWdEkbNfm2m/Xv1VQ2K5JjLjIR8HhbHcZyPyBrPQ+ON4q7FR2upfvrXijmjnR7LFZVlwGUD9I4F4e/uYjGdaomV+CQeo76uYBGQSPwRqu0jfitvYSNz82btnYIdup7etKWJDElmOwxZU4AiqBj4AI5566HFdPazHpyUf3nSCD5JP4A0/iJKgLhR0AHTQVYzHirXs//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABwgCAwb/xAAoEAACAQIGAgEEAwAAAAAAAAABAgMEEQAFBgcSITFBExQyUXEiQoH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgADBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMREiH/2gAMAwEAAhEDEQA/AFgjBY9tYDyT6xvdM7X6m1BQHMKWiSjy36d6pKvMZvhjljWwLL+R2O/HfnF+xWk6LVu4VBRZrFLPlsKPV1MUSMxkVegh492LEXI9YNW5OZTU2ksgpstdElmqmoJ0r5mRFhEquqokrcCeKICLG1+gDbCJGqcufEBHVe0+rdN5e2YVdAlTlyQJUvU0MwlRI28Fh9wAsbm1sYIAgqeRIPg/nDd7Y5nNmml9UQZxIZJcvWWkpxl1Q8gaMF2HyLGxRbcgtrC49ecA3ffS9BpfcOrpMngqKfLqiKOthhmjZPj5EhlXl2V5A9/56xGg1y6eMhsLqNdMbj5XVTVi0VLUhqGedkDCMPbiTfoDkFufQvgkbzxR5fLkFXXLDmdLWTUzRyLU/HwdOQccUJHjgb+/fjC6oSt+iQfI/OLCAwB5EW6AYHxhVLC11KT3Rkdl51r31UcraLL4aZa1ai83ycw7IU/ixsb8XPL+tuvuwON+tSQ6n3Eq56XMBmNJRwx0MNSsYRXKks5W3kcie/f6tgbKoAuWPfVlB8fvE+RJQBbKvQAHjActWD1UKMumz//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Prologue</div>
-                                                <div class="unlocked">20 Mar 2025</div>
+                                                <div>Master Shinobi</div>
+                                                <div class="unlocked">22 Mar 2025</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Assassinate an enemy through a shoji door</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwECBAj/xAAuEAACAQIFAgQEBwAAAAAAAAABAgMEEQAFBhIhMUEHEyJRYXFykRQjMoGh8PH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxESIVGR/9oADAMBAAIRAxEAPwDmahpZayfyoiBYFmZ2sqKOrE9gMbfNyymDIsM9c9reY8hiS/uFHP3P7YhIJo6KmihcMa832AWPpYqoJ9ibm3wGGHwt8AarVLSNqHNBlDxxpK1Ake+qVHvtMgPEe6xIBu1h0GJY2miWFI6O/YNQNQSokc61FO9rGZG8xb+5U2NvkcVraOaimjEjB0kAeORDdZFv1B/tsNmu/CLLdJtmmVZHNNqXUElMJYafaqNRxAgyOVB/NlIttReQpZiOmBmOaQ5fLQyxMTDKJUJNjFztcW9j6ePcYRBEK2WwEY7NENRLDR5dXUp2zUUhQN12Nu3o333W+K4etJeLcenNDS5zmUVNHqzPJRAamAb2lii9P4uaEWG9bso5HmEc2AJxzrTzSwCQJ+mRSjqRcEf7yPY43PSUkwVqStVARzHVAoyn6gCpH2wg2so9Qux7GTWXjHkaZfl8Gi8oqmzKieSWPNM1CtIJpAA9RsBIaY9mbhew6WHKZXkpK+tqXZ3mYRB2Ny7swdjfvwLn6hiktDFDEWetp5H7Rw3cn5mwA/nE1tWal4ljiENPENsUS3IUX5N+5PUnvhMxaUqpWrJM/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgDBQYE/8QALhAAAQMDAwIEBAcAAAAAAAAAAQIDBAUGEQASMQchExRRkSJhcYEVFyMyM0FS/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMhERIx/9oADAMBAAIRAxEAPwBYGwVHuogDk60tkWjV71rqKVbcRUiRt3rW4vahtGcFaz/QyfmfTOqyhUt6s1im0uHjzE6QiOgkHAUtYSM/TOdGOPd7fTlquOdPorAbhVGLTFy3E+IuYloPLdcc9A4rAAGMJT276gWutx1odQovK16vZ9cdpNww1xJaAFJwrchxB4Wk8KScHv79+2qQBQKTkkHg6PzV5ReoUihfmFT4q/xiRMpLclCNrkMKUy4w42fRKnNpzyOSe40EqtS5NHq8+lTgEyoT62XAOAtCtpx7aDSYyXUerrsyqpoN0Uarra8ZqFLbdcb/ANJCgSPuM6b+S1ZE/p2IcaJSmozg3wZLKQy08lBJS6XO37Ru8RJO4fEMZIylCCU57Eg8j11oLfuuu0CM+xRatLhxn/5Y4O5tz5lBBSfbQDhXJFvYTRzaHZlCtLztThw3mGMKVJdAcMdveHFKBOf1nCAEtgkgFI4CiVWuKrO3FcdXrcltDTs+St8to4SVK3YH0GpLhuatXH5c12qypqWEhLLSiQhsYx8KRhKfsNVG4kpASQkcADjQ52eLSCHU5cv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Unseen</div>
-                                                <div class="unlocked">20 Mar 2025</div>
+                                                <div>Scouting Mission</div>
+                                                <div class="unlocked">21 Mar 2025</div>
                                             </div>
-                                            <div class="description">Perform 5 assassinations in a row without being noticed or entering combat</div>
+                                            <div class="description">Gather information using a scout</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+6 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2989,7 +2989,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2025, 23:27:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2025, 00:32:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
