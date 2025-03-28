@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.01m added, 479k removed
+                                    27.3k added, 3 removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    127 views in last two weeks
+                                    147 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2920,7 +2920,7 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABwACBQYBAwgE/8QALxAAAQMDAwMDAgUFAAAAAAAAAQIDBAAFEQYSIQcxQRNRYSJxFCMyQoEIFSQzkf/EABsBAAIDAAMAAAAAAAAAAAAAAAIEAwUGAAEH/8QAJREAAgEDBAICAwEAAAAAAAAAAQIAAwQRBRIhMRNBIlEyQmHB/9oADAMBAAIRAxEAPwAcesul6y6Z/NL+azqdT25k3LmOLykpSpJG4HIFPQXVpUU4KAMu4HYVpTgklKSSO33qw6IkxUX9liaj/GkkIdJ8CiQZMC4cCl5D+s26S07Lv7pDQxDa+pT5H0ioW4LU1LeaKgpbSineO2BR36itxNHaFRb7Sj02ZxP5o7889659zvyvBO08g91UxVXYJV6XdteBnP4+o/1ln2pesumd+Rx8e1L+aVzulwKI2jPUxSpVmuDqGpwuJjJQAf3eR8VdOk9nTcdXRnHwC1GV6jme2KpRP7z37H7UXLKwNJ9M5twfOy4XBBbZPn3FTUBk8yp1aqadHxDtuJaNWXCJrnRNyEYAybYtexA+DgVz6UlOQeFdiPmiN0SvTcPUbkeZy3PGwpPYnzVZ6gWZVk1VKiq43rLqPso8VLWO8RLSlFpctanrsf7K9SpUqTA2zRHJX+COQPqUgfpSM5rZBivTXg1EQVPKOAK0K/14b5KuDUxpe7Cy3+JKLYU00oFQo0UMZFVaoKZamJOaR0Jd7rfo7UqE4zGCh6qlDgipjrbdELvEezxlBTEVpIIT2HGK6GjTY0nTqZtvDalra3DYBnOO1cc3lxxy7TfxKz65kL+pR+e1N1ECLgTLabdPql2Wr8bOhPMw8th5C21KSUEEKScEUauoVoOrtI2i92hgvSm0hte3knaPNBNIwQnHfzXQH9OMx1y2Sob60rZbypIUPOaC3Xd8Y9ru63C3dLtIIBpK7ItMiZJjKaabGRuHc1XshWdnBSOc0cev+pmiGrLa3G21A7ngkeDQNx+WCOUZwpQqKsoRtsc0u7r3VJatYYzM5A7UsinbFe1LYr2qMKUMsizVPkkuekNUXzT8dMppD0i1pJ+nOce9QupRBkylzoDgLTx3lo/qCzyatXT/AFxBsNsegXO2mSwrJJwOM1JuyNAXqSlciFIhFXn1cJ/4KaKmouMygas9rcl/Dx9iDnT1rN3ubURDqWCo8rXyE0XpWqLPoex/2vS60zbitO1bqOQlXnNRYs/T+MVuouDiyoYIbeIIqKmaosVsgPQNP2xSVOZH4h/CyPnNdoppLj3FLuq2oVBtB2/XqD+Y89KlvPyVqW84oqUVHJz7Vpxxjx7U9xK1OLUeSoknFN2KpRgX+Puariko44n/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcBBQYECAL/xAAsEAABAwMCBQMEAwEAAAAAAAABAgMEAAURBiEHEiIxQRMyYRRRUnEWI6Gx/8QAGwEAAwEAAwEAAAAAAAAAAAAAAgMEBQABBgf/xAAlEQACAgIBBAICAwAAAAAAAAABAgADBBEhBRMiMUJREkFhcaH/2gAMAwEAAhEDEQA/AFpRRRXnCZ9xPDgw8e4Zr6AXyJUv256sDsK+DgYJScnYVtOGTEG434Wu5I2l4bRn70xF3EZNwx0a4/qVtr03JkWt25AFthsZSVeaoFKSorA7pNOfjlJaskCNYrakNBABcwMZBFJYAAJ9PdJ9xork0ZD03LbKq7v2YUUUUrehNZvORU1Aqa6Yagk7G/qQdlJPgnB+KZPByOxBk3C/TwDHgthxtR/LNLdIUshpsZDh5QfmmprENaS0FBs0bCpkoc7o88qhmqKPszJ6uxcLjj5yy4rOs6y0kxf4QGWnFBeO/KPvSZ5shsI2A3pp8HH2brbblpyYoJD7eGkn8jS2u8J233KRCcThLLqhzfGaPI55EX0cjHsbEPx5H9GcxqKP+UVKRxNr5SAc5UPd9qsbLapN3uTUSLj1XjygVXnbIxhQqw09dHbJeI89o5WwoKxRV++Yq5X7R7PsRo6E4V3OLe25185EsRzzYKdjWF4kXhN31bJcQT6SB6Kd9hy7bV6Jlami3/RElcCQn6l1gDY7hXmvKctK0zX0KGTznJ+c1TdoLoTzfR7bsq97ckbZeAJYaXuhs2oIk1LhR6Cwo796a3ETh/P1FOYvdlQHUvtIJSgbZxSVUkFZygqBwDivU/D64KsXDpuXd3vSbbBVlZ7JxtRYw8SDOdesfGsW+g+Z41EFrLSjml2I6ZDyDOc9zeOwrLKOFFQ6uYYOPFXuuL6dS6lkXBznKT0NDOxx5qhHSOnsD1ZqVx5TfwnuNAa/loec0UUUPoyohEOwZuNJ2TUTFi/kNmcLuVFCo/cYHxWe1ChZmLcdt77D6hlwn2g/qumxawu1iiKjwnkpZ7hKhkZq6hcSri0QJkSHLQvZWGRmqDorMcLk49j2hQ3+Ss0M/a4Fw+ru0V2U0jBbbTtzKrS8Qrze9QW8Orirt9pbH9bKtir9471xSeJclKFogWuE0rGUlbCTg1krzfJ94Wlc90rSDkJa6Ug/qhL/AIDQikxnybu+6a1/O5Wjx4x/lFFFJZv3N9WIX8T7n//Z" alt="" />
                             <div class="about">
                                 <div class="name">Assassin's Creed Shadows</div>
                                 <div class="infos">
@@ -2944,7 +2944,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 26 Mar 2025
+                                        Last played on 28 Mar 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2989,7 +2989,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2025, 19:21:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Mar 2025, 20:51:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
