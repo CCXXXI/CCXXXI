@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.16m added, 3.14m removed
+                                    7.95m added, 6.73m removed
                                 </div>
                             </section>
                             <section>
@@ -2522,9 +2522,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcBBQYECAL/xAAsEAABAwMCBQMEAwEAAAAAAAABAgMEAAURBiEHEiIxQRMyYRRRUnEWI6Gx/8QAGwEAAwEAAwEAAAAAAAAAAAAAAgMEBQABBgf/xAAlEQACAgIBBAICAwAAAAAAAAABAgADBBEhBRMiMUJREkFhcaH/2gAMAwEAAhEDEQA/AFpRRRXnCZ9xPDgw8e4Zr6AXyJUv256sDsK+DgYJScnYVtOGTEG434Wu5I2l4bRn70xF3EZNwx0a4/qVtr03JkWt25AFthsZSVeaoFKSorA7pNOfjlJaskCNYrakNBABcwMZBFJYAAJ9PdJ9xork0ZD03LbKq7v2YUUUUrehNZvORU1Aqa6Yagk7G/qQdlJPgnB+KZPByOxBk3C/TwDHgthxtR/LNLdIUshpsZDh5QfmmprENaS0FBs0bCpkoc7o88qhmqKPszJ6uxcLjj5yy4rOs6y0kxf4QGWnFBeO/KPvSZ5shsI2A3pp8HH2brbblpyYoJD7eGkn8jS2u8J233KRCcThLLqhzfGaPI55EX0cjHsbEPx5H9GcxqKP+UVKRxNr5SAc5UPd9qsbLapN3uTUSLj1XjygVXnbIxhQqw09dHbJeI89o5WwoKxRV++Yq5X7R7PsRo6E4V3OLe25185EsRzzYKdjWF4kXhN31bJcQT6SB6Kd9hy7bV6Jlami3/RElcCQn6l1gDY7hXmvKctK0zX0KGTznJ+c1TdoLoTzfR7bsq97ckbZeAJYaXuhs2oIk1LhR6Cwo796a3ETh/P1FOYvdlQHUvtIJSgbZxSVUkFZygqBwDivU/D64KsXDpuXd3vSbbBVlZ7JxtRYw8SDOdesfGsW+g+Z41EFrLSjml2I6ZDyDOc9zeOwrLKOFFQ6uYYOPFXuuL6dS6lkXBznKT0NDOxx5qhHSOnsD1ZqVx5TfwnuNAa/loec0UUUPoyohEOwZuNJ2TUTFi/kNmcLuVFCo/cYHxWe1ChZmLcdt77D6hlwn2g/qumxawu1iiKjwnkpZ7hKhkZq6hcSri0QJkSHLQvZWGRmqDorMcLk49j2hQ3+Ss0M/a4Fw+ru0V2U0jBbbTtzKrS8Qrze9QW8Orirt9pbH9bKtir9471xSeJclKFogWuE0rGUlbCTg1krzfJ94Wlc90rSDkJa6Ug/qhL/AIDQikxnybu+6a1/O5Wjx4x/lFFFJZv3N9WIX8T7n//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAABQYHCAMEAv/EAC4QAAIBBAECBQMDBQEAAAAAAAECAwAEBRESBiETIjFBYQcVURQygSMlM0KR4f/EABkBAQEBAQEBAAAAAAAAAAAAAAUEAwACAf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMREgQTITEF/9oADAMBAAIRAxEAPwCeZCQaMFr5r+XtGPYGheTzCiSC2ZCtrbeZyfXn/tS7Dnv7kJroO7EABkOuNdc/Klxd+LDbyQI6gMHO/wCadtbaHqmIwWfUIueXhoTFD5ifivqbqW1iAWPZcn0oNg8la4+wuopYwWlTiDXhnubJZSwUFgN1E9oHk2WgmPWNzOMFgTxZSDyJLe9GfDUwq0bAxMOX/akN1kWljMaKFR+3YVZ+j8Hk7noqLK+A8lsCU3r8VvxbwJnbToPYLniHt6UOnXVHbiI69NfH4oVcpr1qlh2GSoMGIXR2AOZztvbsw8Ll5qpvWXRb31lcZKwZAlnEFKa9ddqD/Q+FZcrcTyIecaghatthZ2crXFvOxRLkcSm681JsuZvY+GxM5Y/ofKZLBfdYUIt1chwRv0r56d6Ju8xlkgt9+GD5yRWkOgrNMFc3mNaSJ7bZcRuN+ppvgxtnC7yxWkaO/pwUChOT4+I1x1BTMykfptkLTqCO1nXnAz+bQ9BWpMfJbYvp6yxGEeFJAg8sg5AnXftQuWwH3mMLppXOmB76FCuprG5g8SdFdWj7oVOu9U8FN/si/SbX5FfrSGD9a5sisNyv70b0Y++hSTcoGYr3JXuxo7nb9bxre/lBNyjcWRe29fmhN5qSQyJpdjbJ8U1rpCtvIO+iQk+8Skf4woLGrBjZQ1zMzEcWJUE+1R/6OyeC2ScHyNGAD/NP0d6AxKN/THz71Kt4RcSg1ljA/UsFzZ9Vm8xt8yBQC6uSQo/JqgYfrDjDHBl9qpA4zg6WlGa4iuXEg4pI3l4sN86WcxFe43JQSwSiawmbjJEe5i+T8UQ69r5iVVnUvs0f0TjbN5Jsl44l5jy7O69HV0VtcR8VIYAbIWpH0b1bLjrqG0adDC5p4yOcjsLOR0lSWWUEKNbqvjVFGknKtDiSO+jx6m6R2IjLsN77jvQGVJURyRwUDylvce1GL+KK7u2ORH6aBnLEntuh5jmlt4ZZzytHkMasPcCl3sAWHopJk/wmdTEwlArKG9e9NNlnrWZA7T8d+26mHIumpWBrtG6RsobkR8GgrCTFPhlRGfheVI4p0Z9+TX5rvkb+C+shb3cmgx1tTo7qUQ3slrcJJCN8Ttd16IcxdLcLIJEZQ3LWvevtY19nWDYSudI4y5zWctYLaJorWQiL9Q57DVWu76NW0t5Vt5PGQoFCFtsze+j7Vjy5zd4JxPb3M8ZPYJE5UKfzRK26zzAjQPk7kd9EGQ7A/NbduDJ2qzNUXH0+S7Lvcuis8YXzHsn/ALUm+r+Fi6Lkhto7nxZJdaKt5V+dVOX6vyTAx/cbwRt+7cx3Qu/zc+RlByM0s4XsObbOq9PaSJy14n//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Assassin's Creed Shadows</div>
+                                <div class="name">Stellar Blade™</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2538,7 +2538,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        158 hours played
+                                        86 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2546,7 +2546,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 27 Jun 2025
+                                        Last played on 29 Jun 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2555,32 +2555,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            43 / 55 achievements unlocked
+                                            15 / 45 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYCBQMHCP/EACsQAAEDAgQFAwUBAAAAAAAAAAECAwQFEQASIUEGEyIxgQcUcSMyUZGhYf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAIQMREjFRBEGR/9oADAMBAAIRAxEAPwDmylU92oOKsvlsN2Ljp1CQewtuTsN8WK5VLhWbYhiQoaFbxKyf0QkeL/OJSwYdAp7DRCVyQXlm9rlRIFztZIt5OHOP6XxBVpNMm15tiWzBalWbaDgJKvqqvcJ5aE3N82Y20F+nEAN9zquy+OAoF+zzEkS6XL6H4Qjk6Z2FFBHgkpPm3zgKowXILzdnA6w5q26m4ChfXTYjcbY2JwV6a0+twHKhKqMswTJcYjrZZCOc0CU87q7WOUlGpN7XGKGvUtmnP1yiNyHJApzvMbccbyKJTZKgRtoe3+DARtuCOM5KkX3xBYEiOhqjVGS068xCORxtpQSorRcoFz2BunX8A4suM+NGa86841DeMhxlDXuJK0OK0WpalAZLhRUonMFA6kG+FSlTlwXVZm+dHcFnWVaBY2+CNjg4wqdLVnizkxr68qSkpKfIBBwgStSrYlz6MDfUcKF6nJpHCiKSzRgXGQlLD3uT0dSlLP231Ub21HfCu26+5DqdUnuLckzllJWv7nFrVmUr9AnyMY2YdKiKzy5okkahuOkqv5IAH9wLUqg5Pfb+mGmG+ltpPZAv/SdzhFi1TeLCuHVib+z/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCBgcD/8QALRAAAgICAQMBBwMFAAAAAAAAAQIDBAURBgASIUEHExQiMVFhFjJxJDNSgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aw8W8TguK8dnbjmKydq7DPJPLcex3ArOyKAElUAdqj09euFbkdK9ajgrcG4+8sh7USP4wlifQATEk/wAdSztJ7fEOGJXCmQY+3KR6t22ZSf8Aeh0Z7MKVvFZQZ1Kby2aEiSRI7KiJrTMzlmXXy/Tz9SP4IAZHMV8VkLFPIcHwcNmNtPFIbYKH66/v9FwXcTm+IcmduOYmhbpV4Zq09UzhwzWI0YHukYEdrN6dO+Tez7JZXlLWxax1lbbS2JzVn/aFJY9qt5I0VA1v86HnpVTwtjBcb5zTuaEy0YFdf8WFuHY+3jfn89AJl3uR8Z4KuOMnxU1OzEixjbMWtSroD7nfWh+zijLSr5XAZF6aU44GmaxZCSRJYSVEmdtDudE2nj1Kfbu6qfG8ziIaPDrrZmjXu4WOZJKtmKc9xaeR/BSNhoo+t7Gifx1Cperrce1JzHGEdv8ATwAW0FY+8R9aEGiPkAIGt9BZuRYPlHGsrf5OMs+ansWJUkLHu+MqKi9zKxHn5GTyoA15XYHVKxnw36f501R53ikx1d1M7h3A+Lh8FhoH/nTzNZ6HI4GpjTy/HSitKZUlsG45Q9oXSD3PhdeNEkaAGh0ijr4jC8X5Mq8ixN+zfrRQwQVEsd3cLEch/fEoACqfXoP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Epilogue</div>
-                                                <div class="unlocked">6 May 2025</div>
+                                                <div>Tachy</div>
+                                                <div class="unlocked">26 Jun 2025</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAQcCBgADCP/EAC0QAAIABAQEBQQDAAAAAAAAAAECAAMEEQUGITESE0FRBxYiYXEUIzJygZGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQMCBP/EAB0RAAICAwADAAAAAAAAAAAAAAABAhEDEiEiMUH/2gAMAwEAAhEDEQA/AOYJYLHViANz2jYzqD9tWI7sd/4ECwCKB11MMvwHoaevzNUSajJJzawlq6yhOEsU9m/IhiFINwPVtv7Gfs7n4qxZhgx1BH6mCAQVNyQdj3i/+OX1nn+pl4jgeE4HPlykUUeGlWVF1I42XRnsbE2Gw0ihyhxAqelmH92gfBgtlZnDeWpHQkH/AGG7leVkHKcpcQ8+Y9MxSbTlWXBaHkvLV9045mzW3N9OkKNCVvoSDuO8T4QRcEj2IMCdFJQ35Yy8WxHwqrcuYmlHhOZqbHeUXpqqpqhO5s2+nMsba7nT41hbU6el2O2ij5veAEUAEkn2AMT4iSoCkKNgBtA3ZvFiUfp//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBBQcD/8QAKRAAAQMDBAEDBAMAAAAAAAAAAQIDBAUGEQASITFBBxQiE1FhcSQy0//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDDxLpNCtW3X1W5SqnKmsvuPuzFyNwKX1ISAEOpAG1I8edBKuymrUMWTbg/AVL/AN9FVimyqla9ixqdHW++7FkDa2M8mW6OT48cnQVv29VYl70eA8zGjTXH21s+85ZX8uCSMgpOO+tBYGfGjMKem2VRGEuLCWm1iZvcJAPxH1usEHJ+4xnXRmbSK3aNzrNuUqBKhR2XYz8UvhYUZDaFA7nFAjapXjWsXIzHmxUwXo6aXUqeEoZkrUhHuN6i2hAJ3bAUJ+SyeMAEZPOP0JaV23fpbQEAwmCUjGEn3jPAxwRoLM3RVbWtO0XqNLcjrfgSEL2H+w9273kc6mh35XK/eNMjy5jAhLc9u2iZtUiK2s/JQVwQoAZznJwO+tOXphdlgwrTojF2rhPyITMhlcaRCcdUCp5a0lKgkpA5H37PXemO4bo9G6vSUsxEUynSynb9YU1SyhJ7ABbwP33oFJ6vUap1VTcKouSWaW8mSy3IjqCnEpyVhKFbsjAyQSnJOf0qGWxUKZf85h2M4ZkBh5aWGVNJbUZjOU4PnzkcHPjrTTCT6UUyLJkQqzLfraU/x5MhbwRv8rKEs/k8c6o6si0qVZlwJptxw51RmsNR2IseK62EpS+2skqUn5Kwk5JI/Gg//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fall of the Shinbakufu</div>
-                                                <div class="unlocked">6 May 2025</div>
+                                                <div>Juggernaut</div>
+                                                <div class="unlocked">25 Jun 2025</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+41 others...</div>
+                                            <div class="description ellipsis">+13 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2591,7 +2591,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2025, 22:26:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2025, 23:27:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
