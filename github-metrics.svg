@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    807k added, 399k removed
+                                    2.14m added, 1.30m removed
                                 </div>
                             </section>
                             <section>
@@ -2540,32 +2540,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            29 / 67 achievements unlocked
+                                            31 / 67 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQEDBAIH/8QALRAAAgEDAwEGBQUAAAAAAAAAAQIDBAURABIhBhMiMUFxgQcVYZHBMkJRodH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACA//EACIRAAEEAQMFAQAAAAAAAAAAAAEAAgMEIQUREhMiI0FRgf/aAAwDAQACEQMRAD8A9W6dlVen7jOxJeefs84/aozj7nWEyM7ALGzeZ9Nd0UqQ9MOyk9map8e440j07TieliqgwZJEBH0PIIPvp227zOJ+rPTYuNVgHxRT1s+0Ey4I47p8To34g7bhQ264ImJVJp5TjyHK/nSV3gSlYMvAfBJ/k5xnWK3wSV9LXUcz9o8h3QoRgKy+B+ufzoU5RFM2T0hqNUz13xgZ2x+ZVUSGKzdgByswkA+2sdtF9tMjCgpJJqR33CJ1458wfLSPQFzpeq7DSXFNoIO2ojB/S6jvex4x66cutWsdI/fxI52gDx9dS04Sy9g35J2rH0ow3fAQNRW1NZRo1bEkVQpw6I25Rzxj+tTblkW4RyQuu5CQVJxnOP8ANUI5Ug4GdJ2SKP5iZcZ7nBx4HRlhEbCQrg8nZX//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUBBwMGCP/EACsQAAIBAwMEAQIHAQAAAAAAAAECAwQFEQAhMQYSE0GBIpEUIzJRYaGxwf/EABcBAQADAAAAAAAAAAAAAAAAAAMCBAX/xAAbEQADAQEBAQEAAAAAAAAAAAABAgMAERIxIf/aAAwDAQACEQMRAD8A6jq5xTws22QM78fOtXuV4KcN3SN69AaxXy4tNJIRJ+Sp3xxtxpPbYq250cNwtZoZ4nYiWGoDK5xthXBwpH8g/GqlW9/Pm0oxWa+3z2huySMIcAs28kh0SjvMIWoWCxiUDHpkB+r/AE/bSmptDidxHlU9kDUWyseBnQgjxr2qNBmM1I6mDvcci0ZjpYpCGLfq5xxk/fRfQHmp7PLSyIqSLIzxB9sg4zn50T15fKXp2WjmqrdcKyOYt5DRweXxAYwW/Yb/ANaEs13tHU1tkrLHUCSOM9kkbr2PE2OGU8aWgZBwD8xLUVXy2ZdTVFrNCaa7SxlZcARRuTJ3eivbuCDwdVxf+u7V0zcaa3XiWrqakxo8k0aBiADgF8EfUQM7D/mnD08dA81UF/EVjglV49cZ9Z1QfUfTnUbXOSrvKxRVFWzTdzMG7t+BgnAGw+NJOaseE6TI0wBMdJ3/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>改变未来</div>
+                                                <div>女（NAN）友速递</div>
                                                 <div class="unlocked">7 Aug 2025</div>
                                             </div>
-                                            <div class="description">点击load</div>
+                                            <div class="description">选择选项-随时欢迎你联系我</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgP/xAAtEAACAQIEBQIFBQAAAAAAAAABAgMEEQAFBiESEyIxQRRRBzJhcYFjkbHB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEhIjFBQv/aAAwDAQACEQMRAD8Ar+gsiXTmlKeSaEDNKpUaZo40Ulm+VAAALAf3jRQGaCRauaqApflMJUFR+e4P1wRmUvKDIoQcshkH2HbGf9TJK00YDPC7Eo1thiljl2LGWrQAajeqqDWVXLgconBIjIe+6mzYGmEWW0yJxCM8F42tcexVh5GOE1NLDVQeip6qdiokZlAEcanxckX+wucL8yqVnURyst161B3B+v8Atu2+BW9mBjcdfn1DpqtsxooK0dKuAj/pv4/f+b4I03C8tSUlkjhgi6TThbtI5v1Fj2FrWA3PnANHmEc+nZo6DK5HnWEnlBgDK3ixO3fycTrT9fNqOjeg1CEpcyhbjpJ4WICA3ARmvvZlZb38eMdPJo05HgQ7qazqXqocUtLIVjJWOMkDsD7DEw0bl1ZU5OaXMKaSPluTBI+w3PUt/cXww0XBmUUEtNmc00/C54eYxJAAv57j2wli+L2X+qqqCfKqlFilZVMPC5sDs1ri/wCMFCa2pmqRzzVyRP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAcD/8QAKhAAAQMCBQMEAgMAAAAAAAAAAQIDBAURAAYSITFBUWETFIGRInEWI+H/xAAYAQADAQEAAAAAAAAAAAAAAAACBAUBA//EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRIQQSMUH/2gAMAwEAAhEDEQA/AHNNUqtTlJbYKvyUlNgkq3PgDxzxizU6LXqey0paFOpUQhQSQQLm1ub9z2tjhk5+qxq368KC5IilKUrKR+KgeQfIIuMNuYKlIbmaZjK24gRdtanL3cOx2sLAC1v2cRuiquhLIJLYHkGZZo6KZqkVBTsh8iyCgiyATc2vz/pxLMEsSmSwJSBrc9Rsjva4SQObj664HpnS61JTDp7JKLjUeLb98VM15dfpKC45q0OLUhtQNzxybcXvx484YpudUKN5MNFYuFn2GGprtI9tHzDCkSWY5Ht6rBA9UpHCXUjqB1FwbX2wuVfO2TI8F+DTqlIqFVnJ9vqkOuO/2BV/UWOAeg0gDpxhjy7LVVcvtuAAyWLtutK3CjbqPPPzbGcy8qXzK3IoVIZRoLcgJUk6S4lZC0+LoV9pGGkKtsicbKCMMh1DL0uXlqqMEttOhTiXFIcBIKkkWO25IuD9He2NGqkiruNU5M6lB+c8VOMxo6tKG7C5K3FbCw+STYA4Ss101+rUp0lIckRlB0JO+pIG6TbuNsLOa/5FOytHq2Qq5U5NFY3eitydTkZwcpBG60p/Z+RgUqDnEPlZQhhP/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>欢迎回家，我的主人！</div>
+                                                <div>要三思而后行啊</div>
                                                 <div class="unlocked">7 Aug 2025</div>
                                             </div>
-                                            <div class="description">点击continue</div>
+                                            <div class="description">选择选项-提醒她们要确认清楚</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+27 others...</div>
+                                            <div class="description ellipsis">+29 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2576,7 +2576,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2025, 21:04:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2025, 21:49:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
