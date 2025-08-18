@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.62m added, 2.44m removed
+                                    6.28m added, 5.41m removed
                                 </div>
                             </section>
                             <section>
@@ -2557,7 +2557,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 17 Aug 2025
+                                        Last played on 18 Aug 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2566,7 +2566,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            44 / 67 achievements unlocked
+                                            45 / 67 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QALRAAAQMDAgQEBgMAAAAAAAAAAQIDBAURIQAGEjFBcQcTUYEUFSIyodFC4fH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwL/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERITMQQhQVHR/9oADAMBAAIRAxEAPwB48XtoxXVMTqZHbTLccIcQEqIVe31BKe+bfvQ/Y9FO2kl594Sp7gDaODCEDrb1JPMnt00a3C/Iq0dfzgpZgj7gSEFQ9CRyGB1vqrtp6NWd0u0eRGT8MqK4hKFJA5CxFjywcdtK3XWjSfE2lY1ZMdW6muI78PKXdwAAgJsEHmR7aKRZMeSFBtacEpyeZ/0HQibtqPSNsShFMiS802VoDjhJNuSQTewtjSpSZynHUeV5raBfjQ6kpUk36/mxGDfRqn1fZQqDxzEXw/aizN2UyRUHw6yVKWXpJFkqSkk2/v31sErbTEusU6vxZRLsclaVNWs6LfTcjmM+4xrl6RLkwPMXGbcQp0YcUohQBBBwPW504eCW761QJjEKXJS7t5aipaHSOJhJNitF82v/ABGPfT+vqdzir1D0uEOW7zXq3v6X87do9PpraXEmypLqlWTi5ITi9umcnVOlRZVSqLykcTiG7l1ZNypRFr+1xjvqSp7podWqLcaApD8tClKL4Tw3SEBRtcZH6OiG233ItM8iKhRfeJUpack9vznRFq2lAxgyxsyCRxP/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>变态的心里话</div>
+                                                <div class="unlocked">18 Aug 2025</div>
+                                            </div>
+                                            <div class="description">通过章节-不能把友善和病态弄混</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -2580,18 +2590,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABwECBQYIA//EAC0QAAEDAgUCBQMFAAAAAAAAAAECAwQFEQAGEiExBxMUIkFhkRVxgRYyUaHx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAIDAAMBAAAAAAAAAAAAAAECAAMRBBIxE//aAAwDAQACEQMRAD8AH1RnGIhCWXO5KcOyjYhv3A4vjlAlSFyUrclSTJBGkFRUVfjCZip8mG9FVLZdZDzZCVOI03sd7fIwXcpZIp+Z2Ik1UeXCnRmGkuOKRobfIHlcQb3OwSb7Ya1i0AFhGVo1oIUx+Tc1iZDQwoAyk+UKUNVj9sX6Pk2XWAlydJcDahexTb4wN+oFNcyZVaBUO4hysSO47KMdsNtHSoaSEjjkj3xojL09ip0eJLikdtxtKrD0uMH6B1FijNk71dHKbsz51foaqpRYi2b+IjrcWi3rZsqI+EHDehVbzI1BahmIzKo3cOlxS1BbIN76fQi/p97YIFYjAP0oOJ1JVMSkj+QULB/onFN6eu1jLX6ojogmVRqVJUhWlYQ4gElQIvsoaSCRyL4F3VkwzXGLg6PIRKjSaRUq23KrDqHJbrYbbjKcF0oTf9qebc3/ADiE6c1v6JmCfl58KRTfFOop8hZ8oKbFTRPte4/3A/zD1cgw35rWWaW4upy1DuPumw1hNk882HAG3ziT6H1/67RZsKrstSwtwvK2AUhV769uFG5352xOC6V4ZQyozao9n//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>不要按，绝对不要按！</div>
-                                                <div class="unlocked">17 Aug 2025</div>
-                                            </div>
-                                            <div class="description">选择选项-暂时保留答复</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+42 others...</div>
+                                            <div class="description ellipsis">+43 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2025, 21:01:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Aug 2025, 21:42:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
