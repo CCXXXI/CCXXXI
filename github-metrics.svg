@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    414k added, 294k removed
+                                    7.99m added, 6.80m removed
                                 </div>
                             </section>
                             <section>
@@ -2554,7 +2554,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        24 hours played
+                                        25 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2562,7 +2562,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 18 Aug 2025
+                                        Last played on 19 Aug 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2571,32 +2571,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            47 / 67 achievements unlocked
+                                            58 / 67 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgIDBwT/xAAvEAACAQIFAwICCwAAAAAAAAABAgMEEQAFBhIhMUFRMmEUIgcTFTNxgZGhscHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQUCAwT/xAAkEQACAgEDAgcAAAAAAAAAAAABAgADEQQSIQVBEyIjMTKBsf/aAAwDAQACEQMRAD8Aups2kkk9bySyG5JN2dj/AHjSckkXJKYS1rAzMu517gdh/mC/0fachy+hGb5vJGr3sLtcRnwPLfxhPp4U2os8rIKRQKSGEsXlFyzE2BA8DnFyksC5HlHeOtVdtXYPuNqPMTIFZ7JwBt8k9APb3747jIs6lQTtZeqmxFx2wR1JQ0uk9L05pUqZoqe0e1Wu9ubv+XJtieS6jhFGKp3vEygobdVt1t+gxFPUGQIswD8TzMlhqMxrTS5RQ08k00z71p5PlCtb1buLccG374f6Y09nmntQxT1FJTzUVTAUqdk91jHUAcXPI8d8CvsxaPIoKjOa6OBm2/VvYs7kgHgDpbzf34wpy3V1Q1J8LV1G6OJADVT2VmvfaoUE3NlOCxsVfDzxHnUVW8iyoZHfg/vtGmpdQ0VLlssjoFKDl5LFUPt5bwMCqKNczkSORJEguGCj5T6bheO+D7ZuuaV61GYZdKY4fuFeoIW/koBbC3JA6/ClpAwZhOWRetz5P4Wtgo9enTIMxNobqzllwDP/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EAC4QAAEDAgQGAQEJAAAAAAAAAAECAwQFEQAGEiEHEzEyQWFxURQiQoGRocHw8f/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMRBBITISMxsf/aAAwDAQACEQMRAD8AWnKhGjsOSpSktNtjuJ2wdZkzgKg+pkvlqMN9HrwVfUnwPGMpnbOS3k/ZoitSEnuHRR9ev9+mM1lenTK/JkNo1uFlHMdIuTcnSP76wNHpRUOSwd/JRbYXO1ZppoiOlLjL45ilAJJO5PrFLK+aarTnOVzy7GCQ4lDm6VJJP6dPGOSbk1WX3EScwKWUmO6tuOkE61hOySR0te5PrEClVFTcclaQr7gbRv0xd47xjGRMSrJ3mX5nB3Nq330NtQ1LbRqAD+xue0G1tVhfFHgGpNAz7U6DWkGLPktBpAX1DqDqKD7IO3xhjhZ3oEeRCYlVaJzpli2nmkqOrtUdtgfF7eMcvEjLeUZbkap1xh2PMefbZbnQ9SXtf4QSn4sCR8YgN7OClo9zXYFbKGTeNM6HRsu85/luT16mYpULlBIsoj4H8YAqezT3KRqD6nKm46lDLDQNmWx1Uo9CpWwAHTqcNWcckprtUg02O2+2/KaWUSpzhdVHZbAuQi+1yQNze5JO++DyNlR7KVdfiVBTbj0YgoWjtWSLhY/L98Ou5Kask9xMDY4An//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>演艺之路</div>
-                                                <div class="unlocked">18 Aug 2025</div>
+                                                <div>谁不喜欢漂亮大姐姐</div>
+                                                <div class="unlocked">19 Aug 2025</div>
                                             </div>
-                                            <div class="description">通过章节-到达终点却是回到起点之人的诗歌</div>
+                                            <div class="description">通过章节-谁不喜欢漂亮大姐姐</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABQYBAwf/xAArEAACAQMCBAUEAwAAAAAAAAABAgMEBREAIQYSMUETFDJRYSOBobFScZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAgEQACAwABBAMAAAAAAAAAAAABAgADERIEISIxQVGB/9oADAMBAAIRAxEAPwDuFtt3lKNX8BUhhUBQEyqqPgbgan+IrwlXN4aheQbHlOQdMcQ8QN4LRUsbAIeViP2CPf51PS8LXK60ymhqRAZD9WQHEgT+KnHU77/kaY2KmAmU8ThYwKvSmp4xUVPOkIIUyjdVz0z3Gl7eqTxq9HX08q9sONJ8Q8OxUVmj54w1M6rFNExLYOOoP2z/AH01G2jhCV7zFTLOi0khz4z7FV6/c/vRlKLlNjfE2l1leBYulfPTyvOjmORMhg+3K2Ojfg77aquALxRw23y012aslRfEkd1LcpO5HMMg79Bn/Ompi42q+19xpzQU8cdUhNPVST7RNF6o59vUPUpHXftqoquH6qCGOJo1WFRkywHAPyF7fnU3WX11ryYH8EyoLeOzHFd8avjhpLZR1MyyNyrUbIgc7DruMDJzjW7hUR0IaOqixV4CHAyFPcj2yfjRtkjkrXFvDYVJCGJ2HLnqPnT16p6m108rovmJFj+lIFJfHfI7499SUm7WBHbff2IjlAuT/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QALRAAAQMCBAUCBgMAAAAAAAAAAQIDBAURABIhMQYHE1FhQXEUFiJCobEjgZL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB0RAAIDAAIDAAAAAAAAAAAAAAECAAMREjEhIkH/2gAMAwEAAhEDEQA/AB7d1sJD1ghSswT37XxGQ4yhpxxRBDQuEj1NsCqS1LrFTjQIICpDqjlzGyRYbnwBc4FzDKjSX4MglchtzpOBu6rqFgbd9RigvFfWDiT5lcxLTzwckq6jgGgOwJ7eb/rDXy0jpfrqn3nnUw4gzLQ2ojqG9gk+L/rAmDQk1ZthuCt3qoslXUbKf5FLtvtoCnT3w38v6cKW5VGnzkbdfW1Gz7rDRNz+R/eEvapBUdxwqZcJ6iVQOIXuGeIIdSjNJfLaihbJ06iCPqTf09NfGO3giJ8wccxg99RddXIVruRdW+AQoVYq0P4imU2ZJYzFsOMtFScx9L+2GfgSFP4Z47pEeSktTUBOZNtU9Rs6H2vY+2DaRjEd5M16SB82b3EpjUNlSGWEJClBZOUC5GxNu1sYpxlGdc5noplIUoOssF51QVcAlOa1ibDSx9zfDTX+bgTLn0aBTFisNyFR2XlkKZNvvtve/wBu3nA3k7RlVFqfX5zq5E5/O24te6lqULj/ACPzbE2lHTbnM67rQ44LP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>“野兽女友”</div>
-                                                <div class="unlocked">18 Aug 2025</div>
+                                                <div>姐弟?</div>
+                                                <div class="unlocked">19 Aug 2025</div>
                                             </div>
-                                            <div class="description">通过章节-介绍给家人的女朋友是野兽该怎么办</div>
+                                            <div class="description">通过章节-每天都应该夸奖妻子的料理</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+45 others...</div>
+                                            <div class="description ellipsis">+56 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2607,7 +2607,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2025, 22:29:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2025, 23:29:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
