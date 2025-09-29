@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    41k added, 39.4k removed
+                                    1.68m added, 669k removed
                                 </div>
                             </section>
                             <section>
@@ -2558,7 +2558,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            37 / 48 achievements unlocked
+                                            38 / 48 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwEEBQYI/8QALBAAAQMCBAUEAQUAAAAAAAAAAQIDBAURAAYSIQcTFDFBFSJRkVMjUmFxof/EABcBAQEBAQAAAAAAAAAAAAAAAAAEAQP/xAAaEQEBAQADAQAAAAAAAAAAAAABAAIDESES/9oADAMBAAIRAxEAPwAgpsJpUdLjqQtS97HsMW+ijfhR9Yv5SodVrrLbNGgvTHEgApbtte58keAfrCZlbhBNmUz1DM8z0Zh2zcdrRzHVrUbJunwLnt3P8Yr+sh7QJya09RJ0Ub8KPrFSpQWkx1ONJCCgXIHYjCvQuGEx/OcqhVp9yNyGHJDS47evrEoUAQ0VEC9z57Hvg8z1Bk0mpyYciJ0IB9sYyUPrQnxrUkkavr+sFy+TJsRbI8L+Ir2RZS3EwETW1EK0FzlkEJUnvY/u/wAwoM8UMlV+uwK7VlTadVGIq0LZUFlpLlhdSFgmyrAhJAG53vfbm9V/GI93xjg1hmeaRxlpy89mfUYz8akx4j0WAW2uYWluFOp9xvVuSEi6Un573vgozjUG59akuNMUlsaj+pTGlNMvX31hJOxPxYW84133fGJTe++A2Ob/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Bully</div>
+                                                <div class="unlocked">29 Sept 2025</div>
+                                            </div>
+                                            <div class="description">Find and beat up Duccio.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -2572,18 +2582,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQGCAL/xAAoEAACAgECBgMAAgMAAAAAAAABAgMEBQYRAAcSITFBEyJhFFFSgdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAABAP/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIREiEx/9oADAMBAAIRAxEAPwAgxtKJq6ySqHZ++x8Di96E0DU1DFPcu9cVGOQV1FdA8skpXcKAfC+N277bj9I55V6TraiqvaytqevjKxWJhViMs8srBmCooB9KxJPocIsbYbReGS7jrGQtYOWaOUSPXEduvO0bGNl6gA0TqvfpIP18kEjilTMJHlm2r5D3XegamnoILlIPLSkk/jutlAksUwXqKkDyvnZvfSfwmh5KjEtdpIlCFBuQPBHGjsbjcZzGw0ty9elx2AgsFns2DElixZ+MdW7dwsagkgEk/Y9wABwR81dKrp+rSyGMlsyYLJdYqtaQJM3Rt9iv+DA9SnYEjyB7FhMYyxYT5IfLHXlbSsktXNYqLLYWZlleuQOpZFDBXG/Y9mIIPbv+cLeJiw3NDCX5aGOfT+lMcUaeGr0CzbsKhCAeVVQG2/ti35xmNt/XCBys5iNo13q5ClNexL2EufDDL8brOg2U7+GXbyrduwI7jjJZTzFnOV8Ry30rThv1reZ0VlJxOKkkipYhthdyrkbB0+u+3Yqy+xwYc4uZb6/tU4q9VqmLoqfgjlYNKzEAMzH/AEAB/wB4jc0+YrayZKuPpTUcUth7piml+R2ncbMd/Crt4UeySe54Pl398Bjmf//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>A Friend Indeed</div>
-                                                <div class="unlocked">27 Sept 2025</div>
-                                            </div>
-                                            <div class="description">Complete all Faction Creed Challenges from a single faction.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+35 others...</div>
+                                            <div class="description ellipsis">+36 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2594,7 +2594,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2025, 20:56:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2025, 21:35:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
