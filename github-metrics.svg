@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1721" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1728" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.42m added, 3.43m removed
+                                    3.22m added, 2.17m removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    107 views in last two weeks
+                                    108 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2588,7 +2588,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        6 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2605,32 +2605,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            7 / 55 achievements unlocked
+                                            10 / 55 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQGCAAF/8QALRAAAgECBAUDAgcAAAAAAAAAAQIDBAUABhESBxMhMUEyYYEUQhUXIlFxgpH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAIBEAAQMEAwEBAAAAAAAAAAAAAwEEEQACBSESE7GR8P/aAAwDAQACEQMRAD8A1Tgu4lZ6uOV88ZepIVH4dOV58Rj1NQHfYdreCn6ToO+7r4xfczXumy9Zp7jVh3WPRUijGrzSMdEjUeWYkAYNbzdaxK6OpzLLDU1y6tFaKcIYKEkaAtLt3tKB5UqAe3uu5PYAfO+7in7VGA2K5v6wpK0vA47GfbUUpJS9tu95s1WTqs/1klZCT+0sUpO4e4IOFPh/myS/LV2+6xQ098oNvPSF90UyN6Joj5Rv9B6HGWz0LpJFdPtFdMTtFg1sT8qBneo3Z1sUE+nJpKKsuUCN6ZaiNVVOnkqHZvnBVAjKZZJSjTzSGSV1XbvY+T176adfbDdnnKyZnoKcRVT0Nzo5OfR1iLuMT6EEEfcrAkMvkYNLtlG/2ukTmWl7jO3d7XIpjH8pIVYa+xIxMzTI7riotok6qrg37dpyQ2lWN1WxARSmEzTEkEcwkbxr5107jHucOBL+aNsFMzsVttQKrr2i3Ls1/vrp84gW/K+b6tilJlp6QOxYy3CqRFUnyQpZvgYWeHmTIsqUc8lROKy8VhDVdVt2g6elEH2ouvQfJwviMacJu4qQns0zmsm3OFAhWV8iv//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAACAIEBwn/xAAtEAABAwIFAwMCBwAAAAAAAAABAgMEBREABgcSMSFBURMicRVhCBQygZHBwv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDEQQxE//aAAwDAQACEQMRAD8AVDi0toUtaglKRckmwGDNrJq9WjmSXScqT0xYENQbVJjbVLeXYFXuIICQelh4N/GNF/ERJfGTHIrS7MKaekPp3W3pbSNqSO6d60E/AB5wR1vtNsISLmwt2AwAotI9aYFYiwqRmuV+XryiWw+tsIZfN/aLg2CrW5ABPGNrxz/m0CsxqS1U5tJmRqe4oBEhxkpQSeOp89vOGJodXZOYNNKRLnLU5KbSuM44rlZbUUhXyQB++Imn4CGo7Emn1SBX4DXruNxpMR5rbuKm9hesgdLqJZ22PQ7vtghs5ggjOzdf+ktCnieJn05J9uy99lyLW78W+1sMTUyoV6milyqJRnqsy0/vcZjAF0qsQkEq/Sg3NyAT26XvguJ0hz5MdcdZy28wla1L2LebQBck2sVdsc1TFTdi9ZdeYWdQNVqlnCAac3HahU1RSpwX3uOlJuLngC9jYfzhIaBQ0w9JMupA9zrKn1HyVrUr+8Gleief7daFf4lMn/WEPoVEzrS6K7S84wmI8KGhtqAoKR6m0Xuk7SQQOlievPOMc3LVyw+dKxFlJyes/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fully Armed</div>
+                                                <div>Do You Believe in Light</div>
                                                 <div class="unlocked">25 Oct 2025</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABgcIBf/EACcQAAEEAQQCAQQDAAAAAAAAAAECAwQRBQAGEiETMRQHFSJBcZHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACARAAEEAgEFAAAAAAAAAAAAAAEAAgMRBBIxQVFhwfD/2gAMAwEAAhEDEQA/AKp1n7gyrOEw8rIyQVNMJ5EAgWbAAs9DsjvWhrD3PjpcwQpGP+O5IhOl5DEmw04rgQkki6IJsGv9AhCUnJYlt1xnM7sajbmUTx8U5QZiuE/igI6QQPxB5i1d370TbV3GcuRHkiL8nwJfQ9De80eQiykqbVQPSgQQRYse9BGU2tteRlpKhi8rLjyVKVko2NeK4yHuuSHEJN2SqyB/Ne9EW1Np/Y5eK+zxvhYuMy8lQffU4+4l0hfBSSKSQsA2CfVfs6m0ybHYCun1JzrQrlFeaycfD4uRPmeX47A5L8TSnVVYHSUgk+/0NR5vLeWX3JumZkHMpkIrSFrTGYbU40I6QvqgK/LiBZ92Tq0DqUpcDJqy81xcLINNSZDzshpWNftalLV2FV1YI/rrRI8sFgWtOFjR5Ly2R+grk17ITc+gGaey228giX4XH2JfIyG6t3mgLtZHtYuiT2aF6aOld9Dob8ZvPuPsvtJekNFHlaW3YDQHQUBemjpmkkAlQnY2ORzGmwDz38r/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABggFBwIDBP/EAC8QAAIBAwMCAggHAAAAAAAAAAECAwQFEQASIQYHEzEUIjJBUVJhcQgVI0KB4fH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwQF/8QAIBEBAAEEAwADAQAAAAAAAAAAAQIAAxEhBBIxUWFxkf/aAAwDAQACEQMRAD8Aah3VFLOwVR7zqEvXUtFbLBJelcVdtiiaZpaYiQFB5lcef9awmivT3+FCaZ7MyP4wYHxFbOUKEcY9xB1EVl/6V6NoEsVPiVowwW20i+PJ6zFiCPJQSx9oga51u/d5RLqMA1lN5HenWE8fuqSCHu6MGqYUiSR3Co4BG7jW4EEAjkHVW13Vliv0lvfqa0Xy2PSzeNGs0LPFvGcbjEWB+PPAP20SdG1l0u9VVXCcUP5OWxQTU1SZjUJyCxGML9vPg50S5XIjf6FvtBTCPnyv90ftESEo5Gg3vr1pdenqy22uhK09JWwvJNUfqI52n2FkVW25Hw5H04JX+/zW66V8dSpMCqgCUkUfpULMAcsygqzMcnJIJ+vGmu7jdv7f13FQpc6uspxSFyno+zneADncrc4HGPidAFL+H+kt9XIbffaiShnUxzU1bD4mVPylGXB8uca2zgrkqEoq5Kq89WVdbbbN07a5KupfasMlVGjpNVEHG2NT6444ycE44wMkMv2stNZY+39ltlzgEFXTQbJI94fByT5jjPP+65O33bqz9GxeLAi1VyYbWq5EAZV+RB+1f5JPvJ0a6bcCBTCPUr//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Air Force Commander</div>
+                                                <div>Self-made Success</div>
                                                 <div class="unlocked">25 Oct 2025</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Savings reached 10,000.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+5 others...</div>
+                                            <div class="description ellipsis">+8 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2641,7 +2641,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2025, 19:20:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2025, 20:49:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
