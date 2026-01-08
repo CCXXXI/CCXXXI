@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1675" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1579" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.26m added, 5.06m removed
+                                    1.63m added, 667k removed
                                 </div>
                             </section>
                             <section>
@@ -2513,15 +2513,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcBBQYECAL/xAAsEAABAwMCBQMEAwEAAAAAAAABAgMEAAURBiEHEiIxQRMyYRRRUnEWI6Gx/8QAGwEAAwEAAwEAAAAAAAAAAAAAAgMEBQABBgf/xAAlEQACAgIBBAICAwAAAAAAAAABAgADBBEhBRMiMUJREkFhcaH/2gAMAwEAAhEDEQA/AFpRRRXnCZ9xPDgw8e4Zr6AXyJUv256sDsK+DgYJScnYVtOGTEG434Wu5I2l4bRn70xF3EZNwx0a4/qVtr03JkWt25AFthsZSVeaoFKSorA7pNOfjlJaskCNYrakNBABcwMZBFJYAAJ9PdJ9xork0ZD03LbKq7v2YUUUUrehNZvORU1Aqa6Yagk7G/qQdlJPgnB+KZPByOxBk3C/TwDHgthxtR/LNLdIUshpsZDh5QfmmprENaS0FBs0bCpkoc7o88qhmqKPszJ6uxcLjj5yy4rOs6y0kxf4QGWnFBeO/KPvSZ5shsI2A3pp8HH2brbblpyYoJD7eGkn8jS2u8J233KRCcThLLqhzfGaPI55EX0cjHsbEPx5H9GcxqKP+UVKRxNr5SAc5UPd9qsbLapN3uTUSLj1XjygVXnbIxhQqw09dHbJeI89o5WwoKxRV++Yq5X7R7PsRo6E4V3OLe25185EsRzzYKdjWF4kXhN31bJcQT6SB6Kd9hy7bV6Jlami3/RElcCQn6l1gDY7hXmvKctK0zX0KGTznJ+c1TdoLoTzfR7bsq97ckbZeAJYaXuhs2oIk1LhR6Cwo796a3ETh/P1FOYvdlQHUvtIJSgbZxSVUkFZygqBwDivU/D64KsXDpuXd3vSbbBVlZ7JxtRYw8SDOdesfGsW+g+Z41EFrLSjml2I6ZDyDOc9zeOwrLKOFFQ6uYYOPFXuuL6dS6lkXBznKT0NDOxx5qhHSOnsD1ZqVx5TfwnuNAa/loec0UUUPoyohEOwZuNJ2TUTFi/kNmcLuVFCo/cYHxWe1ChZmLcdt77D6hlwn2g/qumxawu1iiKjwnkpZ7hKhkZq6hcSri0QJkSHLQvZWGRmqDorMcLk49j2hQ3+Ss0M/a4Fw+ru0V2U0jBbbTtzKrS8Qrze9QW8Orirt9pbH9bKtir9471xSeJclKFogWuE0rGUlbCTg1krzfJ94Wlc90rSDkJa6Ug/qhL/AIDQikxnybu+6a1/O5Wjx4x/lFFFJZv3N9WIX8T7n//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAwEBAQADAAAAAAAAAAAABQYHBAMBAAII/8QAKxAAAQMDAwMEAgIDAAAAAAAAAQIDBAAFEQYSIRMxQSIjUWEUMgcVJJGx/8QAGAEBAQEBAQAAAAAAAAAAAAAABAMCAQD/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESESMQQiQRP/2gAMAwEAAhEDEQA/APyuCMUQtFol3V3bGQSkd1Y4Fe2G1O3i4IjtjAJ9R+BVehQY9mhJZZSEoSPWv5qldfLZh77/AM9DuALPo2LD9ySpTroGRtOOaJpdIZcaeQW4nZWe+K3NMLltrdfdEWGnncrzWE3zT0eU3GaDklZOFELyDViVGhDqzNszO1cLZDaU1Be3tdyPNJF6nWycp4pYdRIH6kq4NUa8XHTsN5DEqEWkODO4YHelu+aUt02CZtlfClEn0ZzWGydTdZUHJk4PBr5279q7zIr0RwtvoKVfdcPo1CNBjJpDUCLG6vqs70r43DuKpUWQzfi08yv/AB0cqTmojxnnkVVbay7D0MTBQr8h7IGO9VRjjEJfUueX2Yb7JnXu5KjnexBZ4CRxuoxY7LGhS43USjcpXJUM8Ue0sxI/q0i6QSvCc5SADS5qCDMFzZVbXD0Cv1JPJFDbnc+BEK6VJuHNX2yLInBICFL2DjFJiba9a7i25GWsMFXuIJ4ArrfHLvHv7SmWnHG9iQVeKZXrbLmWxDxYWHFfsfqucXqecDq9YmbW1rh3DTpmRmxvQjJIqOEEE8fVWDSrUwwLpb7i2oJCCU5+Kk1wbDU19tOcBZ/7TLMHYkvH1lc5mc8cGqxa5DrmherE9TrGTipORVC/iq5JEpyDJI6KxjBrlfeJu8euY0WHUU2Tb1EuoCgnBRjmli5zrs1e21oPtKP6gUY1A01p24b2UksLOSfFbYM2FcZEcoCSonvR2DVWanhxsTqYHbvK/t0RpDBVHUhJKwO1N7r8lNrxCeQ6ccIA5rBqVUKLMDhCUuBAyfFJ0i6TLjNEW07lKPBWjsBXi7WNjEylSomfsM6ZlzHRdJU9JCW0kHx2NSe4udWe+scArJH+6t0qElu1otjigp1xOXlI4wDUx1ZpZdoQJCHQplROPmlODjUxVYobEVfuu8OS7EdDrCilQ8iuJ78dq8NSi472zVTctTTV7HUQDjP1TXAtNgcmNy7fcQ2RyUFR4qbWu3xJjSepKQy9nsqndizQWmEKlyR0MDcps7asoLdwtgC6Gsw3c9PQLhL/ACH7kFtgYwlR5ohBTDtqA1a4/uns4RmhLPTaZSLa8hUTytY3V9Zup7dbWCHHEvPgcbOK3hR3qQHI6G4YeWiI0t6QsJ8rUrz9VKdY35V3l9NBKWGj6R81z1FqWVd1FIJbYHZPk0AHPPmpu+dCIpo4+zdz/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Assassin's Creed Shadows</div>
+                                <div class="name">GNOSIA</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, RPG
+                                        Adventure, Indie, RPG, Simulation
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2529,7 +2529,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        208 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2537,7 +2537,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 Jan 2026
+                                        Last played on 8 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2546,32 +2546,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            52 / 72 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgAFBwgBAgP/xAAtEAACAQMDAwIDCQAAAAAAAAABAgMEBRESITEABgdRYRMioUFCYnGBkcHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAyExEiL/2gAMAwEAAhEDEQA/AKxQo0jYDYA3JJ2A66tJCm0aNJ+J2Iz+g6RGimQDlyWP5DYfz0a+M/H8/d8k9ZLMsNooHBrmAb4gj0ljo2wT8uOcjOcY6l03uoIYqjt25w9tUt/qrfJBaKmUwQ1IcYkcc4UnJ4O+wODjjplZGjZfm1KeCOD1KF6e6+V+8KCy9tUTUlkpU+HQwkERwQDAMz+mcD6KPcN7pt1ttt/uFuste1fQ07DRUMANTAAPjGxGc7j0+3noegh9afRrp4lmWn1Mqor6HZuFBOcn25/bqyVcX7kttj8Z+LHenoqZY57tdjlNBbDAEjfUSMlecgL90kVnp5HhbKg+4xz0UWTu252e01lDa6mOGKrUrLrQ699mIb1I2Lc422BIKTopOHumg+8rd12KyW1+0uwppI2pitPW3GnVFWvAQq2WG+QdiRs2W32y0PUiYjlkPGAg9yT/AEOtmRXdpJptTE5IQHJ+mB1l5C5RVTSi8KP9z0m7KYsSh0//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Worth Its Wait</div>
-                                                <div class="unlocked">7 Jan 2026</div>
-                                            </div>
-                                            <div class="description">Obtain two golden katana</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwQFAQMI/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIxBiFRBxNBcQgUIoGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIRAxIhIjEy/9oADAMBAAIRAxEAPwDmCMFj3YgDk+NXNhsNzv8APNFZKCaqECe5M7MFSJeNzsSFUZ4ydVOAEUD57nTVYqCquP41V8fSkyNW010arvVPCcTtAq/wPkqMBv6bwdLXJsl1QUX6x3KxTxRXajemMyb4nDB0kXjKsCVYfR1WAEFTkkHg+dIk09SnokYby3uiouqSWr3X3SIqowmK57hDlR4yPrR9ENylT8YYf7jUYUFfpnbmNSPg4Omb026Dto6fiv14vF4oqOpopWqf0pIoUMJJQo77iwXIy25MHsACdDKFl+CQeR51NWtqv1jAlZUrBtKezvbbtPcjA7YyONCnQyUN1SYrepXptZ6Dp2a+9NXe4VduhhjmiSq2PGIXIUKj7gzHcSeyYwe+CDohp0wrsfIUfecnUg1dU1OIJKyoaDAX2t7bcDgYPbA1p3ElQFIUcADjVSd+DMWPX6Z//9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Chase the Morning</div>
-                                                <div class="unlocked">16 Dec 2025</div>
-                                            </div>
-                                            <div class="description">Add a sumi-e to the Hideout</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+50 others...</div>
+                                            0 / 26 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -2582,7 +2557,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2026, 19:29:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jan 2026, 21:04:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
