@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1675" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1695" class="">
     <defs>
         <style/>
     </defs>
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    702k added, 519k removed
+                                    1.20m added, 380k removed
                                 </div>
                             </section>
                             <section>
@@ -305,6 +305,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 16 days
@@ -325,7 +331,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.16
+                            Average per day at ~2.17
                         </div>
                     </section>
                 </div>
@@ -2300,6 +2306,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 11.651162790697676)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3488372093023258 0,1.3488372093023255 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3488372093023255 1.7,2.3488372093023258 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2539,7 +2550,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        27 hours played
+                                        30 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2556,32 +2567,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 26 achievements unlocked
+                                            9 / 26 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EACwQAAEDAgUDBAAHAAAAAAAAAAECAwQFEQAGEiExEyJBBwhRYTJSYnGBkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwIE/8QAHREAAwEAAQUAAAAAAAAAAAAAAQIRAAMhMUFhsf/aAAwDAQACEQMRAD8ALkGK7NltR46dTjhsPgfZ+AOScX3K3tykTYrU2uVdMWE40HBoACrHi972BuDv/njC+l8aCmBMNSirdVIbceZsFWUGQNlW5RdRJHHZvsMKerJeby5LpFNltNy5IiESkg6UJWN3ODcdn9KG1tsc/NyMCFXURRKdKMwe2ViPT3HaVXl9dA/DKSNKjewFwBbfb+cHOuUqZRKrJp9RZLUphZQtJ+vI+sOGHlKpVGHNRIzmZsqO+tTpSSAlXSKAhRvYJF1KNk8m/gYLXqw+azV6zMdW2uQ3JLpUkX2KtCwD5BVpUPjUca4y9jnLJ0o2g9FZ9Qay3UFsMIeiR0vNvrcc6ZaaXoKtCv1HtVbwRuMVNFImOy6W2kojxZK1srdW+UkJ2N9IPb2KO5O2kcEbnjIebI1Bp01iUqSlzV1oym0pWEuWtex2CuCFeCL8gYp1H9eXnqbGiVSDSZgY3ZVMStp9pYFgsOoBSVD82lJNsJSm4VhNe69Fy9knIk2mxi63DlocLCdXU6qyLpbB2vcgbfZvycD7OsyG6KnJgNKYjSemw00o30HtWtIvvpSUgD6KcdNGe106DLZE5lxb6g4SykuuJXq1FSFKASkkgG+/HGJ3Vai5UHkkpDbLYIaaSbhAvc/uSdyfOEKSadZ3VAyIbfPrv93/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBP/EACwQAAIBAwIFAwMFAQAAAAAAAAECAwQFEQYSAAchMUETMlEUcZEVImFigbL/xAAZAQACAwEAAAAAAAAAAAAAAAABBAACAwX/xAAlEQABAwIFBAMAAAAAAAAAAAABAAIRAwQSITFhwQVBkaHh8PH/2gAMAwEAAhEDEQA/AJZpaeWqqI4KeNpJXOFUeeN3YuXxq1iesmk9ORd2+LATv2DHJP3xj4J45NCWs1FLNN6ZKyMVkfwsK7dwz/ZnUfJwR88VVy35e2a+aeirrt+oSTzguFE/pRqmSqhQvU4wep6fjiSBmUldOuHEUraA4gmTxuptvHLWKKmaS31ku5RkrKof/kA/gHg6rqOehqGhqU2uACMHIYHsQR0IPzxUus9ODTOo/Rp6h56OY7oDKCJVAGGVsgZwQMMO4/nPApzGtypLV4QL6JFTFjriN2KsOnYbsHHjJ+eLGCMQSnT7m4Nd9pc5uaJkfdwtDoPXUlRY6W03SKB6CiVohCkaorSMhWGaUgbn2HcAM92Xt5pfktHZodO081HPKLpUQrBWxFmJRwWYMVwQvu93Y4HxjiD7dWy0FSJodp6FWRxlXU91YeQeEWya6iSjEHrCncMCskrOssfT2iVAdyHyGX/fJyc0nRdTA4VQ8aRH58+k2czo7baLzLTR3Gtu86qPpoJKn1fpmZiX/cOqj2jaTnO44A7n+rrnp6i0pcoDPHWVsDGBYaymKrUFwjsyMp3K6kYYE7SAh8cZ2467tlPRPHRw07VLku9QpaaZ2Pc5ZVRT4zhvtwaXW4y3GcO4CRINscYJIQZz3PUknqSepPBAPdBrHCoXmIO2fnhf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Aries Scarlet</div>
+                                                <div>Scorpio Green</div>
                                                 <div class="unlocked">11 Jan 2026</div>
                                             </div>
-                                            <div class="description">All Kukrushka special items unlocked</div>
+                                            <div class="description">All Stella special items unlocked</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcGAwn/xAArEAABAwMDAgYCAwEAAAAAAAABAgMEBRESAAYhMUEHCBMUUXFhoSJicoH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEAAQUBAQAAAAAAAAAAAAAAAAECAyExESL/2gAMAwEAAhEDEQA/ADnsvalU3hW26ZRmC48rlSjwltPyTq7nwK2xQIYRuGsS5lUUnL2sMpSf3YAfZ57a03lcojMTZUd9lSWqhWJDgU8LZIabF1Y372xt8E37aQCKDSUt4GmxFg9S40FqV+So8k/k6Tu886XTUvQM7r8M40bJ6jOzUtEKUlL6PVuBySCgG6R3IytbpqYzoj0GQWZCMVgAixuFA9CCOCD8jTv8TqCjbkFitUJRhtsym1OtJuUIVf8AitAvwb2SR0srRu8w2241H3bVmobQajAtz46QOG23reo2P6hagQO1z86xhWS2yaTpuPLLvFlFIZpjqopl05TqmEyni0kZi+WQBHIBTzwLDSTpdclTG0F6lqYyWlId90ytpQPcKCrn6tz+9ebdIqUilTUyYqilVilQuQFJPUG2qzt7xRhx2Gg7RtvPPJ7zI7jK+ndTJCFfZSknvfrrZQ0VO5m4lUrcyPEnF5LrbAqJyBjwWWVLWVE9PUXljbrYXNgNF3zBbiYrVeqktjhpzCKyLc4gpV0/y2gn49Qa67p8YplQpvsEyIMOCnkQqWyQi/8A0BJ+1FXzjfUcrFTeqcn1HbpbTfBGRONzckk8kk8knknSRL6GH//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgEBQb/xAAvEAACAgEDAgUDAQkAAAAAAAABAgMEEQAFIRIxBxNBUWEGInFyFCRigpKhscHx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgARAyExEjL/2gAMAwEAAhEDEQA/AJZq15bViOCvG0krnCqo5J173ZvDqSzQFu1OGQjICOEVh8OQc/kDHtnWPw+2tLbxh+P2uYwM3bESgFx/MWUfgEeumeOpPulexborilRkigZmUhOtyMDPbgEZ9gR76fixqQWfkYqCrMN9y8Kf3cvt10iYDPly/cCf1AA/20Z7hSsbdbkrXIjHMhwVP+QfUfOqP3C8EsyQFZIbtWXEkTjDDnDofnH+iNGnirVjnsTzxqMxxx2FbHPSx6XH9RQ/lj76ZnxIo9JC6ACxMfhnLDK0UM0whMcsi9fbBkUeXk+g60Ck/wAQ1VfhJV23cfp6w1uecSVFlp3qBmPlOvOS8XYHkjI7lc51Du3XZaFkSxYIIKujDKup7qR7f976R9n+u4oLEk1bcLdCRiCjJIYZYeAMLIquGHHcgZ9dYmsjuoA2qMc/GnYtt2OztO4+fau3rYKo8jjIiiT7V4A6iepR1Nk8d86DPEu3VSoywsWnaFa0x9PM6xIwH6VWMH5OuvL9UVr+3T7juG4S35a/DSzWRLKx5IJ6lUk89Ixx354xoy+qt5XeL0TwrIteGMRJ5jdTNySWb5OfnsNWHyBcjNqp/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Virgo Peach</div>
+                                                <div>Capricorn Purple</div>
                                                 <div class="unlocked">11 Jan 2026</div>
                                             </div>
-                                            <div class="description">All Otome special items unlocked</div>
+                                            <div class="description">All Gina special items unlocked</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2592,7 +2603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2026, 07:28:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2026, 10:35:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
