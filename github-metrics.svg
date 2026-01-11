@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    9.05m added, 7.33m removed
+                                    823k added, 397k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    81 views in last two weeks
+                                    96 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2550,7 +2550,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        42 hours played
+                                        43 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2567,32 +2567,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            13 / 26 achievements unlocked
+                                            15 / 26 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABgcIA//EACsQAAIBAgQFBAEFAAAAAAAAAAECAwQRAAUSIQYHEzFhFEFRcSIWMmJygf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAD/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADERL/2gAMAwEAAhEDEQA/AJYp4JamdIYI2klchVRRck/Awc5RwA81OlRX1BEZcxsISo0N8Et3+wCPJxryoytKiomq5YYpUuYjrv8AigF2KgEXO6j6v84Z8MVXm5qJIYJGpaYF6iXSNMaoqkBrm5FmvY+Lb4fWi505kl97huKxpi4qOAMtaBjTZo8cpcherZlC2/c1gDY7ed+2AziTIqnIq0QzkSRONUcyghXHjyPcYedVQVcGWJX+hqI6KVR0qqWF16qaiB+ZuLMrXI7WAwE8xPT1HDmkBxPAyyKquWXSDoY7+WG19sB0XnoQU3OX5eDfBtbNBRSejl6VRBIzE/KSKBuPcakUH+2Ko5D5dV5pwflWZetpYsrjeVpado0lZ33BLudxbbY7gAfeIwy+sloKpZ4CLi4ZWF1dT3Uj3Bw0eX3Mv9MavRSmnidgzwSs4Uj3XWobUpHs6kj573VpzBKioJ2URz0yutg4HzzMos3p48sanicQBApMqkBCjL3J2sMStxHXlshcSOru6JT6lAGsgqxvbY6Qqi/8sGHMHmuvFFK0FTIjU4I6UUOp2iUADSupERL23YKTbYbYUma5hJmEysyrHDGNMUS9kHf/AEk7kncnB6OYZggB2f/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAACAcBAgMJ/8QALBAAAgEDAwEHAwUAAAAAAAAAAQIDBAURABIhBgcTFCIjMUEIUWEVcYGS4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAMBAAMAAAAAAAAAAAAAAAABAhEhMUH/2gAMAwEAAhEDEQA/AC1SU01ZUxwU0Zklc4VR86QnQPYBX/pFRd7+aNcQMUpKhX4yMhiFBYH8EZ59vY62+l/p+nul0hq/DRUxgheSSXduec7tiAMR6eXzwMHyfnOkLXdRU9vsMK0aqk0yIAIeWZ5InJK853BgOTnJwPnUAYeuewytoKFrpZqWuehbDYSMyiMbRklR6m3OecNxg6jd2tNdaJxFcaWWBm5QupAcfdT8j216J1N5SqttWyo5WBO+G1mzOsbeoFK4IPt/YZGiL2/dMtbLjLPIAkspat7rez9yGlKsuSScHMTDOcEsNAuTl2CXk0tW1HHWQUU0xaKKon4ihmOGgd/xuEi5+C66QfSvR0Vda7Leqm/uaamjM4MbKpibaAQWGQfkN7HdyuNCO3VslBU97EFYEFHjcZWRT7qR9v8ACORqsdNdq1bT3Cmq57o5eIIuysBY4QHaCygiQDjG8Z4H76lI3LXokOnYjQ2eCCpo2M9KN1NWXGbwjySB2xJJGjbz5SvxkjIOon9Rng7bRusndyXe5Sb2eOLuVSMsHYKhJbBIU5OMk8DBzrMXbxUWann8LJT1lUykLIsIyCcHcfKBuznkls59uNQ/qi/1/Ul2muFzmeWaQk+ZicfydJ1mdpat7P/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Sagittarius Blue</div>
+                                                <div>Cancer White</div>
                                                 <div class="unlocked">11 Jan 2026</div>
                                             </div>
-                                            <div class="description">All Raqio special items unlocked</div>
+                                            <div class="description">All Remnan special items unlocked</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACwQAAIBAwMDAwIHAQAAAAAAAAECAwQFEQAGIQcSQRMxYSJRCBQjUnFykZL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIRAyEx/9oADAMBAAIRAxEAPwCdtibYm3Zflt8UogjWJ55pSM9kaDJONLPQ3opSbyrrnPeKmWS10mYg8H0hpD7AN5IGCcZAyBk6yvQi7wba3El0rqf81QzlqOphC92YGQ+oQPJ+pf8ATqoNowbhs1uij6dVG377tkuzxxyEwTxhjntZh5A45AOByNGlKdWhVvT8N9Nt/p5c7nHcXlutGWnyMmP0QfIxnIHJOPv76ntNt3N4LlMtPlLeiyzkOOEY8MP3D5GrxqqzqZWUk8E229spDIjI/q3KRgQQQcgJ7Y+dTZ1EpKXZO3braaKvpbhc6uFVqWpVzBSx94DRo55YlmyRwF7vuTrabA42bWRRUFSknd+kzF+0ZbskUKSB8Mqf9aYembbfl2+JK2WrqKxGcyxwSOogRsKpbBB5Iznwf4Gp4t9ZLQ1STwEdy5BDDKsDwVI8gjjGtntPcdttt0FeB6MnpsnoTPIqKWHuJI8sR8EeffzqLh0ui4vFjGve9Pa49m1FRbb5cGZGSJKeSrZlkfuGfoJ5JHkcedC27XFJaJYWk73KrB44YlXZR/UImT9210tw7zts9Q1TSErKy4PpyyTv7chWlVRGCeeA2j27XGW4zh3ASJB2xxqSQgzk+/JJPJJ5J0RDXrG+RNYj/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAAQF/8QAMBAAAgECBAIIBQUAAAAAAAAAAQIDBBEABSExBhIHEyIjQVFxkRQyYYKSJEKBg/H/xAAYAQACAwAAAAAAAAAAAAAAAAABBAIDBf/EACQRAAEDAwMEAwAAAAAAAAAAAAECAxEABCEFMVETQWGhgeHw/9oADAMBAAIRAxEAPwCWaaCWpnSGnRpJXNlVdycFeU8JwTlhUzyysqFiKcAJpfZ2323AI8icZwVQq9O0pW7VDtF/WoBYfcWUegI8cMzLKVf04RIuufnJY69kacvpvita4wK2dP0sXLfVWcEwBztJ9iOc8UGNwHRy03dvUwOps0jOsm+xK2XTbUG/0wDZ3lVRk9e9LVAXGquvyut9x7YeNL1PLVCBGQdTcgsDsxGntgG6SYFqI3aw6ylVJVIH7G5VYfkVP8nzwELJMGp6hpzTDIdb/b1zeCaoLRqFYLJBM1zbYOF5T6cyW+4Yrzgjo8ymsyR6nM8lpHeeNJKKTr5H7pkVgGIbwcn3+mIXy2tloKkTQ8puCrowurqd1I8v9GuGnwv0o1+XR0a0uZInwgYU0OYh3WBm8QRcMBpbmAAttfXBUmTIpFF0SylmYgnOdj2x5Huj3jDJ14ezKajdqdplhl7cUjEMpchAwPytvtpthXdIdQkYr1ve6x0q38T2Ha3oEX8sbfE3Hs2ZVc1XmeaisrJR3jwrzO+gAA7KooFtLXt5YCuLc5gzqelngWojZYuSSOQggNfcEb3Frkga4CUmZNMXF8lVsGE5OJn5+q//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Aquarius Brown</div>
+                                                <div>Aries Red</div>
                                                 <div class="unlocked">11 Jan 2026</div>
                                             </div>
-                                            <div class="description">All Jonas special items unlocked</div>
+                                            <div class="description">All SQ special items unlocked</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+11 others...</div>
+                                            <div class="description ellipsis">+13 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2603,7 +2603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2026, 22:29:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2026, 23:29:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
