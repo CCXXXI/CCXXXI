@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    621k added, 331k removed
+                                    1.64m added, 672k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    35 views in last two weeks
+                                    31 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2529,7 +2529,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        37 hours played
+                                        39 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2546,24 +2546,24 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            22 / 40 achievements unlocked
+                                            24 / 40 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcECAP/xAAqEAABAwIFAgYDAQAAAAAAAAABAgMEBREABiExQQcSCBMiI1GBFGFxMv/EABcBAQADAAAAAAAAAAAAAAAAAAABBAX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADEUEh/9oADAMBAAIRAxEAPwCDUCimosXajqeUlBcUEJvZIFyT+h846A6b9Hcm1qiibIfdnrWQe1PtFo21SpOvPPxjP4dJWW6LlR2VVajHRNlnsUy8kHsQNrabG+C1aqtqtNdpalQoq3CQhlxQT/fvf7xZAAEyrHe1ii+Z2NuonSHJdEov5jTqoBQTov3C6baJA05xz9mSjiA3dcVTBUgLQFJsSki4V/Dh5Sq4V16C5Vu6ZCbdBLT7qu3f/R143+sNfETUMr1zKrMmk1SK5OinsSyyketJ3vpxbAgESa2sqYI2nezR4eYOWqzlJUeqU6MuZG9annlW7kna2vFsAsx09blbms0cLmw2nSEuR2lFP8242+sAKNmBdNihLT7jV0FtXlnVSSLEH9H4xeum3WXJdCoohPxX4CwR6kJ80um2qlK0trweMNBEOj1MXUbvJPqHSCa5AarKVwYjjoCnJDSgk67bc7feHfiJp+V6HlVmNSaZFbnSj3peZUPQkb315vj26k9Zcl12imExFfnrJPqcT5RaNtFJVrfXgcYgVbrhqkf3X3HVJQG0+YdQkCwA/Qw0ARWr2sHbRnJ//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgFBAb/xAAtEAABAwIFAQcEAwAAAAAAAAABAgMEAAUGBxESIUETFBUiMVJxNjd0sUSRsv/EABgBAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIABBEDMaES/9oADAMBAAIRAxEAPwABtNuZkR0LWgEkV7ux5aSpMhhU21TmoiyCXExlLISeunWuLK+CZN0tCCvYVvoSlW0K05HOh4PxVDxL0+9Z7tPbxDcUR7WrY6DFaBOntrUiAjTOZZsMh+Vgbc8tnoz7/drRNdit6lLq4pQSkD1I6Uf3uAw0ytbLaUgenFVZcb6+xZrNcHcR3Pu12UG2kCIySNfdrU65lsGNeLywpfaKbkOJK9oTu0J50HA+BR1AGiK3MznGmvlMR4zYef5LX7FKNjd7TL/MPjQB9QH91PeHcSGzOQ5LSwHYq0uIGm7zDkajr6Uyxs+7IxEXFOGI5TJAMgIWAl1XUqG2isMyVscTltUb14Zt4i+32XX5Cf3RFmx9SX/8t3/RpCk592R+IiKMMRwmMCY4WsFLSuhSNtC+JcQeNvS5bqgX5K1OL8u3zE6nijMCMk1uN1bWGd+mf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Essence Capture</div>
+                                                <div>Agonizing Remorse</div>
                                                 <div class="unlocked">26 Feb 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMFBwT/xAAsEAABAwMDAwEIAwAAAAAAAAABAgMFAAQREiExBhNhcRQVIiRBUaHRYoGC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQAEBf/EAB4RAAIBBAMBAAAAAAAAAAAAAAECAAMRElEhsfFx/9oADAMBAAIRAxEAPwDBIeJZuLNt17QgK4KgTqxzwKt2ICyB1L7ah9Bg/qpumEkRVorJBCXcf3in970dLWUJ72uCyLHTqDguEnPgb7nxW0IoFyJynrNkRe3ttQAqFjgMlDQ/yf1VLORjDNq49bhspTsdII054zkVpzHR87fwhmLVTAjgnUVm5SCPB32Pig3URKom6KiSShgkn0NRVSOBFKrBgMr+ganR08oIhrVSsYCV539KR2LqLxXsUzeyDMY2nW0GG+4NR/iSAOTvWeRk21bWLbT6UuJQNknO334ruM/ZBSR2kb+VYH5qDKRzFqTgkqN9/YxlO2x8lDX0i7GrTrdS82WwVDfdIJB4G9FZ1wOQ94oJ0jDSQM52GagE/ZFSh2kbeVYP5qvlZhm7sltsJS2FcgZ+LHHNBZQOIrTckZDXd9z/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUDBAcI/8QALBAAAQQBAwMCBAcAAAAAAAAAAQIDBAURACFBBhIxBxMUIlGBFSMyQlJhcf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAQL/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAxIhEyJB0eH/2gAMAwEAAhEDEQA/APP1fDZdjoUtsEkfTVmJRx1YWtkY4GNU+g+nJN1BzD7HJDYBTGz+Y4OVDjA5350sl9J2dZDdk2zHwLTacpLxx7iv4pxnfn7aSEJ5gnzKDrfMrs0NS3CrGzQNyEO1LTzrzMYOKbKHVK7iAP3dvaT9Pr40K9R49bI6LqrWBWRoSpU2aopaQAQnuT2pyBuBnbXXKOHIIoLIRbJ6H+EeyBECSFKUVghWSPAOR/egHql07NrPTWsBiSERosuT3F0JCkpWU9ncAdicHVWHbBYXHUAvz7+SF6eU0m2r8x3kMhpsfMVeVEfKn/Dj9Xgc41lsXbi5luqdTKlqaIbUpKS4AUjA3G3gaEVd4qvipDMhxolstL9s7qSRgg44PI1eh9fTYESPEr57sJtAOTGy2XCTnKyDuR4BPgbalYqoxkfYsKMYQr+zrokWHZUrEsAhmOue2tPaOEA5Axk5++tX1alz4tKiH8PAhw5A7nUQ8gOOJ4UFEk9pOyhscnGdGZnX02fEkRLCe7NbWBgycuFsg5ygk7E+DjyNtHba4NlHy9IcdWlsNo9w7hKRgJGeBwNaWFVOVwnYMRP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Balance of Power</div>
+                                                <div>Rank and File</div>
                                                 <div class="unlocked">26 Feb 2026</div>
                                             </div>
                                             <div class="description"></div>
@@ -2571,7 +2571,7 @@
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+20 others...</div>
+                                            <div class="description ellipsis">+22 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2582,7 +2582,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2026, 21:38:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Feb 2026, 22:58:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
