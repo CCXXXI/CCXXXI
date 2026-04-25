@@ -2545,7 +2545,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2562,32 +2562,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 71 achievements unlocked
+                                            17 / 71 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABgcCAwQBBf/EAC4QAAEDAwMDAgMJAAAAAAAAAAECAwQFERIABjETIUEUURVCYQciMjNicYGCsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDBAUG/8QAIxEAAQMDBAMBAQAAAAAAAAAAAQIDEQAhMQQTQVESgfDR4f/aAAwDAQACEQMRAD8AGlxRtqtO1ChZriXCJkBQIWlI4IB5A+VX9b2tiXxjDkUlxunvNLY6WYSlX5aVglNxykdjz7H2140tjeXwZElimUiqyoqlB1AyS44kgWKAFWB5unuD2sDxpe7T3P8AEPtKbiVgTqVFnMt095tt9TTiHE/gVdITic/FrAKOqXbLiSqcVhkaFerbLhVJSMgyTHYtxMH1R/6ifJ3i6isJjiksJE6B015OJSLt5nEEKF7KIJBTmk8XGrI8SRXK61UZCltQIirx2/KiPP0/fxxze1m9NrVOiemqbVdLsWO50uvNih5bLTowWHcbBaAQ2ciLi3e+p0Vutw3HY8uemouC5PqUtMJbANrt9PIkeMSRb20uR4+SSOqW+2nb3WSMRz7i2e6YW21tiO+OwWlQUo/S3b/Dpb1OubT35uKHCi09AmuY9OquupjOtHupBbHcuKGIISbCxGtE2RMdj1NuiuusyXWlxy+oKXipQtawBtiLkW4Nge5OsbG32yaYw/Oq8WDT1MSGIUWG2R1mkBAcLhBJJ5sdA2lKSVE3odDtNJ8lqhXF/wA+7pg0iWurQZ9C3GhsVJpotSkgWRIaUCA8j9Khe4+VVx7XF6L01U2CmS4HpSGGsuoQopWEAEi/F+dS3FIerW4KZJaYdhvU5RcaIeTm4hf3VpWOMSBwDcc67PpLM2KhtalIeQmyH0dlA/x4+mgSAM2mor62ykJBibmOP4fsV//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUCBgT/xAAoEAACAQMDBAEEAwAAAAAAAAABAgMEBREGEiEAEzFBIhQVI3FRU5H/xAAaAQABBQEAAAAAAAAAAAAAAAAAAQIDBAUG/8QAIxEAAQMEAgEFAAAAAAAAAAAAAQIDEQAEITEFQVESE2GBsf/aAAwDAQACEQMRAD8Ai0FsgsV+nr7XU9mhJENTRSERsWJAQLvIGOSVOfAI5GMbXVlp+63axQwTJRW+JmmrcgRpn0qY3HLMFUDkk+MdT9TpdPsxk1MKTbRpK0U8Cq/eLRlWQwuCobbuIYH4kZx6JBWVtTV6uavtFNVJUQSKyrAS7r28KGBwTngEk+z1lNMh2So1yNnx6LxHrdMmNz41nvHZ+6dLrfrbPV01S5qZBbo3rp6QQ7ZY8LgsdxCEJyDhj8sAc9bpEGorxBXuzQwUnblhiSTeH3oHGeMB13ANjOM4B8noy0/eqqr1Ihre4hYPsh3fUSqzYC5UkKuGCH5DygJzjpkt0QpKRYLfCX2Dtlp/xkbSQMjBPON2cc5J99ROo9qAN1Vv7ZFk2AgZiJnU7+K82s7e90sclLDs7zuoTecDLZQ8/pz/AJ0I3vWV0pKKgtlBGKCWgZniraV2WWRXDZDN7GWbAHA5GOnamlaermFMHKI+ZWZ8MT/WD6/Xrx5Jxydbo+sN5p6221M9DJEDJEqHesTZy23MgwCzE7eRyfPQw4lGF0cTeNW6S2/GMiai6IlOr4LdTmxrT/RGnhmuBXcZMEAIMKDhipZixbk+h0lWGSmNqp1gnppGjRIpezIr7ZVRQykg+Rjrj7hadQVVZAjV0Rmp5BVJtpNgLZOW+Evs+eOfeT1ct+mo0t5iaSeJikYVt3yQou1QP4UDIA5ODySfDXVJV3Sck6w8jC48ASf2v//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Perfect Parry</div>
+                                                <div>Uh, they were broken when I got here</div>
                                                 <div class="unlocked">25 Apr 2026</div>
                                             </div>
-                                            <div class="description">Sucessfully parry with perfect timing 15 times.</div>
+                                            <div class="description">Destroy 200 Vandelay security robots.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAwcE/8QALBAAAgEDAgUCBgMBAAAAAAAAAQIDBAURITEABhIiQRNRBxQVMjNCYWJxof/EABcBAQEBAQAAAAAAAAAAAAAAAAMEBQb/xAApEQABAgUBBgcAAAAAAAAAAAABAxEAAgQSIRMiMTJhcfBBUYGRobHh/9oADAMBAAIRAxEAPwBdjoRy/fpK6xOBR56a6jmJT0oxk9ev6qMlW9srqMYZ7TU227cvtNZaiOa3uJFVgCoTGpBBGRjfbYjgHc66utnL1fU810FJVx00DBZoH6PVLdojZdSOonB6SRvoMcZ58MLndKKw3R6Wahit8dVHLHDOWDSTY7VVgCSAQhK+ekeOrjG0ypKZnyG9Y4ZOiNYiVZjtSkB3wf3yducavcKmjqua7bQS1IFVTFp/lDG/qtIV7e3p2AyeKPp1XdeYkratmioqNs08YP3nw3/d9xtvnBi18l29+VYXuL+pcpKU1MlySRggc92c9Ww0/wBAzvxw2C4SVdtEiTRVFTMzOyM+BG+cODgEgMe8DGmW8dORuDbHhiJ1UpE0zMgeHGfluvOF74oTVP0O6VUcgSGijSKmCsCXmf8AM7L/AEj7BkaFyRqRwF+DVuoq7kbmC3X8xQwNWxmETL0ETIuSC2+3SD7An34Z+YbPHzKHpgKgxRzq8jiQKcgglNdMYA0/XA3ORwUobdLQ3+esRCzVsYFQIpAsbMD+RgRkudMsN8ageU1bUrBvipOuTSo9EFpt/s33kwJ5lmNqsFU1Hc6ioo0KqlKlx6ss7jCdIjBI38+DxPIBigSang+W+Vkiiq4jFujzAu8RbPeVUxZOm+Pbg7W0wrrhHFLKVEDCpiwoLK5BXqVjsRr40zpg8VPy9RmiEEZkjdfsmUgMv+AYGP4AGeDvFtpiRSuTnQ0pxk999Y//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYFBwgC/8QALBAAAQQBAwMCBgIDAAAAAAAAAQIDBBEFAAYhEhMxB0EUIjJCUXEVI1KBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEBv/EACURAAEDAwMDBQAAAAAAAAAAAAECAwQAESESQXEFIjFRobHR4f/aAAwDAQACEQMRAD8AWH24e0MpIy8OYmNi0qS1NiOoUVgE0npTVn36VeKsE1VQ+b9SE4XcsnGfAh7bvYT2QhHbdPUgLC0lXsSrwRVeNHeopyx2BkWtwNxbQWu3Lj+XFdfCCg/TfJJBrjxzpU3x6gYncm0oGFVjXi/BisBibYQrvJSErBTz8hF1zd1otpvXYqF9vjNZOBFTISHHE679pN9hax597VbEaTG3K/iMlBX3Ma2hUoLUOn+36Qk39yT1X+h+dDox8zL7gbnzA7HhxFWwyoUVH/Kj/wB/0ObqB9A2XI22nJ8xT8eI9JMRt5DoAvggqBBAT1qKb/KhenSFi14FqTAhLVKHxCnAt940gkCx4JA8Gh+TqZyzaikbUZMjpiqWls+MDgnOfXNCbxfwjWI7G5JTUaHLJZHcCj1cWa6QTxwb9jWstqbbMsttuDtFfSlxQri6BOtI7lwbG7Iz0FSXO0h4OLdLlKSseEgkECgTYrix76TMT6XNM7udL6u9jGldbbKwSTwOFmgKBP7VXgAnVMV1DKTqOaS6NLjw2FBazq8kfXNWdtzGw4u2mMLGfYckYl9Cn4wIS3IKOSVAn3JCwD9wTfGpH+ShT5UwwXkLbbeCCQoX1FPNjyDx76WcziUPJnw2SvvzUtpcWGUlRb+lZsJHzBIKU2QBfnitd4zbZGOLUpam3g200hxoBBAbSUpNAnnlRPPJUfHGoyEnJOaLfcZdaKlLyfy5r//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>You got this, Peppermint?</div>
+                                                <div>Z-shielding's got nothing on us!</div>
                                                 <div class="unlocked">25 Apr 2026</div>
                                             </div>
-                                            <div class="description">Destroy 10 barriers by calling in Peppermint.</div>
+                                            <div class="description">Shatter 10 enemy shields by calling in Macaron.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+10 others...</div>
+                                            <div class="description ellipsis">+15 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2598,7 +2598,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2026, 21:25:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Apr 2026, 22:54:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
