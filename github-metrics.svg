@@ -2544,7 +2544,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2561,32 +2561,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            27 / 71 achievements unlocked
+                                            29 / 71 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEAwX/xAAtEAACAgEDAwIEBgMAAAAAAAABAgMEEQUGEgAhMRNBByIyURQVFiRCYVKBgv/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAQFBv/EACURAAEDBAAFBQAAAAAAAAAAAAECAxEABCExBRITItFBUXHw8f/aAAwDAQACEQMRAD8ANNU/TWtS6hoPN6hIjuUCCHVfYqD5A/if+ckY4r6j6bYl/JKd2mLcinjU9VfUQHuQUzkYz9Pkfbt0N3Lb3fBDUigj0iezFBI8rtCOchBOFQEn6lx2HYnP9dDJ9a1LQviRT3Rc0Gtp4eQIyOH4BmjHIk/5hXBOOwzjGc9Y4aLo3n7FcS1w83ieZSwTGIOSRqfO43Vk0bUqkuiwa/r5QR2rHHTaCBeeeZRSSe5c4JJyFUfbv15zVm1/Xq2qc2ipVsMkK54+rk54lgCR4+bA9wPuAPxSfTZtOo6zt+5Qq24LBmiipai0uVb5mkRCo9M8xkjt98dL9l7j1rWkkFnT4ErQRJDHLI5EryAKS0mO30kE4HllwfOAU0Up6g/Kl1aFtjrNQNjOIHsPNJdXmkgqrIGAgRw0ysRiRcEBD2JILMvYAkkAe/U03zDQ3do1L8oSRpI7CV1ZDiOu8nLEb88NyJQkhQAox5znprqkk9urdh0xGNkuvGaWMyiKQEEHA/kmAVGQAcZOcjrDoG2bFG1GbUzSK0n4l1wqIsioIwyovhuJxksx+o+TnoWyG+71FIsXmrVvqKPeNVNtvpt7b9tRvPS70eo1ZFf9qw9OaAgYOBgMCfJyeQPVN+Gs1SXbxkoErQkszfhElK+rHEGwEbHnGM5/sD26zbs27BdvW7UNeu+pLAxjlnTmuGHHDrj517dsglcj28dNo6Av6RqU7LcLEPPjPE+WDFifPv7f7J6Y64lxEk5qzfXbV1a85UQSRI3HwK//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQH/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFEiExAAYTIkFhQlGBBxQWMoL/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIFB//EACURAAEDAwMEAwEAAAAAAAAAAAECAxEABCEFEkEiMVHwBhMUsf/aAAwDAQACEQMRAD8AxKhHtTPvZLtzyOQ9QbnY4ghYT7FIPIH0q/zZFaepQcEh/FIixUL0PA6GwNOhJ3Ox4AJr7gmqPS5225lWZcf+WxYTgZUkInx1adioA6kcjYkmiRtwK6ZYGCkt95ZqTlH5kuYNKsellwsMJi/SlQQQFLSrWNzuNP4un3lNHajE1mel6a1foL911FOAQZmIgkiJInEwY78Vg7hxDK5WIlyXQhmO446Ek6kqWEGje1UAs8cpINe6y3jZud7layU0OxoENQVGZWmis1sqjxd3fsDQ3ui369d6DtfBY1tyHJczj7qv2KUKHjUsJAKlijqA1j07aj8dV9tTc1J7XxbmTiJGVWwFSfIfGlKiSdwASDRFiuejavF1Wxeef5Sdd0xFgwLm3hM9IHiZJInz2o4+htcZ4PrUhrQoLKFaVFJBBAreyL436UFxcvgcjikdssS5bCqTKdyb7j77sYEEsIUogN6AbAH9jRv7mYcx92VJRBaC2wsF11xVLSu9kgkEbDlNbXzd00K7gYcTFjv4N7Sza0hpxvSCPixyTf46F2246uQMU349e2mn2v1uOjcTJBxHoqCSJqce/OZTGyQR53Ey0im0Fv1tt8kEbG/zZ26HLloU4WDJbcdB1OpACdKjuBXtsfufbqyVmxLK8YnFIQ1o8ig8+D5NR5NJvkcAj236FZbENZOOA8otyUj0PtDQUn4r2+Oja260q3kdqhr+sWjzH521Tu5AmB7jHFf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>We're Jammin'</div>
-                                                <div class="unlocked">26 Apr 2026</div>
-                                            </div>
-                                            <div class="description">Successfully pull off 20 Jam Combos</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAcCBgEDBf/EACsQAAICAQMEAQMDBQAAAAAAAAECAwQRBRIhAAYxQRMiUWEUcbEjQmKBgv/EABgBAAIDAAAAAAAAAAAAAAAAAAECAwUG/8QAJREAAQMDAwMFAAAAAAAAAAAAAQIDEQAEIRIxQQVh0UKhscHh/9oADAMBAAIRAxEAPwCtPVHbWtS6hoW96mQlygwIdVHggHyB/a3/ADnGNtivXEj0avBoaxytdR2rkgFUUHcRtP4DDHo8Y+0J7l/TNNil1fTU1a5AuXFVQjSZYDaoOeduSQPOD1zu4+8tEvQabe7bsrIYYyVqg7XUcq5KHnIHv+eqPKyMT381hGmFvKStQ1RzuDG0/U8UXGdWh1Kmvc0daxEXjaAxqqfHI3KvkAeFDZHPOP36xFSs6z3Al+yzw0abn4I/bMMjP4/f14HOcBa/r1mHSKmvaoscFRTGIE+UI8sioAAvH1DJfJGABz65tEFi1JWTbRjilxhgZf6an/E4yy/Y4GelVKRMVHepU0kLSACZHmBRM8ogiM1t1ZVYbPoGePA/JH3OP9dIvuLs3U9P1mve7caxcs3rE80Vf4Ax2IQ+SDkOBuXyoyR4PHTh51G9KELmKJjn5GyIyTnYo9H7+x4zknEdbiuR3tJvaUB+toSPIm9SyMrLsdGA5wwI5GcFRx0WXC0cUvTrw2jmkeredtjHvS1it2O4r+nXGtXdW7iqVFaFZ441SCYvjY8YXAVfqbcfOVHGMdMftm5YmSwLliR23qypOVDxkou9cLwBv3kL6BH362IIZNcs37lWtBqU8S7VihAMzetx5PBGeTxgZ58EahpMF2skbsySouEnThh+eP46C3AvEQKe/vW3khsCB8c47ftf/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Out in a puff of smoke</div>
+                                                <div>Headliner</div>
                                                 <div class="unlocked">26 Apr 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAvEAACAQIFAgMGBwAAAAAAAAABAgMEEQAFEiExQVEGExUiMlJxkaFCYYHB4fDx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMFBv/EACURAAEDAgUEAwAAAAAAAAAAAAECBBEAAxIhQVHwBRMxYXGB4f/aAAwDAQACEQMRAD8AyMw+k171WXamhvpnpiCGA6EX+x/TjigqTBl+VyzVAEcIQlEkVrMSCwXpzYgbjfbAtMZUpJHznymkiVijQK9zt1Cglbntcc8WxDZtmDVlZVyxSVEFDIwdojKbatNnBFgL6rm4HXucdo7epZJKbYzVp4wz55PsVvuHIsApRrptz9q9qxHU5jTOjA00SmpVu9/d+1/pgOOCXMcxSqkLJTQm8S9z3/v+RtBm/iDzfSsslmgRksseymNbhtV/w/PoCe5voNPJVGlhWVUlnVQHmt5aue+kcfQX5sL2xdi8D4mUkRmdidqq2chyYIO5+aIZFYjUoJHB6j5HkYl/E+TiorKSsgrqajlBGlZ1uJ3DbFVUEs24FtNjbnc4eRsZpZViuFB9tmNzf4f4/fCfO8g9Xzs1EtROII0EcCRR6CqrwSzcEkk7A7nFuqIU4shCEYjO8R7mk/T3UAJTJmulXDm/h/xTQ0mZ1eXZjPmLg1McEKrIgv7zMFB23bf4TcYfrIjEhXBPbg4UZZk1JQyzRxx2kdBqkLlpHB7ttbccAD874Y1dGlTGA7MJANpB7wwunt7ze2rFnJyEzH3wUmVm5aSZ10mv/9k=" alt="" />
                                         <div>
-                                            <div class="description ellipsis">+25 others...</div>
+                                            <div class="name">
+                                                <div>I hit things with a guitar really well.</div>
+                                                <div class="unlocked">26 Apr 2026</div>
+                                            </div>
+                                            <div class="description">Finish a stage with a S rank for every Chorus. (Any difficulty.)</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+27 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2597,7 +2597,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2026, 18:02:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2026, 18:56:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
