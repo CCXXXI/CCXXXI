@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1681" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1703" class="">
     <defs>
         <style/>
     </defs>
@@ -2520,7 +2520,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        291 hours played
+                                        293 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2528,7 +2528,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 Jun 2026
+                                        Last played on 23 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2537,7 +2537,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            35 / 54 achievements unlocked
+                                            36 / 54 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQcDBAYFCP/EACkQAAICAQMEAQIHAAAAAAAAAAECAxEEAAUSBiExQVETFCMyUmGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAZEQADAQEBAAAAAAAAAAAAAAABAhEAAxL/2gAMAwEAAhEDEQA/APN2NBLk5EUGOhkmlYIiDyzE0BqXcsHK23Omw8+FocqE8ZI2IJU/wSNV1YqbUkEex50wIdsj+7XN6c2jL6nxpYGTJbNgLgP2tgV7A+e1kirsXos0OarRl9ourI3FwVPwRWtVsuxJjAbjuwWOCM8/os1UL9n5+AO96pdW7zj7xlRNiYyQRRLxSl40P0/vXye93rA9MG0pBTqnTOHDn79h4+UC0DPboG48wATxv1dVfq9MTcPvN7y5GkhXGxsQjGXGyJVihgoeCt0Ow/IoIqvN3pV480mPMksLFZEPJWHo67k/V27TQiN517J9PkFHLj8XXjx/QHgDQ6IzGjU5OqqQdN13mCfc4caF0aHGiWP8MEKzi7ej3s/54oazWi7s7lnNsfJ0NUVfImk7ejd//9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Busker</div>
+                                                <div class="unlocked">22 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Earn a hundred gold from playing sweet, sweet music in a single playthrough. </div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -2551,18 +2561,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAUGBwj/xAApEAACAgICAgIABQUAAAAAAAABAgMEBREAIRIxBkEHFCIyURMVI0Jh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABoRAAMBAQEBAAAAAAAAAAAAAAECEQASIUH/2gAMAwEAAhEDEQA/APNsMUk8yRQo8ksjBURBtmJ6AA+zzan4HHUwWVuZfNQV8jRTbY2KB5JFbXSu50i+x6Lex74f8NruJxOQtZLMTSI0Uf8ATgWEgShm2C6E+iAPf/eVcrZtfLL98xSZaWhYQ2bWVtwKgYQxkRgqg8FjUjXiDskj+AOYu7dQeAboVF5BPpPzBHwSK5iMRPhM3Bcyl+IOMZJA8cpbXao42jej7KnrmLmikgmkinjeOWNijo6lWVgdEEH0QedCw8lr4laxlotl4akddbcGVowq/iJkAlUeY8GTf6dE7DAn71yZ+Jl7GZjI1ctipmZrCGKdJXDzeSaCvIftmU9n7I4V26h9B0ZF5JHhGH8Gu0YLFutkcVRyS2UAjS0fDxYb/a4IKHv+e9d8WZxiBZs0oXamgVzjp7BsV0kcf45SBpZF0G0GGwwAO+Y5SVIIJBB2CPrlk/IbMlCepPFXaOYHzKRqjMx/2JA7PrlZDaNEcSHVktDKflbGRrMtSTyZqFSX8rXmdD+qXx/ag0VB8QNnetd8F81uU7F2CDH4uljYq6eLR1h5bY62Wcklj19nrhXz1j+3w0ooa6wxAeJeJXZTrtgSOie+Rydnv3wqm047CQb/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>The City Awaits</div>
-                                                <div class="unlocked">18 Jun 2026</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+33 others...</div>
+                                            <div class="description ellipsis">+34 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2573,7 +2573,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2026, 20:22:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2026, 01:45:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
