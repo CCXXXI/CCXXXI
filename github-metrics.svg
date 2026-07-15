@@ -2924,7 +2924,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        38 hours played
+                                        40 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2941,32 +2941,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            18 / 49 achievements unlocked
+                                            21 / 49 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcDBAEFCP/EAC4QAAICAQIEAwYHAAAAAAAAAAECAxEEAAUGEiFBE3GBBzFRYaLBFCMzUmKRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDmuGEzOQGCoot3a+VBdWa7dRqaaXAgBTGiknYdBPM3IL+IQfcnUsreFtkWOhp5nMswvrQ6Ip+pvUaJ/ZdwtLvfF2x/iUeLbp5ZiZ/E8IHwltl56PKbKi67jQCcUmDMAmTDLC5H68Lc3X4lD9iNV5YmhlQEqyt1V1umF1YvyOjP2i8GTbHxDxC2BEW2fByYUWUP4i1MvOgD0ObuLrtoXiqbbpIZDckLrJCO5s04H0n0OgklUTbdBMo/MiZopT3N9UJ+oeg07eBt52/CxOE8eCbGxsuCDKQBeZ1DOFDNTdGZioPYA376GkXjyGNj0DKwpkJNMLujXlrYxSqrJJg5c0MkZtIpRzcp/i3u/sDQOni/iKN9v4yxs5cWXKlSJYxJGQuRGsQVXPKxCkFnIHal89I7Hj8Pb5Z2WnldYoj36G3I/wAF/M6tyET5Bn3HJlyJGFskY5Sx/azH3egPy1iOMzyp0VUXoqWaUXdC/M6D/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgMEAgUHCP/EACsQAAIBAgQFAwQDAAAAAAAAAAECAwURAAQhMQYSE0FRImGRFBZygTJC4f/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAdEQACAgMAAwAAAAAAAAAAAAABAgASAxEhMUFh/9oADAMBAAIRAxEAPwDzTHEZnspAAF2Y7KO5Ptiab6WAcsSSzMRcSueRT7qu5F/JxIx6dPWJTZ5nLyeeVf4g/sk/GEfAkENcabh6oZZ5MrMrzRZyNbvT5FW5kJ7xkAB1PsRqNUZtDcoi2NR5hiH6WYcsqSxMBcyx+tR7lewv4OK80bROA1jcXVhqGHke2GHH2WjoEkXDdPyzR5aEJNNnXX1VCQrcSA6jpAEhFB8k67GNJae8bkmSJw0Y8q1+YD4B+cCtsbEHWpqfM2lCpgrU+Wy/WSBw7LI7akrutvJ0IF9NsLeMqvk6XQvt2kJyNyqsrpoQm5DkWLM2m/bf+tufwOY2DKde484sydPMM0nVlErm5WT13P5b/PzhGx2YEnglEzVQqo6ffyOODKzk6nQvt2rJztyssTvqSm4CE3KsNdtht3wTrlKFHnzMHWSZiwWN10IG7XHY6gH94r5eNIZEkMkhkTUCO6kH8t/jGaxNPJckDwCdtf8AcC46sSDwzHzWQKw6Pfyf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Collective Madness</div>
-                                                <div class="unlocked">13 Jul 2026</div>
+                                                <div>Help A Brother Out</div>
+                                                <div class="unlocked">15 Jul 2026</div>
                                             </div>
-                                            <div class="description">Add one of each ship class to Kenway's fleet</div>
+                                            <div class="description">Complete a Templar Hunt sequence</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwMFAgQI/8QALBAAAgIBAwEGBQUAAAAAAAAAAQIDEQQABRIhBhNBYXGBIiMxUZEUQmKhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADETESIf/aAAwDAQACEQMRAD8A5pSPvCQpUULtjQ1M64cRKRGXLkH71+FL8hRJHrWpVJh27ihp8h6f78FogehY358dJSdoMjB2jsftm34Eff5O2qzTCdogxMrLbhR4cAOX8j5am7Ecla1B6YbxYYliLzYmbAALacRF4x9yRQIHoTrQmjMTKCyPfUFTYIuv80r7b2gydyXdNvyNuU4+dsmRNGeUhIdYjIODO1Gr6n26eJitTbbIjtbwkSR9fqCaYD+j+dCMTuwsRRnkyWu9wVcD5kT8XPjxIHH8EEe40kdkWzjs+y5UDQywpjy4ksM0wRpQMguiqeLMFBo0v269NGUTcLoXyHEiyLHtq7w94zMbD/TbfuE2LFbN3JUGifrxer/OlahYYJql1U60VMyXJ3PEhjMWFhY+LDkqqpMzACSBkIX4FCrbA+HvoVgQDAllZaZ6jj8j9WI9qHvqwlyMjKVBuG4ZeQlD5XeMfOiSa96OsI4e9KhQFVbpeR6dbrr66VVZT5HdaLMM/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwcIBAb/xAAuEAACAQIFAgMHBQAAAAAAAAABAgMEEQAFEiExBlEycZEHEyJBYYGxFSMzQ6H/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAwQRMRIT/9oADAMBAAIRAxEAPwCaY4jK9lIAAuzNwo7n6YLK1HFdIVkncf2udC37hebeZ+2Ck+6y9YkNmmcvJ30r4QfuSfTHVezjo2j6m/UajN6yaiy+liIWSJNTNLa9uOANyOTcAc4R2Cj03JRELsFXs5CI0k1kmSWFyP5EOsX7lebeRwCWNopAGsb7hhuGHcYoyi9nXTfTNBm0s81ZU0T0rLUNNKAyoN2sqJfYX4NzbjE/HTLRPHqJaKQNDfkqxOof4p9cTquFm/PJW/HakD10wqKktLE73/bcrKQd9J8J38iPTDq6czjJsny6PLcrrJYhCPefHIT8TEEt2Jvba3a2EdExQ3FiDsQeGHY406YZBeJ5I22Ohtxf5Wb8XxrqfqNEw4+R8CSBsxrVvW0Ga0GbZHTU8gBpJtU8agx7JfYAnn6/nCmiTTQtKVs8rBUPzAG7EeoHrjRDGkZ1SSSsSLMkZK37gt8x5YJFCZXHhCjYDgAX4GDVUK9hYt15u0W6J//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hunter Hunted</div>
-                                                <div class="unlocked">13 Jul 2026</div>
+                                                <div>Matador</div>
+                                                <div class="unlocked">15 Jul 2026</div>
                                             </div>
-                                            <div class="description">Defeat a Pirate Hunter while at maximum Wanted Level</div>
+                                            <div class="description">Dodge a total of three charge attacks by a Wild Pig</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+16 others...</div>
+                                            <div class="description ellipsis">+19 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2977,7 +2977,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2026, 19:46:36 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Jul 2026, 22:06:29 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
