@@ -2555,7 +2555,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 637k out of 230m users</span>
+                                    <span class="gh">ranked 637k out of 231m users</span>
                                 </div>
                                 <div class="text">Published 64 public repositories</div>
                             </div>
@@ -2992,7 +2992,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2026, 15:27:52 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Jul 2026, 18:01:05 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
