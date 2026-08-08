@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: gh-metrics/metrics@21425f7eb07915371d1079b7d6366ee1c73fa4a8 # master
+      - uses: gh-metrics/metrics@1a5109cfed6faf59ffe606435b73006ca76b0e4d # master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
