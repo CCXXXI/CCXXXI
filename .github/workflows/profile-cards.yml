@@ -21,32 +21,34 @@ jobs:
           THEME: github
           AUTO_PUSH: false
 
+      - uses: vn7n24fzkq/github-profile-summary-cards@e722eded97059b31d7e8ad3ae0267b74ff24172d # main
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          UTC_OFFSET: 8
+          THEME: github_dark
+          AUTO_PUSH: false
+
       - uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
         with:
           card: stats
-          options: show_icons=true
+          options: show_icons=true&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
         with:
-          card: top-langs
-          options: layout=compact&langs_count=6
-          path: profile/top-langs.svg
+          card: stats
+          options: show_icons=true&hide_border=true&theme=github_dark
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
-
-      - uses: soulteary/github-profile-trophy-action@75b2f7c6a6754a6d4cbfc0b179c97f124a540dcb # v1
-        with:
-          options: theme=flat&no-frame=true
-          path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/ profile-summary-card-output/
+          git add -A profile/ profile-summary-card-output/
           git commit -m "Update profile cards" || exit 0
           git push
