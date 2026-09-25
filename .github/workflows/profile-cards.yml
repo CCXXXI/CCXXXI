@@ -29,7 +29,7 @@ jobs:
           THEME: github_dark
           AUTO_PUSH: false
 
-      - uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+      - uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
           options: show_icons=true&hide_border=true
@@ -37,7 +37,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+      - uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
           options: show_icons=true&hide_border=true&theme=github_dark
