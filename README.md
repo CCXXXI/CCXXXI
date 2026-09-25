@@ -1,3 +1,5 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![Stats](profile/stats.svg)
+![Top Languages](profile/top-langs.svg)
+![Trophy](profile/trophy.svg)
+![Profile details](profile-summary-card-output/github/0-profile-details.svg)
+![Productive time](profile-summary-card-output/github/4-productive-time.svg)

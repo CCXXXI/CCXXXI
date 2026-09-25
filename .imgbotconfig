@@ -1,5 +1,6 @@
 {
     "ignoredFiles": [
-        "github-metrics.svg"
+        "profile/*",
+        "profile-summary-card-output/*"
     ]
 }
