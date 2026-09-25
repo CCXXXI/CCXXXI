@@ -20,8 +20,6 @@ jobs:
 
           plugin_activity: yes
 
-          plugin_code: yes
-
           plugin_gists: yes
 
           plugin_habits: yes
@@ -35,10 +33,3 @@ jobs:
           plugin_notable_repositories: yes
 
           plugin_traffic: yes
-
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: "76561198454392247"
